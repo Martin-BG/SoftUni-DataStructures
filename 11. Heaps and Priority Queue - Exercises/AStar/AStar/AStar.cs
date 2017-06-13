@@ -4,10 +4,21 @@ using System.Collections.Generic;
 public class AStar
 {
     private char[,] map;
+	private int mapRows;
+	private int mapColumns;
 
+	private PriorityQueue<Node> queue { get; set; }
+    private Dictionary<Node, Node> parent { get; set; }
+    private Dictionary<Node, int> cost { get; set; }
+	
     public AStar(char[,] map)
     {
+		this.cost = new Dictionary<Node, int>();
+        this.parent = new Dictionary<Node, Node>();
+        this.queue = new PriorityQueue<Node>();
         this.map = map;
+		this.mapRows = this.map.GetLength(0);
+        this.mapColumns = this.map.GetLength(1);
     }
 
     public static int GetH(Node current, Node goal)
@@ -19,79 +30,62 @@ public class AStar
     }
 
     public IEnumerable<Node> GetPath(Node start, Node goal)
-    {
-        var cost = new Dictionary<Node, int>();
-        var parent = new Dictionary<Node, Node>();
-        var queue = new PriorityQueue<Node>();
+    {		
+        this.queue.Enqueue(start);
+        this.parent[start] = null;
+        this.cost[start] = 0;
 
-        queue.Enqueue(start);
-        parent[start] = null;
-        cost[start] = 0;
-
-        while (queue.Count > 0)
+		var steps = new int[4] { 1, -1, 0, 0};
+		
+        while (this.queue.Count > 0)
         {
-            var current = queue.Dequeue();
+            var current = this.queue.Dequeue();
 
             if (current.Equals(goal))
             {
                 break;
             }
 
-            var neighbours = GetNeighbours(current);
+			var currentRow = current.Row;
+			var currentCol = current.Col;
 
-            foreach (var neighbour in neighbours)
-            {
-                var newCost = cost[current] + 1;
+			for (int i = 0, j = 3; i < 4; i++, j--)
+			{
+				var row = currentRow + steps[i];
+				var col = currentCol + steps[j];
+				
+				if (IsValid(row, col))
+				{
+					var neighbour = new Node(row, col);
+					
+					var newCost = cost[current] + 1;
 
-                if (!cost.ContainsKey(neighbour) || newCost < cost[neighbour])
-                {
-                    cost[neighbour] = newCost;
-                    neighbour.F = newCost + GetH(neighbour, goal);
-                    queue.Enqueue(neighbour);
-                    parent[neighbour] = current;
-                }
-            }
+					if (!this.cost.ContainsKey(neighbour) || newCost < this.cost[neighbour])
+					{
+						this.cost[neighbour] = newCost;
+						neighbour.F = newCost + GetH(neighbour, goal);
+						this.queue.Enqueue(neighbour);
+						parent[neighbour] = current;
+					}
+				}
+			}
         }
 
         return GetPath(parent, start, goal);
     }
 
-    private void AddNeighbour(int row, int col, List<Node> result)
+    private bool IsValid(int row, int col)
     {
-        if (InBounds(row, col) && IsPassable(row, col))
-        {
-            var neighbour = new Node(row, col);
-            result.Add(neighbour);
-        }
-    }
-    private IEnumerable<Node> GetNeighbours(Node current)
-    {
-        var result = new List<Node>();
-
-        AddNeighbour(current.Row - 1, current.Col, result);
-        AddNeighbour(current.Row, current.Col + 1, result);
-        AddNeighbour(current.Row + 1, current.Col, result);
-        AddNeighbour(current.Row, current.Col - 1, result);
-
-        return result;
-    }
-
-    private bool IsPassable(int row, int col)
-    {
-        return this.map[row, col] != 'W';
-    }
-
-    private bool InBounds(int row, int col)
-    {
-        return row >= 0 && row < this.map.GetLength(0)
-               && col >= 0 && col < this.map.GetLength(1);
+        return row >= 0 && row < this.mapRows
+               && col >= 0 && col < this.mapColumns
+			   && this.map[row, col] != 'W';
     }
 
     private IEnumerable<Node> GetPath(Dictionary<Node, Node> parent, Node start, Node goal)
     {
         var path = new Stack<Node>();
 
-        if (!parent.ContainsKey(goal))
+        if (!this.parent.ContainsKey(goal))
         {
             path.Push(start);
             return path;
@@ -102,7 +96,7 @@ public class AStar
         while (current != null)
         {
             path.Push(current);
-            current = parent[current];
+            current = this.parent[current];
         }
 
         return path;
