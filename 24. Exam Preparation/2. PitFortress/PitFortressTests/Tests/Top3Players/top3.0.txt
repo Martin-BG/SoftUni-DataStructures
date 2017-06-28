@@ -1,0 +1,11661 @@
+player Pesho 20
+player Stamat 33
+player Gosho 29
+player Zelka 1
+player Arpajik 7
+player Domat 94
+player Toncho 89
+player Poncho 5
+minion 10530
+minion 46369
+minion 36593
+minion 7421
+minion 45317
+minion 1705
+minion 34242
+minion 7301
+minion 25620
+minion 46016
+minion 17155
+minion 4493
+minion 22097
+minion 2782
+minion 28608
+minion 45370
+minion 12206
+minion 4634
+minion 38776
+minion 46767
+minion 39238
+minion 45229
+minion 18573
+minion 40822
+minion 303
+minion 21341
+minion 7902
+minion 14184
+minion 9624
+minion 19402
+minion 24654
+minion 12283
+minion 36573
+minion 47163
+minion 43785
+minion 44238
+minion 5027
+minion 14663
+minion 1641
+minion 12101
+minion 36828
+minion 41078
+minion 25278
+minion 4556
+minion 49936
+minion 1840
+minion 19045
+minion 7486
+minion 38151
+minion 19590
+minion 38791
+minion 48903
+minion 8247
+minion 47883
+minion 13467
+minion 15301
+minion 27796
+minion 45770
+minion 7118
+minion 23975
+minion 43802
+minion 20058
+minion 47677
+minion 6217
+minion 21361
+minion 4872
+minion 17919
+minion 24934
+minion 8996
+minion 34370
+minion 40342
+minion 47543
+minion 2993
+minion 26675
+minion 9938
+minion 48159
+minion 19950
+minion 14017
+minion 40886
+minion 48463
+minion 2296
+minion 416
+minion 26033
+minion 40033
+minion 30611
+minion 25750
+minion 4035
+minion 38689
+minion 33696
+minion 28484
+minion 16441
+minion 9256
+minion 7545
+minion 27665
+minion 18298
+minion 16770
+minion 43401
+minion 19061
+minion 33194
+minion 45063
+minion 33920
+minion 44111
+minion 48489
+minion 3780
+minion 29248
+minion 41248
+minion 45910
+minion 31572
+minion 37945
+minion 15307
+minion 45350
+minion 13779
+minion 4884
+minion 8654
+minion 21679
+minion 43385
+minion 44024
+minion 7643
+minion 25606
+minion 45611
+minion 837
+minion 29229
+minion 41237
+minion 30511
+minion 17929
+minion 31085
+minion 39997
+minion 25327
+minion 8376
+minion 43167
+minion 4758
+minion 889
+minion 30822
+minion 45822
+minion 14542
+minion 8184
+minion 1927
+minion 22252
+minion 10785
+minion 39363
+minion 29840
+minion 22463
+minion 744
+minion 18389
+minion 33134
+minion 2662
+minion 4372
+minion 48890
+minion 5986
+minion 24912
+minion 22745
+minion 35758
+minion 43455
+minion 37583
+minion 44226
+minion 4691
+minion 2873
+minion 17977
+minion 35851
+minion 48162
+minion 1250
+minion 20583
+minion 23195
+minion 44777
+minion 10549
+minion 44460
+minion 32956
+minion 9061
+minion 44112
+minion 13494
+minion 41458
+minion 21772
+minion 46857
+minion 36242
+minion 15770
+minion 28373
+minion 28484
+minion 22848
+minion 47377
+minion 15267
+minion 26713
+minion 41106
+minion 19341
+minion 33463
+minion 20422
+minion 18999
+minion 7434
+minion 43239
+minion 1596
+minion 9851
+minion 5311
+minion 33949
+minion 36401
+minion 12623
+minion 38112
+minion 9257
+minion 49267
+minion 5967
+minion 7840
+minion 38674
+minion 19705
+minion 45311
+minion 4778
+minion 42491
+minion 33454
+minion 973
+minion 38900
+minion 7212
+minion 21812
+minion 15852
+minion 26206
+minion 30025
+minion 20600
+minion 20583
+minion 21449
+minion 10144
+minion 1241
+minion 39732
+minion 24355
+minion 41549
+minion 37026
+minion 39716
+minion 7465
+minion 34260
+minion 8183
+minion 7509
+minion 35371
+minion 34234
+minion 48130
+minion 6513
+minion 29106
+minion 22517
+minion 15008
+minion 8703
+minion 45561
+minion 31402
+minion 36327
+minion 26849
+minion 9
+minion 19448
+minion 30099
+minion 222
+minion 21426
+minion 35743
+minion 33644
+minion 25286
+minion 13349
+minion 15817
+minion 41174
+minion 27968
+minion 8015
+minion 9534
+minion 31611
+minion 16290
+minion 1647
+minion 29988
+minion 37845
+minion 20517
+minion 34307
+minion 25945
+minion 15601
+minion 4665
+minion 9081
+minion 15299
+minion 36745
+minion 3689
+minion 15016
+minion 11897
+minion 25022
+minion 40046
+minion 23816
+minion 24391
+minion 39722
+minion 4906
+minion 11450
+minion 36804
+minion 18290
+minion 21721
+minion 616
+minion 32897
+minion 44159
+minion 19553
+minion 43060
+minion 20162
+minion 48497
+minion 19571
+minion 40905
+minion 48717
+minion 7055
+minion 15573
+minion 43556
+minion 15810
+minion 42542
+minion 24064
+minion 3846
+minion 25433
+minion 41140
+minion 6127
+minion 48997
+minion 29955
+minion 10269
+minion 1451
+minion 40795
+minion 1127
+minion 4151
+minion 33623
+minion 19812
+minion 26705
+minion 4840
+minion 14843
+minion 11698
+minion 16124
+minion 19901
+minion 1410
+minion 31785
+minion 46048
+minion 11605
+minion 38919
+minion 16801
+minion 17174
+minion 12783
+minion 16299
+minion 4842
+minion 9448
+minion 46490
+minion 8006
+minion 31849
+minion 15658
+minion 1059
+minion 36016
+minion 45663
+minion 12162
+minion 22723
+minion 20660
+minion 22628
+minion 42708
+minion 28758
+minion 41932
+minion 16010
+minion 14874
+minion 49759
+minion 14199
+minion 43877
+minion 42211
+minion 3874
+minion 27431
+minion 45908
+minion 41132
+minion 42279
+minion 7798
+minion 13827
+minion 2220
+minion 39326
+minion 31823
+minion 17171
+minion 43969
+minion 46609
+minion 31346
+minion 4636
+minion 46145
+minion 1773
+minion 4154
+minion 25645
+minion 18823
+minion 19179
+minion 49536
+minion 43401
+minion 49240
+minion 28781
+minion 39077
+minion 17289
+minion 19672
+minion 22908
+minion 1926
+minion 17414
+minion 48583
+minion 22422
+minion 12630
+minion 5574
+minion 19059
+minion 12097
+minion 40717
+minion 23378
+minion 43260
+minion 22189
+minion 43443
+minion 22835
+minion 40899
+minion 3489
+minion 28658
+minion 46098
+minion 47412
+minion 37295
+minion 19865
+minion 13100
+minion 45605
+minion 38554
+minion 25053
+minion 23031
+minion 4338
+minion 34030
+minion 46668
+minion 12350
+minion 3202
+minion 40509
+minion 44154
+minion 29311
+minion 37399
+minion 14408
+minion 18587
+minion 21547
+minion 33979
+minion 25772
+minion 35577
+minion 34047
+minion 11056
+minion 30775
+minion 32385
+minion 46634
+minion 25736
+minion 26700
+minion 2501
+minion 45751
+minion 123
+minion 42978
+minion 19876
+minion 32376
+minion 3043
+minion 38826
+minion 21809
+minion 10029
+minion 47368
+minion 39598
+minion 1235
+minion 35028
+minion 15429
+minion 28367
+minion 20176
+minion 2751
+minion 28034
+minion 14131
+minion 35436
+minion 26490
+minion 34901
+minion 7110
+minion 12119
+minion 21640
+minion 1718
+minion 35817
+minion 2044
+minion 14830
+minion 6169
+minion 28419
+minion 47295
+minion 27638
+minion 31528
+minion 917
+minion 12226
+minion 10223
+minion 20632
+minion 11778
+minion 26267
+minion 48572
+minion 42599
+minion 8558
+minion 24179
+minion 44380
+minion 24536
+minion 548
+minion 18618
+minion 32688
+minion 10598
+minion 29633
+minion 18599
+minion 11604
+minion 41263
+minion 26010
+minion 10849
+minion 43013
+minion 30859
+minion 48236
+minion 30658
+minion 17226
+minion 36782
+minion 6978
+minion 3860
+minion 18948
+minion 42303
+minion 23596
+minion 3500
+minion 14511
+minion 16140
+minion 9953
+minion 32118
+minion 16256
+minion 37863
+minion 36863
+minion 33891
+minion 26343
+minion 32930
+minion 17738
+minion 47103
+minion 1169
+minion 17198
+minion 19355
+minion 4232
+minion 26535
+minion 9820
+minion 35690
+minion 36374
+minion 5517
+minion 40067
+minion 19213
+minion 29363
+minion 22395
+minion 31119
+minion 9041
+minion 11790
+minion 35620
+minion 4697
+minion 5231
+minion 2077
+minion 940
+minion 47048
+minion 4106
+minion 16547
+minion 644
+minion 47515
+minion 2343
+minion 23740
+minion 4399
+minion 42119
+minion 34506
+minion 10082
+minion 13121
+minion 1133
+minion 29489
+minion 27
+minion 17427
+minion 2746
+minion 27325
+minion 9128
+minion 6612
+minion 37222
+minion 47982
+minion 24444
+minion 46927
+minion 30589
+minion 9722
+minion 35136
+minion 28822
+minion 25073
+minion 48270
+minion 21645
+minion 27699
+minion 15660
+minion 46163
+minion 4120
+minion 13092
+minion 2807
+minion 3587
+minion 29019
+minion 7476
+minion 11950
+minion 31975
+minion 13398
+minion 5561
+minion 9131
+minion 16242
+minion 21262
+minion 1630
+minion 9014
+minion 44362
+minion 32873
+minion 27372
+minion 46103
+minion 45465
+minion 13717
+minion 49066
+minion 29662
+minion 19620
+minion 20054
+minion 37792
+minion 17207
+minion 44918
+minion 29326
+minion 43849
+minion 12860
+minion 32383
+minion 47461
+minion 4970
+minion 25368
+minion 36934
+minion 14620
+minion 49159
+minion 48305
+minion 1651
+minion 44662
+minion 5246
+minion 34583
+minion 18882
+minion 37795
+minion 14347
+minion 38460
+minion 33506
+minion 19807
+minion 30710
+minion 15396
+minion 44273
+minion 31595
+minion 20194
+minion 32445
+minion 5054
+minion 33429
+minion 33186
+minion 33532
+minion 41227
+minion 40269
+minion 17031
+minion 2648
+minion 19549
+minion 42701
+minion 26748
+minion 18780
+minion 16292
+minion 26261
+minion 22079
+minion 29742
+minion 33714
+minion 29066
+minion 44451
+minion 803
+minion 8471
+minion 14482
+minion 10780
+minion 31824
+minion 5707
+minion 49332
+minion 33700
+minion 25111
+minion 48615
+minion 28452
+minion 18586
+minion 787
+minion 27266
+minion 22525
+minion 20314
+minion 3505
+minion 31433
+minion 15627
+minion 7078
+minion 11382
+minion 27630
+minion 2598
+minion 15034
+minion 26181
+minion 11047
+minion 45566
+minion 22168
+minion 7244
+minion 47727
+minion 968
+minion 31681
+minion 15207
+minion 37144
+minion 19391
+minion 23974
+minion 40571
+minion 22649
+minion 1361
+minion 27825
+minion 41894
+minion 6568
+minion 41920
+minion 4033
+minion 41096
+minion 24114
+minion 25960
+minion 41514
+minion 43766
+minion 5947
+minion 18574
+minion 48309
+minion 18087
+minion 21987
+minion 33068
+minion 23172
+minion 5872
+minion 49448
+minion 34599
+minion 20776
+minion 10140
+minion 27164
+minion 26455
+minion 27383
+minion 47647
+minion 46770
+minion 3379
+minion 13642
+minion 7875
+minion 48550
+minion 29742
+minion 30855
+minion 30071
+minion 37802
+minion 15184
+minion 4814
+minion 35710
+minion 48564
+minion 23937
+minion 2066
+minion 35087
+minion 4052
+minion 28401
+minion 1297
+minion 29153
+minion 2658
+minion 13594
+minion 43219
+minion 4075
+minion 46218
+minion 18101
+minion 41123
+minion 38050
+minion 30584
+minion 17684
+minion 14730
+minion 30112
+minion 14537
+minion 6386
+minion 44326
+minion 20735
+minion 12317
+minion 33638
+minion 45216
+minion 26204
+minion 37718
+minion 18237
+minion 30285
+minion 6803
+minion 28254
+minion 37462
+minion 7308
+minion 25510
+minion 32532
+minion 35689
+minion 6088
+minion 48763
+minion 25158
+minion 48229
+minion 44988
+minion 33176
+minion 10159
+minion 9567
+minion 11657
+minion 30449
+minion 38619
+minion 42805
+minion 49486
+minion 20117
+minion 453
+minion 24701
+minion 21173
+minion 42178
+minion 29611
+minion 31331
+minion 22769
+minion 20413
+minion 33185
+minion 25093
+minion 41435
+minion 34421
+minion 33309
+minion 36415
+minion 25821
+minion 8755
+minion 10793
+minion 15612
+minion 5517
+minion 44895
+minion 11596
+minion 15967
+minion 4954
+minion 16307
+minion 11397
+minion 11150
+minion 10575
+minion 2750
+minion 21981
+minion 14766
+minion 37584
+minion 44912
+minion 18750
+minion 10167
+minion 6349
+minion 3552
+minion 16289
+minion 15129
+minion 45899
+minion 1201
+minion 12920
+minion 35674
+minion 15578
+minion 64
+minion 6794
+minion 10567
+minion 49866
+minion 23743
+minion 33745
+minion 2901
+minion 19656
+minion 23007
+minion 37288
+minion 4591
+minion 8521
+minion 34486
+minion 19747
+minion 4865
+minion 30780
+minion 18461
+minion 20755
+minion 20019
+minion 48431
+minion 18418
+minion 37508
+minion 46522
+minion 15670
+minion 23141
+minion 30066
+minion 22268
+minion 42466
+minion 45663
+minion 19712
+minion 4316
+minion 31975
+minion 25921
+minion 388
+minion 4889
+minion 9513
+minion 830
+minion 11283
+minion 36832
+minion 19004
+minion 19080
+minion 45110
+minion 14577
+minion 7624
+minion 14159
+minion 1646
+minion 21863
+minion 33805
+minion 11423
+minion 34348
+minion 27438
+minion 30446
+minion 42900
+minion 37243
+minion 47159
+minion 12555
+minion 10271
+minion 44896
+minion 26725
+minion 43677
+minion 11477
+minion 10434
+minion 23992
+minion 3294
+minion 32971
+minion 22616
+minion 32599
+minion 34097
+minion 14857
+minion 45351
+minion 29950
+minion 7177
+minion 33923
+minion 1014
+minion 29350
+minion 23308
+minion 22931
+minion 38898
+minion 1511
+minion 21494
+minion 8202
+minion 38463
+minion 31043
+minion 11315
+minion 42273
+minion 23870
+minion 39074
+minion 38678
+minion 3229
+minion 42333
+minion 49242
+minion 5934
+minion 34558
+minion 43154
+minion 7527
+minion 8646
+minion 21117
+minion 11283
+minion 24652
+minion 41543
+minion 19047
+minion 37765
+minion 18947
+minion 16071
+minion 4398
+minion 20261
+minion 46522
+minion 41886
+minion 7892
+minion 23850
+minion 39624
+minion 21373
+minion 43385
+minion 5230
+minion 35474
+minion 23013
+minion 29390
+minion 12677
+minion 11020
+minion 9101
+minion 33541
+minion 43920
+minion 30868
+minion 22523
+minion 46109
+minion 24015
+minion 22619
+minion 40768
+minion 43487
+minion 20704
+minion 2191
+minion 11647
+minion 14245
+minion 9967
+minion 2447
+minion 20437
+minion 19516
+minion 14971
+minion 6916
+minion 22012
+minion 27347
+minion 47188
+minion 30786
+minion 29378
+minion 2708
+minion 27869
+minion 12548
+minion 29327
+minion 7680
+minion 34514
+minion 29255
+minion 8439
+minion 262
+minion 15550
+minion 8001
+minion 25126
+minion 6896
+minion 46423
+minion 19962
+minion 30382
+minion 47641
+minion 5754
+minion 48398
+minion 37188
+minion 21659
+minion 27976
+minion 7127
+minion 33417
+minion 2782
+minion 15036
+minion 3497
+minion 14419
+minion 5761
+minion 39007
+minion 31754
+minion 36352
+minion 13133
+minion 1489
+minion 19815
+minion 18240
+minion 11466
+minion 43291
+minion 33088
+minion 8973
+minion 41448
+minion 43751
+minion 11385
+minion 48694
+minion 1965
+minion 27320
+minion 13540
+minion 23092
+minion 45009
+minion 26533
+minion 24370
+minion 21592
+minion 48789
+minion 43598
+minion 7718
+minion 24731
+minion 20741
+minion 29131
+minion 26545
+minion 42643
+minion 31016
+minion 14836
+minion 2678
+minion 11254
+minion 33796
+minion 21649
+minion 11993
+minion 5406
+minion 26608
+minion 1721
+minion 18915
+minion 4350
+minion 22665
+minion 39425
+minion 45739
+minion 27908
+minion 16591
+minion 8433
+minion 31451
+minion 25462
+minion 1495
+minion 30404
+minion 19409
+minion 29227
+minion 14636
+minion 10161
+minion 37563
+minion 19535
+minion 43771
+minion 45083
+minion 47499
+minion 32335
+minion 16746
+minion 40445
+minion 27956
+minion 26612
+minion 41072
+minion 130
+minion 14897
+minion 30316
+minion 15327
+minion 8134
+minion 46484
+minion 43288
+minion 7618
+minion 20020
+minion 48927
+minion 9364
+minion 47859
+minion 29810
+minion 8140
+minion 12307
+minion 47679
+minion 1082
+minion 41147
+minion 612
+minion 45426
+minion 23451
+minion 46617
+minion 23634
+minion 34085
+minion 42457
+minion 11635
+minion 31524
+minion 4222
+minion 36580
+minion 37604
+minion 32220
+minion 11469
+minion 19126
+minion 36836
+minion 16460
+minion 43535
+minion 1135
+minion 10134
+minion 43361
+minion 33919
+minion 26121
+minion 21608
+minion 44616
+minion 11234
+minion 28198
+minion 21676
+minion 13961
+minion 36942
+minion 35191
+minion 34656
+minion 15663
+minion 49297
+minion 27343
+minion 31185
+minion 17620
+minion 3513
+minion 41263
+minion 46230
+minion 22869
+minion 46498
+minion 14959
+minion 39065
+minion 21037
+minion 32416
+minion 16706
+minion 47895
+minion 28732
+minion 42973
+minion 41679
+minion 18772
+minion 46544
+minion 40947
+minion 47785
+minion 16693
+minion 19305
+minion 1842
+minion 2001
+minion 12400
+minion 5886
+minion 20781
+minion 47674
+minion 44581
+minion 19031
+minion 1924
+minion 21940
+minion 32923
+minion 34125
+minion 37940
+minion 19215
+minion 12947
+minion 2272
+minion 4904
+minion 37264
+minion 46863
+minion 18959
+minion 37055
+minion 571
+minion 12200
+minion 44528
+minion 30303
+minion 42943
+minion 20987
+minion 45263
+minion 16418
+minion 38111
+minion 24715
+minion 1511
+minion 10650
+minion 11880
+minion 15777
+minion 1511
+minion 28862
+minion 40343
+minion 2088
+minion 48823
+minion 20377
+minion 20034
+minion 19113
+minion 10475
+minion 33782
+minion 13769
+minion 40791
+minion 23758
+minion 28732
+minion 16500
+minion 41639
+minion 3682
+minion 922
+minion 47733
+minion 32249
+minion 1271
+minion 39801
+minion 17871
+minion 25583
+minion 27837
+minion 26687
+minion 49318
+minion 2612
+minion 13812
+minion 47225
+minion 31412
+minion 23475
+minion 26060
+minion 3437
+minion 11435
+minion 23409
+minion 14560
+minion 35176
+minion 48039
+minion 48581
+minion 17021
+minion 31457
+minion 1725
+minion 10745
+minion 16534
+minion 2151
+minion 47228
+minion 16530
+minion 49918
+minion 46471
+minion 21032
+minion 588
+minion 12916
+minion 29631
+minion 14506
+minion 11710
+minion 10991
+minion 14760
+minion 24250
+minion 22135
+minion 21058
+minion 17421
+minion 5301
+minion 13249
+minion 2370
+minion 40294
+minion 14731
+minion 20320
+minion 17296
+minion 43090
+minion 27079
+minion 18506
+minion 2882
+minion 49151
+minion 15227
+minion 19814
+minion 38076
+minion 7125
+minion 9049
+minion 25686
+minion 29458
+minion 32788
+minion 2694
+minion 17340
+minion 26192
+minion 30823
+minion 10558
+minion 46428
+minion 38931
+minion 49724
+minion 12418
+minion 49799
+minion 10926
+minion 25903
+minion 27522
+minion 49600
+minion 26155
+minion 38475
+minion 8375
+minion 26239
+minion 37419
+minion 26907
+minion 49233
+minion 6827
+minion 19392
+minion 2526
+minion 47706
+minion 13764
+minion 14403
+minion 44691
+minion 23634
+minion 3865
+minion 5711
+minion 48564
+minion 42677
+minion 38270
+minion 14727
+minion 37961
+minion 37056
+minion 21547
+minion 29735
+minion 18303
+minion 31389
+minion 17572
+minion 30671
+minion 27279
+minion 7580
+minion 26978
+minion 21628
+minion 15627
+minion 43658
+minion 49600
+minion 48750
+minion 32809
+minion 38266
+minion 2550
+minion 33554
+minion 45866
+minion 47947
+minion 23666
+minion 33116
+minion 46794
+minion 32025
+minion 44239
+minion 26090
+minion 8553
+minion 44088
+minion 12362
+minion 33226
+minion 39252
+minion 34873
+minion 38194
+minion 1418
+minion 36827
+minion 46504
+minion 19116
+minion 45518
+minion 31661
+minion 26156
+minion 42112
+minion 44945
+minion 20727
+minion 42136
+minion 48775
+minion 1033
+minion 24033
+minion 5114
+minion 22902
+minion 10297
+minion 40126
+minion 4715
+minion 18860
+minion 40013
+minion 13389
+minion 38430
+minion 32941
+minion 36277
+minion 37150
+minion 41481
+minion 22118
+minion 33191
+minion 45218
+minion 43751
+minion 32376
+minion 30754
+minion 5464
+minion 48182
+minion 11922
+minion 36304
+minion 19149
+minion 7032
+minion 1893
+minion 19710
+minion 5835
+minion 28720
+minion 12389
+minion 4657
+minion 33249
+minion 43206
+minion 2056
+minion 3439
+minion 21185
+minion 2064
+minion 43100
+minion 34537
+minion 16012
+minion 48181
+minion 38028
+minion 48397
+minion 13563
+minion 32839
+minion 8368
+minion 40179
+minion 4037
+minion 8920
+minion 49727
+minion 26975
+minion 9760
+minion 18021
+minion 45569
+minion 25851
+minion 43191
+minion 36597
+minion 41147
+minion 33093
+minion 2821
+minion 49150
+minion 34178
+minion 34668
+minion 26041
+minion 28283
+minion 3028
+minion 43944
+minion 39425
+minion 18679
+minion 12005
+minion 43153
+minion 650
+minion 47839
+minion 14742
+minion 7282
+minion 10154
+minion 13525
+minion 22741
+minion 36310
+minion 48664
+minion 11714
+minion 15672
+minion 46914
+minion 28993
+minion 35413
+minion 44897
+minion 15228
+minion 47636
+minion 26205
+minion 10247
+minion 34588
+minion 10916
+minion 10007
+minion 31715
+minion 16861
+minion 14002
+minion 3359
+minion 22356
+minion 35280
+minion 29810
+minion 14424
+minion 753
+minion 35357
+minion 46915
+minion 6574
+minion 26325
+minion 11920
+minion 3278
+minion 38286
+minion 15697
+minion 29666
+minion 13856
+minion 4837
+minion 34428
+minion 41107
+minion 33477
+minion 37263
+minion 5675
+minion 40627
+minion 33385
+minion 37800
+minion 46307
+minion 13220
+minion 8432
+minion 27417
+minion 32237
+minion 40643
+minion 16124
+minion 47881
+minion 43279
+minion 6794
+minion 41168
+minion 37461
+minion 6499
+minion 34240
+minion 10960
+minion 30314
+minion 49999
+minion 22419
+minion 9088
+minion 32977
+minion 11949
+minion 9350
+minion 10507
+minion 30581
+minion 20732
+minion 6079
+minion 25578
+minion 40607
+minion 33383
+minion 26739
+minion 47683
+minion 31729
+minion 1894
+minion 42010
+minion 18116
+minion 37533
+minion 26925
+minion 19497
+minion 24336
+minion 35681
+minion 45796
+minion 5397
+minion 45006
+minion 8902
+minion 38497
+minion 26394
+minion 48337
+minion 188
+minion 30147
+minion 3162
+minion 37264
+minion 33256
+minion 31538
+minion 408
+minion 25850
+minion 36956
+minion 2712
+minion 27850
+minion 6685
+minion 26158
+minion 15064
+minion 25516
+minion 14497
+minion 16540
+minion 9110
+minion 9439
+minion 35566
+minion 14489
+minion 16123
+minion 23427
+minion 3388
+minion 30501
+minion 48082
+minion 23406
+minion 37180
+minion 6551
+minion 14343
+minion 1604
+minion 42083
+minion 44337
+minion 7741
+minion 25390
+minion 10460
+minion 30220
+minion 39474
+minion 14427
+minion 190
+minion 1485
+minion 16160
+minion 31159
+minion 34820
+minion 49074
+minion 12812
+minion 48178
+minion 20617
+minion 20280
+minion 40900
+minion 28465
+minion 49792
+minion 29057
+minion 40828
+minion 33848
+minion 34064
+minion 6719
+minion 49774
+minion 6763
+minion 35173
+minion 8132
+minion 13228
+minion 19298
+minion 22612
+minion 1108
+minion 35767
+minion 12347
+minion 18416
+minion 39674
+minion 15056
+minion 34276
+minion 27066
+minion 44683
+minion 9249
+minion 34080
+minion 48329
+minion 34963
+minion 38607
+minion 4313
+minion 17688
+minion 49904
+minion 2789
+minion 16899
+minion 15651
+minion 35878
+minion 1812
+minion 13026
+minion 3509
+minion 23893
+minion 41325
+minion 3740
+minion 30446
+minion 32710
+minion 29253
+minion 42057
+minion 38257
+minion 46861
+minion 8547
+minion 33712
+minion 13307
+minion 464
+minion 29761
+minion 30943
+minion 5223
+minion 6623
+minion 1398
+minion 5109
+minion 19807
+minion 6747
+minion 35518
+minion 49100
+minion 18112
+minion 45460
+minion 39074
+minion 35269
+minion 5343
+minion 46328
+minion 3646
+minion 36734
+minion 49295
+minion 22741
+minion 8838
+minion 44522
+minion 48348
+minion 11315
+minion 3829
+minion 44355
+minion 15429
+minion 17191
+minion 45823
+minion 1467
+minion 26416
+minion 4894
+minion 41006
+minion 17223
+minion 20142
+minion 21845
+minion 11676
+minion 9027
+minion 34479
+minion 46703
+minion 43218
+minion 46762
+minion 38374
+minion 42224
+minion 35627
+minion 34986
+minion 43636
+minion 43983
+minion 36714
+minion 41929
+minion 43214
+minion 21812
+minion 34416
+minion 40566
+minion 41626
+minion 35238
+minion 32594
+minion 43908
+minion 2793
+minion 7043
+minion 39679
+minion 2616
+minion 10923
+minion 34051
+minion 22684
+minion 13217
+minion 4453
+minion 21851
+minion 15127
+minion 33497
+minion 34652
+minion 44619
+minion 2254
+minion 2592
+minion 29523
+minion 12076
+minion 6148
+minion 6123
+minion 25688
+minion 18843
+minion 719
+minion 21445
+minion 30476
+minion 3893
+minion 8252
+minion 4603
+minion 20478
+minion 439
+minion 25597
+minion 34903
+minion 39251
+minion 17768
+minion 6233
+minion 27436
+minion 7023
+minion 40601
+minion 35838
+minion 4323
+minion 19540
+minion 22409
+minion 30532
+minion 21784
+minion 28856
+minion 3217
+minion 7276
+minion 48595
+minion 19557
+minion 31824
+minion 11043
+minion 29549
+minion 29090
+minion 26470
+minion 18219
+minion 33950
+minion 6323
+minion 18233
+minion 22139
+minion 7030
+minion 25798
+minion 18080
+minion 42739
+minion 4013
+minion 46253
+minion 30223
+minion 44245
+minion 16884
+minion 38385
+minion 24818
+minion 45568
+minion 38921
+minion 26238
+minion 1824
+minion 36583
+minion 3278
+minion 38310
+minion 28934
+minion 42588
+minion 27259
+minion 46616
+minion 9657
+minion 35046
+minion 38653
+minion 39396
+minion 46047
+minion 5812
+minion 12780
+minion 49548
+minion 22283
+minion 21113
+minion 38790
+minion 18462
+minion 28808
+minion 28524
+minion 1459
+minion 29670
+minion 26518
+minion 25531
+minion 48633
+minion 8971
+minion 40392
+minion 10210
+minion 44739
+minion 36256
+minion 22122
+minion 3311
+minion 27266
+minion 39887
+minion 14941
+minion 45640
+minion 27388
+minion 25644
+minion 44880
+minion 10413
+minion 16141
+minion 33034
+minion 4086
+minion 14617
+minion 206
+minion 24411
+minion 31465
+minion 17336
+minion 16102
+minion 3705
+minion 6777
+minion 20458
+minion 47430
+minion 23300
+minion 35123
+minion 23607
+minion 11791
+minion 3403
+minion 43955
+minion 18287
+minion 6224
+minion 49446
+minion 40306
+minion 2396
+minion 17274
+minion 42736
+minion 28546
+minion 22892
+minion 34606
+minion 26642
+minion 43724
+minion 13145
+minion 23582
+minion 18394
+minion 12382
+minion 18425
+minion 25583
+minion 11901
+minion 25325
+minion 24221
+minion 27506
+minion 23056
+minion 44107
+minion 41033
+minion 29478
+minion 1663
+minion 5881
+minion 3965
+minion 4763
+minion 41333
+minion 33848
+minion 23984
+minion 31689
+minion 26592
+minion 4188
+minion 16695
+minion 42727
+minion 1689
+minion 47342
+minion 7470
+minion 45865
+minion 8572
+minion 32730
+minion 39459
+minion 9980
+minion 43632
+minion 46875
+minion 29035
+minion 10918
+minion 16698
+minion 48023
+minion 49889
+minion 28078
+minion 19734
+minion 40780
+minion 33167
+minion 5338
+minion 49273
+minion 22917
+minion 15610
+minion 36854
+minion 24580
+minion 18129
+minion 43272
+minion 42794
+minion 19739
+minion 31456
+minion 46989
+minion 14206
+minion 45687
+minion 25697
+minion 23894
+minion 14558
+minion 17854
+minion 28356
+minion 18934
+minion 40326
+minion 4648
+minion 31052
+minion 35846
+minion 4788
+minion 26845
+minion 43047
+minion 38065
+minion 43310
+minion 33959
+minion 45906
+minion 11955
+minion 35812
+minion 21021
+minion 11356
+minion 43454
+minion 28771
+minion 31732
+minion 20615
+minion 21284
+minion 40443
+minion 39457
+minion 46665
+minion 40240
+minion 12176
+minion 49885
+minion 14829
+minion 15230
+minion 41000
+minion 24129
+minion 35331
+minion 10223
+minion 41377
+minion 21846
+minion 42841
+minion 690
+minion 18220
+minion 37071
+minion 10822
+minion 10009
+minion 31532
+minion 30063
+minion 49962
+minion 8835
+minion 23833
+minion 19501
+minion 11177
+minion 43185
+minion 34331
+minion 32243
+minion 45122
+minion 32826
+minion 47239
+minion 7072
+minion 28490
+minion 868
+minion 7983
+minion 40811
+minion 23670
+minion 4902
+minion 12016
+minion 27817
+minion 47064
+minion 19180
+minion 48628
+minion 35682
+minion 20577
+minion 13965
+minion 28179
+minion 10666
+minion 25233
+minion 41700
+minion 20910
+minion 10605
+minion 39751
+minion 10379
+minion 39495
+minion 37829
+minion 16407
+minion 42674
+minion 38708
+minion 21644
+minion 30899
+minion 8757
+minion 29007
+minion 2504
+minion 12984
+minion 34304
+minion 43355
+minion 41972
+minion 42706
+minion 27408
+minion 13400
+minion 5920
+minion 47992
+minion 3715
+minion 32998
+minion 30781
+minion 10207
+minion 38151
+minion 48923
+minion 47212
+minion 15005
+minion 23664
+minion 7009
+minion 3421
+minion 11915
+minion 36633
+minion 17320
+minion 18111
+minion 11372
+minion 20153
+minion 24404
+minion 30995
+minion 16194
+minion 40372
+minion 46917
+minion 38307
+minion 40173
+minion 46123
+minion 22698
+minion 36272
+minion 20609
+minion 36206
+minion 17959
+minion 47825
+minion 28299
+minion 14990
+minion 12612
+minion 36036
+minion 27381
+minion 8714
+minion 27622
+minion 28255
+minion 43751
+minion 41495
+minion 6638
+minion 7234
+minion 1747
+minion 25585
+minion 40588
+minion 26350
+minion 16984
+minion 25244
+minion 30600
+minion 22552
+minion 3003
+minion 32405
+minion 39725
+minion 7620
+minion 6798
+minion 44690
+minion 40608
+minion 14083
+minion 15453
+minion 12650
+minion 26602
+minion 28798
+minion 5705
+minion 9184
+minion 25121
+minion 46925
+minion 24020
+minion 31283
+minion 40730
+minion 2658
+minion 42530
+minion 46149
+minion 37243
+minion 24698
+minion 33733
+minion 39682
+minion 36559
+minion 14587
+minion 5534
+minion 46347
+minion 19288
+minion 45365
+minion 5606
+minion 45406
+minion 44821
+minion 45894
+minion 25264
+minion 4992
+minion 29238
+minion 32690
+minion 18105
+minion 13538
+minion 12802
+minion 31101
+minion 14893
+minion 27840
+minion 1529
+minion 42563
+minion 463
+minion 43663
+minion 2329
+minion 35700
+minion 34514
+minion 27941
+minion 30021
+minion 6854
+minion 45161
+minion 15027
+minion 23887
+minion 17115
+minion 8131
+minion 26020
+minion 8549
+minion 19105
+minion 43362
+minion 31237
+minion 23191
+minion 10298
+minion 14362
+minion 29227
+minion 21661
+minion 19028
+minion 2045
+minion 8040
+minion 34552
+minion 28992
+minion 33346
+minion 6142
+minion 9804
+minion 5892
+minion 38152
+minion 43996
+minion 14123
+minion 11871
+minion 44018
+minion 33587
+minion 10850
+minion 27664
+minion 15385
+minion 37967
+minion 732
+minion 10236
+minion 31104
+minion 12122
+minion 24559
+minion 42084
+minion 4989
+minion 43696
+minion 37738
+minion 33655
+minion 4648
+minion 41231
+minion 28201
+minion 21235
+minion 22001
+minion 33301
+minion 33654
+minion 26474
+minion 43389
+minion 1029
+minion 23507
+minion 39019
+minion 5223
+minion 17994
+minion 28963
+minion 14134
+minion 11896
+minion 46678
+minion 25087
+minion 9774
+minion 20387
+minion 45527
+minion 44913
+minion 26395
+minion 28495
+minion 11425
+minion 37924
+minion 39923
+minion 33481
+minion 42467
+minion 24003
+minion 39649
+minion 18404
+minion 26148
+minion 1244
+minion 46921
+minion 15794
+minion 42888
+minion 39869
+minion 10716
+minion 49932
+minion 34376
+minion 34275
+minion 14355
+minion 14459
+minion 11712
+minion 5013
+minion 13109
+minion 33159
+minion 10424
+minion 30187
+minion 8310
+minion 18609
+minion 27963
+minion 13268
+minion 9121
+minion 46318
+minion 1805
+minion 42739
+minion 10576
+minion 45376
+minion 43731
+minion 42993
+minion 921
+minion 27026
+minion 33857
+minion 20615
+minion 29074
+minion 16750
+minion 32041
+minion 48340
+minion 19008
+minion 6808
+minion 14370
+minion 9842
+minion 36010
+minion 11251
+minion 30557
+minion 11935
+minion 16783
+minion 6411
+minion 24814
+minion 6764
+minion 23056
+minion 12279
+minion 15692
+minion 21040
+minion 40440
+minion 12880
+minion 42122
+minion 602
+minion 13989
+minion 148
+minion 29293
+minion 15340
+minion 6201
+minion 41382
+minion 33354
+minion 37328
+minion 30601
+minion 41097
+minion 25939
+minion 46358
+minion 1117
+minion 12084
+minion 11179
+minion 1502
+minion 4239
+minion 18121
+minion 27257
+minion 47869
+minion 15760
+minion 39870
+minion 25956
+minion 4164
+minion 20562
+minion 36966
+minion 19936
+minion 38641
+minion 11334
+minion 12817
+minion 30174
+minion 16193
+minion 24628
+minion 31439
+minion 34350
+minion 18860
+minion 27514
+minion 49030
+minion 3640
+minion 44628
+minion 27897
+minion 43228
+minion 31333
+minion 25685
+minion 30472
+minion 28456
+minion 5647
+minion 10972
+minion 1100
+minion 14189
+minion 16801
+minion 22318
+minion 35622
+minion 44253
+minion 34842
+minion 24118
+minion 24191
+minion 25129
+minion 44777
+minion 19235
+minion 21445
+minion 44712
+minion 25994
+minion 17784
+minion 10922
+minion 9745
+minion 21730
+minion 19678
+minion 27733
+minion 42318
+minion 23987
+minion 5208
+minion 14480
+minion 32629
+minion 19971
+minion 22531
+minion 8536
+minion 271
+minion 23691
+minion 42105
+minion 31319
+minion 8963
+minion 37540
+minion 47144
+minion 46015
+minion 7855
+minion 30571
+minion 30374
+minion 46596
+minion 10232
+minion 44668
+minion 2384
+minion 4252
+minion 34405
+minion 23182
+minion 33185
+minion 17234
+minion 13549
+minion 14762
+minion 20727
+minion 6725
+minion 35969
+minion 33239
+minion 8781
+minion 40201
+minion 11592
+minion 7838
+minion 2992
+minion 24281
+minion 12310
+minion 15582
+minion 23919
+minion 1438
+minion 2672
+minion 37916
+minion 12482
+minion 7172
+minion 28849
+minion 21768
+minion 3066
+minion 29173
+minion 41355
+minion 23081
+minion 17501
+minion 47649
+minion 21603
+minion 956
+minion 30075
+minion 9447
+minion 36786
+minion 5296
+minion 44987
+minion 35508
+minion 2964
+minion 35380
+minion 45349
+minion 25724
+minion 28758
+minion 6942
+minion 34423
+minion 17
+minion 27578
+minion 6092
+minion 34286
+minion 44649
+minion 20749
+minion 946
+minion 1580
+minion 46489
+minion 10700
+minion 26013
+minion 38384
+minion 41780
+minion 11695
+minion 41553
+minion 15369
+minion 12887
+minion 15738
+minion 11132
+minion 18598
+minion 10636
+minion 27763
+minion 43545
+minion 37495
+minion 7013
+minion 20595
+minion 38411
+minion 48474
+minion 17292
+minion 42566
+minion 36758
+minion 28413
+minion 21907
+minion 37345
+minion 3049
+minion 1594
+minion 35263
+minion 38794
+minion 22851
+minion 26900
+minion 20656
+minion 49375
+minion 33585
+minion 48746
+minion 10773
+minion 16912
+minion 3207
+minion 23812
+minion 11410
+minion 20010
+minion 32461
+minion 9985
+minion 17626
+minion 38343
+minion 23786
+minion 22254
+minion 34033
+minion 18597
+minion 27273
+minion 24053
+minion 32337
+minion 2471
+minion 34288
+minion 3923
+minion 23941
+minion 47599
+minion 16477
+minion 4434
+minion 8646
+minion 39959
+minion 30106
+minion 24093
+minion 42886
+minion 34231
+minion 47941
+minion 11260
+minion 44177
+minion 44798
+minion 26721
+minion 40101
+minion 17388
+minion 14598
+minion 37064
+minion 47281
+minion 10104
+minion 26772
+minion 10786
+minion 33563
+minion 13559
+minion 30794
+minion 17561
+minion 16665
+minion 11521
+minion 48798
+minion 44562
+minion 18185
+minion 15087
+minion 29662
+minion 24804
+minion 13173
+minion 434
+minion 48772
+minion 15166
+minion 21451
+minion 39903
+minion 8368
+minion 17098
+minion 33395
+minion 40402
+minion 12525
+minion 28077
+minion 39234
+minion 41875
+minion 37171
+minion 6665
+minion 17739
+minion 15407
+minion 37006
+minion 43818
+minion 47169
+minion 36812
+minion 32914
+minion 40874
+minion 27851
+minion 22397
+minion 13440
+minion 12571
+minion 44088
+minion 39668
+minion 29756
+minion 46172
+minion 14514
+minion 19994
+minion 13547
+minion 39667
+minion 18615
+minion 49431
+minion 15612
+minion 7377
+minion 1735
+minion 9674
+minion 27391
+minion 43161
+minion 1033
+minion 2717
+minion 28326
+minion 24789
+minion 24349
+minion 42133
+minion 26823
+minion 2777
+minion 28081
+minion 35843
+minion 27635
+minion 26361
+minion 17519
+minion 7898
+minion 37314
+minion 49053
+minion 26463
+minion 45796
+minion 23009
+minion 43726
+minion 10645
+minion 16353
+minion 13562
+minion 19240
+minion 28328
+minion 47504
+minion 38049
+minion 18307
+minion 49794
+minion 29628
+minion 42082
+minion 37494
+minion 9420
+minion 39753
+minion 39841
+minion 25134
+minion 44070
+minion 38651
+minion 38222
+minion 1955
+minion 12845
+minion 26979
+minion 18091
+minion 28671
+minion 42358
+minion 37186
+minion 22147
+minion 10717
+minion 12117
+minion 16559
+minion 30914
+minion 5939
+minion 36664
+minion 33665
+minion 32515
+minion 34680
+minion 39155
+minion 9086
+minion 46461
+minion 26845
+minion 4083
+minion 8515
+minion 2982
+minion 48453
+minion 43760
+minion 40141
+minion 16940
+minion 27766
+minion 18057
+minion 12180
+minion 4982
+minion 37811
+minion 7574
+minion 21054
+minion 30881
+minion 33666
+minion 48261
+minion 34891
+minion 26882
+minion 41141
+minion 25357
+minion 27331
+minion 6190
+minion 33235
+minion 48713
+minion 36143
+minion 829
+minion 25755
+minion 7237
+minion 5160
+minion 35978
+minion 34984
+minion 42189
+minion 11376
+minion 47871
+minion 4329
+minion 23996
+minion 19638
+minion 34910
+minion 2217
+minion 20245
+minion 44380
+minion 42660
+minion 49937
+minion 11577
+minion 43102
+minion 48364
+minion 15610
+minion 2783
+minion 48849
+minion 36418
+minion 4264
+minion 32204
+minion 5319
+minion 1488
+minion 26751
+minion 2324
+minion 19747
+minion 49739
+minion 7617
+minion 39311
+minion 41185
+minion 20529
+minion 12896
+minion 26201
+minion 19997
+minion 45622
+minion 46197
+minion 23182
+minion 26551
+minion 9669
+minion 28623
+minion 49980
+minion 24664
+minion 20896
+minion 30976
+minion 34671
+minion 6253
+minion 21657
+minion 5610
+minion 37779
+minion 35219
+minion 22971
+minion 8387
+minion 18742
+minion 31714
+minion 2779
+minion 36870
+minion 9888
+minion 21119
+minion 2005
+minion 4249
+minion 19898
+minion 27293
+minion 12905
+minion 29060
+minion 23851
+minion 29764
+minion 23735
+minion 41579
+minion 47480
+minion 2167
+minion 42427
+minion 26232
+minion 39180
+minion 7794
+minion 4283
+minion 7539
+minion 34423
+minion 20511
+minion 42080
+minion 46071
+minion 48089
+minion 44128
+minion 19838
+minion 4091
+minion 18213
+minion 12142
+minion 44154
+minion 44487
+minion 17217
+minion 8752
+minion 36308
+minion 2062
+minion 24546
+minion 5420
+minion 8724
+minion 22687
+minion 11758
+minion 41835
+minion 7125
+minion 4907
+minion 32517
+minion 30078
+minion 8129
+minion 35611
+minion 42791
+minion 46739
+minion 19206
+minion 10947
+minion 27430
+minion 45240
+minion 2446
+minion 39377
+minion 29039
+minion 5933
+minion 6159
+minion 25769
+minion 7455
+minion 8814
+minion 10847
+minion 11708
+minion 35609
+minion 29248
+minion 24361
+minion 38728
+minion 15858
+minion 40365
+minion 1685
+minion 33760
+minion 49069
+minion 31596
+minion 45780
+minion 42587
+minion 13386
+minion 37173
+minion 13554
+minion 18011
+minion 35999
+minion 34226
+minion 11300
+minion 21474
+minion 42935
+minion 33206
+minion 17056
+minion 21977
+minion 6305
+minion 46931
+minion 23023
+minion 18613
+minion 49260
+minion 32955
+minion 15232
+minion 2944
+minion 30988
+minion 45416
+minion 19297
+minion 3268
+minion 5716
+minion 19401
+minion 19753
+minion 2426
+minion 45053
+minion 35446
+minion 11877
+minion 45834
+minion 49459
+minion 9859
+minion 25990
+minion 41866
+minion 42378
+minion 38147
+minion 39770
+minion 23228
+minion 47514
+minion 39372
+minion 18773
+minion 2403
+minion 12191
+minion 2384
+minion 32423
+minion 18927
+minion 17341
+minion 33072
+minion 34500
+minion 16114
+minion 16363
+minion 42836
+minion 11598
+minion 17970
+minion 17875
+minion 10285
+minion 12295
+minion 16597
+minion 14472
+minion 8873
+minion 26420
+minion 7489
+minion 21329
+minion 21222
+minion 22517
+minion 46445
+minion 20940
+minion 31157
+minion 26234
+minion 11112
+minion 43184
+minion 42003
+minion 5430
+minion 41615
+minion 26642
+minion 16894
+minion 41077
+minion 3332
+minion 36977
+minion 826
+minion 35085
+minion 11980
+minion 946
+minion 45762
+minion 29471
+minion 6623
+minion 48260
+minion 8019
+minion 23990
+minion 32093
+minion 25852
+minion 23172
+minion 8756
+minion 38640
+minion 12952
+minion 11283
+minion 31073
+minion 40969
+minion 29866
+minion 35977
+minion 47986
+minion 36184
+minion 6838
+minion 23387
+minion 22930
+minion 24359
+minion 37405
+minion 19983
+minion 41327
+minion 981
+minion 19208
+minion 8962
+minion 29619
+minion 13646
+minion 23788
+minion 14439
+minion 6543
+minion 25566
+minion 41751
+minion 15894
+minion 48185
+minion 12921
+minion 7166
+minion 44140
+minion 35259
+minion 20011
+minion 33247
+minion 16789
+minion 28663
+minion 15358
+minion 35820
+minion 107
+minion 23466
+minion 1000
+minion 2840
+minion 48900
+minion 5142
+minion 27558
+minion 22831
+minion 5111
+minion 19217
+minion 28277
+minion 16691
+minion 23009
+minion 12884
+minion 16889
+minion 43552
+minion 45109
+minion 14852
+minion 48512
+minion 4740
+minion 5506
+minion 49218
+minion 13971
+minion 37791
+minion 35065
+minion 29017
+minion 12697
+minion 38127
+minion 2919
+minion 41112
+minion 20616
+minion 41320
+minion 25968
+minion 15160
+minion 19100
+minion 35496
+minion 28619
+minion 10806
+minion 24887
+minion 9297
+minion 28984
+minion 2734
+minion 36639
+minion 46676
+minion 19908
+minion 46229
+minion 34157
+minion 31255
+minion 18370
+minion 26458
+minion 38137
+minion 1936
+minion 30150
+minion 10618
+minion 30313
+minion 889
+minion 9494
+minion 13208
+minion 17775
+minion 19883
+minion 42444
+minion 39430
+minion 19912
+minion 13999
+minion 48601
+minion 36956
+minion 40723
+minion 7848
+minion 43784
+minion 31392
+minion 14933
+minion 34303
+minion 39965
+minion 39214
+minion 25755
+minion 2771
+minion 12578
+minion 17295
+minion 17883
+minion 38835
+minion 44860
+minion 31441
+minion 19757
+minion 26460
+minion 2974
+minion 18679
+minion 11169
+minion 15350
+minion 34846
+minion 18211
+minion 26002
+minion 15410
+minion 43031
+minion 5004
+minion 16852
+minion 39554
+minion 32822
+minion 22640
+minion 48075
+minion 32951
+minion 5506
+minion 26308
+minion 37471
+minion 36977
+minion 11525
+minion 3834
+minion 11971
+minion 40935
+minion 34863
+minion 27542
+minion 38310
+minion 42199
+minion 45325
+minion 28939
+minion 25022
+minion 11003
+minion 19673
+minion 43452
+minion 11025
+minion 29921
+minion 25787
+minion 25372
+minion 23002
+minion 25572
+minion 5390
+minion 49522
+minion 41272
+minion 34961
+minion 22362
+minion 36201
+minion 19949
+minion 39938
+minion 19219
+minion 34931
+minion 33329
+minion 18552
+minion 43969
+minion 32780
+minion 14935
+minion 49140
+minion 6708
+minion 20233
+minion 30487
+minion 7304
+minion 29900
+minion 33803
+minion 20085
+minion 14091
+minion 29981
+minion 5849
+minion 19880
+minion 39369
+minion 11615
+minion 18153
+minion 7164
+minion 30133
+minion 3305
+minion 11899
+minion 31586
+minion 12002
+minion 12561
+minion 27010
+minion 18573
+minion 48661
+minion 7592
+minion 48372
+minion 22979
+minion 10393
+minion 45609
+minion 6469
+minion 17033
+minion 36893
+minion 28516
+minion 11885
+minion 23213
+minion 5554
+minion 44885
+minion 15697
+minion 45672
+minion 21586
+minion 29437
+minion 27180
+minion 4979
+minion 16512
+minion 16320
+minion 30579
+minion 28323
+minion 1066
+minion 27767
+minion 3196
+minion 15246
+minion 32070
+minion 1193
+minion 2933
+minion 36578
+minion 29697
+minion 1659
+minion 31825
+minion 49711
+minion 31527
+minion 10824
+minion 9691
+minion 18482
+minion 23512
+minion 38816
+minion 32987
+minion 10852
+minion 49730
+minion 44939
+minion 1609
+minion 35248
+minion 37607
+minion 16226
+minion 10000
+minion 32564
+minion 35381
+minion 22031
+minion 2061
+minion 32340
+minion 27012
+minion 20049
+minion 21913
+minion 32626
+minion 42413
+minion 41222
+minion 34962
+minion 35699
+minion 25583
+minion 25306
+minion 43516
+minion 3894
+minion 13059
+minion 15986
+minion 14144
+minion 10762
+minion 19746
+minion 8698
+minion 31467
+minion 27695
+minion 33333
+minion 19727
+minion 28593
+minion 6126
+minion 26157
+minion 17948
+minion 27639
+minion 15844
+minion 41193
+minion 20368
+minion 1197
+minion 7666
+minion 49597
+minion 49484
+minion 22699
+minion 11478
+minion 38910
+minion 27064
+minion 26069
+minion 32289
+minion 3854
+minion 47287
+minion 35269
+minion 24423
+minion 1423
+minion 47715
+minion 22188
+minion 21621
+minion 2082
+minion 49237
+minion 12817
+minion 26682
+minion 40564
+minion 24366
+minion 49007
+minion 7285
+minion 41456
+minion 15786
+minion 6468
+minion 24464
+minion 13583
+minion 19118
+minion 44506
+minion 5215
+minion 24109
+minion 35849
+minion 4296
+minion 13574
+minion 43287
+minion 2665
+minion 21851
+minion 42681
+minion 32628
+minion 49177
+minion 23841
+minion 36046
+minion 34458
+minion 4169
+minion 4702
+minion 28442
+minion 45759
+minion 6017
+minion 13761
+minion 41955
+minion 7550
+minion 24514
+minion 17102
+minion 25231
+minion 477
+minion 15413
+minion 20022
+minion 23124
+minion 20596
+minion 1604
+minion 18705
+minion 34736
+minion 2780
+minion 30054
+minion 313
+minion 15573
+minion 43418
+minion 8614
+minion 28334
+minion 49416
+minion 27385
+minion 20136
+minion 44053
+minion 41386
+minion 524
+minion 12961
+minion 22827
+minion 37286
+minion 11083
+minion 28026
+minion 28705
+minion 7566
+minion 5356
+minion 2551
+minion 47664
+minion 49595
+minion 18747
+minion 29064
+minion 13096
+minion 27873
+minion 32643
+minion 48727
+minion 22085
+minion 31024
+minion 30472
+minion 39105
+minion 33265
+minion 4404
+minion 3856
+minion 39129
+minion 35023
+minion 37145
+minion 27683
+minion 14345
+minion 14569
+minion 37414
+minion 30460
+minion 25715
+minion 24706
+minion 37516
+minion 42586
+minion 32735
+minion 12040
+minion 42569
+minion 22898
+minion 11139
+minion 29379
+minion 229
+minion 32389
+minion 718
+minion 46826
+minion 14353
+minion 45517
+minion 461
+minion 16772
+minion 28658
+minion 48050
+minion 13029
+minion 10913
+minion 11419
+minion 29695
+minion 18423
+minion 33430
+minion 21954
+minion 43002
+minion 41560
+minion 29882
+minion 41011
+minion 37981
+minion 10249
+minion 19134
+minion 43031
+minion 4358
+minion 25580
+minion 35286
+minion 49907
+minion 36687
+minion 29516
+minion 8125
+minion 19332
+minion 9725
+minion 33036
+minion 22014
+minion 3137
+minion 42303
+minion 20669
+minion 41628
+minion 27221
+minion 47572
+minion 35911
+minion 39363
+minion 17431
+minion 14801
+minion 13287
+minion 7820
+minion 24163
+minion 49305
+minion 40085
+minion 49566
+minion 31338
+minion 31256
+minion 38368
+minion 12247
+minion 22139
+minion 31584
+minion 3794
+minion 9995
+minion 19936
+minion 15174
+minion 16865
+minion 41971
+minion 18534
+minion 4903
+minion 41581
+minion 1694
+minion 46659
+minion 46408
+minion 30293
+minion 29651
+minion 22333
+minion 49931
+minion 2661
+minion 43438
+minion 2070
+minion 20885
+minion 1703
+minion 28229
+minion 41070
+minion 17759
+minion 11123
+minion 602
+minion 46601
+minion 29949
+minion 26786
+minion 38076
+minion 21356
+minion 20789
+minion 49874
+minion 21553
+minion 38508
+minion 10673
+minion 21691
+minion 12047
+minion 30707
+minion 43940
+minion 20829
+minion 12527
+minion 23220
+minion 11592
+minion 11161
+minion 27754
+minion 19012
+minion 10434
+minion 27233
+minion 31406
+minion 28595
+minion 44929
+minion 10177
+minion 1253
+minion 29880
+minion 25564
+minion 18924
+minion 2176
+minion 4051
+minion 16263
+minion 45369
+minion 38585
+minion 28116
+minion 3504
+minion 30337
+minion 25869
+minion 46533
+minion 8740
+minion 41142
+minion 11659
+minion 28240
+minion 40614
+minion 12731
+minion 8130
+minion 56
+minion 39176
+minion 5008
+minion 29478
+minion 6598
+minion 33368
+minion 31589
+minion 36167
+minion 2715
+minion 45380
+minion 9481
+minion 26426
+minion 10611
+minion 48620
+minion 41672
+minion 12944
+minion 41749
+minion 19514
+minion 7995
+minion 14444
+minion 48570
+minion 32244
+minion 34410
+minion 19716
+minion 31255
+minion 35291
+minion 31221
+minion 10272
+minion 19291
+minion 15574
+minion 3166
+minion 37981
+minion 32198
+minion 2047
+minion 1197
+minion 40704
+minion 20555
+minion 39446
+minion 45578
+minion 20683
+minion 34673
+minion 9202
+minion 35869
+minion 32736
+minion 44023
+minion 3910
+minion 15258
+minion 47913
+minion 17067
+minion 28198
+minion 19910
+minion 8725
+minion 32618
+minion 48287
+minion 9560
+minion 17812
+minion 4765
+minion 35292
+minion 48223
+minion 21306
+minion 2147
+minion 21317
+minion 16875
+minion 37141
+minion 42213
+minion 21499
+minion 44228
+minion 8564
+minion 47423
+minion 968
+minion 42388
+minion 2302
+minion 23936
+minion 37311
+minion 29771
+minion 39367
+minion 46375
+minion 1673
+minion 25692
+minion 27344
+minion 20033
+minion 33307
+minion 43204
+minion 41093
+minion 45664
+minion 44440
+minion 5362
+minion 33910
+minion 42487
+minion 33385
+minion 35938
+minion 35262
+minion 41223
+minion 24271
+minion 18536
+minion 13355
+minion 42327
+minion 48727
+minion 40523
+minion 22523
+minion 9682
+minion 6693
+minion 489
+minion 16099
+minion 35809
+minion 17607
+minion 34789
+minion 45307
+minion 18516
+minion 20192
+minion 21436
+minion 3092
+minion 9600
+minion 20878
+minion 1273
+minion 18839
+minion 28112
+minion 25782
+minion 41476
+minion 47773
+minion 16137
+minion 10317
+minion 16077
+minion 14038
+minion 15029
+minion 7125
+minion 11078
+minion 49664
+minion 18775
+minion 16415
+minion 47040
+minion 47647
+minion 11150
+minion 3168
+minion 17661
+minion 13340
+minion 32817
+minion 27105
+minion 5283
+minion 28056
+minion 9651
+minion 10055
+minion 15394
+minion 22294
+minion 11948
+minion 32845
+minion 25662
+minion 20344
+minion 22998
+minion 49697
+minion 35242
+minion 16544
+minion 7251
+minion 42749
+minion 6386
+minion 49365
+minion 40615
+minion 36451
+minion 1069
+minion 28684
+minion 6529
+minion 35125
+minion 26532
+minion 2100
+minion 23152
+minion 23789
+minion 41941
+minion 6431
+minion 3217
+minion 37932
+minion 36021
+minion 1007
+minion 20499
+minion 13419
+minion 38121
+minion 6082
+minion 44922
+minion 43783
+minion 2089
+minion 32183
+minion 31463
+minion 40733
+minion 26665
+minion 19077
+minion 31172
+minion 30495
+minion 40395
+minion 18400
+minion 46782
+minion 18296
+minion 22725
+minion 46366
+minion 26035
+minion 26599
+minion 21527
+minion 24526
+minion 33523
+minion 13293
+minion 49141
+minion 38158
+minion 40904
+minion 19230
+minion 17127
+minion 35066
+minion 13676
+minion 34235
+minion 46045
+minion 43831
+minion 4628
+minion 303
+minion 4442
+minion 46831
+minion 34361
+minion 18886
+minion 47220
+minion 15795
+minion 8459
+minion 7454
+minion 20928
+minion 42657
+minion 33393
+minion 23541
+minion 9649
+minion 34921
+minion 15207
+minion 39654
+minion 24971
+minion 43899
+minion 41892
+minion 13595
+minion 22559
+minion 31629
+minion 44642
+minion 13931
+minion 41279
+minion 12232
+minion 23606
+minion 41599
+minion 5401
+minion 46937
+minion 34449
+minion 46564
+minion 13772
+minion 46479
+minion 13853
+minion 25893
+minion 12004
+minion 7149
+minion 29378
+minion 5732
+minion 16066
+minion 26068
+minion 42365
+minion 6484
+minion 4764
+minion 17362
+minion 9581
+minion 32206
+minion 19859
+minion 24021
+minion 9263
+minion 2145
+minion 1939
+minion 41033
+minion 27743
+minion 22813
+minion 2189
+minion 20430
+minion 27606
+minion 34987
+minion 42189
+minion 16860
+minion 2053
+minion 23991
+minion 8207
+minion 36829
+minion 9769
+minion 13170
+minion 21067
+minion 39313
+minion 27650
+minion 17822
+minion 14521
+minion 36159
+minion 47528
+minion 46490
+minion 39264
+minion 38158
+minion 9166
+minion 23917
+minion 2651
+minion 41399
+minion 21740
+minion 31380
+minion 37673
+minion 32304
+minion 44625
+minion 22739
+minion 18735
+minion 41040
+minion 23704
+minion 41574
+minion 29542
+minion 44390
+minion 13543
+minion 49206
+minion 24015
+minion 18373
+minion 48276
+minion 17935
+minion 7593
+minion 46410
+minion 11139
+minion 30545
+minion 46370
+minion 41441
+minion 37624
+minion 15779
+minion 43504
+minion 31253
+minion 33549
+minion 14031
+minion 11263
+minion 3689
+minion 32336
+minion 789
+minion 45120
+minion 20673
+minion 36317
+minion 25903
+minion 42203
+minion 37030
+minion 44435
+minion 30026
+minion 15608
+minion 36076
+minion 38279
+minion 20130
+minion 22616
+minion 48321
+minion 22475
+minion 20890
+minion 39881
+minion 41231
+minion 16323
+minion 6240
+minion 30260
+minion 41194
+minion 35009
+minion 46232
+minion 44679
+minion 28846
+minion 29234
+minion 37482
+minion 7491
+minion 9673
+minion 30310
+minion 25853
+minion 12054
+minion 12754
+minion 4086
+minion 3342
+minion 32056
+minion 22373
+minion 25731
+minion 20563
+minion 1975
+minion 31112
+minion 14936
+minion 10294
+minion 3161
+minion 17493
+minion 43162
+minion 45182
+minion 8777
+minion 12659
+minion 24149
+minion 20032
+minion 37365
+minion 26095
+minion 20528
+minion 3925
+minion 35664
+minion 40085
+minion 31223
+minion 13357
+minion 7795
+minion 6953
+minion 22535
+minion 5935
+minion 5765
+minion 12425
+minion 8075
+minion 9862
+minion 44235
+minion 19133
+minion 38834
+minion 17507
+minion 15499
+minion 45760
+minion 4264
+minion 49148
+minion 26257
+minion 24714
+minion 43070
+minion 27185
+minion 35683
+minion 34051
+minion 28704
+minion 44832
+minion 35523
+minion 10278
+minion 38487
+minion 35959
+minion 42225
+minion 160
+minion 17678
+minion 41970
+minion 41150
+minion 12374
+minion 12767
+minion 45022
+minion 8577
+minion 9000
+minion 4529
+minion 40735
+minion 9418
+minion 33300
+minion 947
+minion 39644
+minion 23825
+minion 6642
+minion 4532
+minion 41604
+minion 21830
+minion 21379
+minion 27667
+minion 10949
+minion 47015
+minion 4037
+minion 27673
+minion 23743
+minion 28248
+minion 27703
+minion 20412
+minion 45487
+minion 23938
+minion 22116
+minion 17636
+minion 44074
+minion 1454
+minion 46863
+minion 26357
+minion 3125
+minion 32993
+minion 9242
+minion 40571
+minion 17256
+minion 20184
+minion 2334
+minion 17767
+minion 2383
+minion 33104
+minion 39060
+minion 21007
+minion 28881
+minion 5746
+minion 46882
+minion 14128
+minion 20846
+minion 22492
+minion 6728
+minion 44955
+minion 37112
+minion 34700
+minion 39023
+minion 16774
+minion 30874
+minion 38588
+minion 9042
+minion 16797
+minion 37301
+minion 15663
+minion 6872
+minion 38189
+minion 26961
+minion 30284
+minion 1406
+minion 8611
+minion 12588
+minion 30808
+minion 10411
+minion 40765
+minion 44680
+minion 36269
+minion 25290
+minion 40639
+minion 39188
+minion 6695
+minion 41531
+minion 39740
+minion 27055
+minion 7987
+minion 46790
+minion 21581
+minion 44726
+minion 1907
+minion 39244
+minion 18425
+minion 43969
+minion 42467
+minion 9697
+minion 28668
+minion 11142
+minion 35536
+minion 30465
+minion 36719
+minion 26231
+minion 870
+minion 44045
+minion 48596
+minion 4339
+minion 38271
+minion 1540
+minion 40037
+minion 12081
+minion 15963
+minion 275
+minion 843
+minion 9410
+minion 48383
+minion 27586
+minion 24178
+minion 47057
+minion 19301
+minion 39742
+minion 29314
+minion 18873
+minion 35290
+minion 43462
+minion 25053
+minion 41039
+minion 32981
+minion 14641
+minion 20120
+minion 21111
+minion 31742
+minion 29622
+minion 9143
+minion 5803
+minion 38570
+minion 14407
+minion 38317
+minion 12650
+minion 42934
+minion 35401
+minion 38783
+minion 6447
+minion 6752
+minion 9500
+minion 28763
+minion 1632
+minion 38401
+minion 9014
+minion 45585
+minion 14881
+minion 35518
+minion 31611
+minion 41841
+minion 45793
+minion 1151
+minion 17846
+minion 40940
+minion 7408
+minion 18991
+minion 7556
+minion 21358
+minion 23629
+minion 31419
+minion 18925
+minion 30338
+minion 36340
+minion 41131
+minion 45039
+minion 20840
+minion 33976
+minion 39268
+minion 11528
+minion 4122
+minion 33900
+minion 958
+minion 22867
+minion 12120
+minion 25790
+minion 14699
+minion 23420
+minion 2638
+minion 23966
+minion 19056
+minion 5239
+minion 35592
+minion 131
+minion 37781
+minion 13349
+minion 4652
+minion 20724
+minion 23467
+minion 30909
+minion 43658
+minion 35377
+minion 14042
+minion 15154
+minion 25027
+minion 37827
+minion 29161
+minion 42422
+minion 10501
+minion 43362
+minion 38174
+minion 11609
+minion 25613
+minion 23990
+minion 27488
+minion 7941
+minion 44835
+minion 28284
+minion 5725
+minion 15149
+minion 42708
+minion 45571
+minion 4918
+minion 47391
+minion 4573
+minion 26180
+minion 33333
+minion 30206
+minion 48559
+minion 27781
+minion 40386
+minion 115
+minion 10508
+minion 8359
+minion 17869
+minion 18744
+minion 19857
+minion 35804
+minion 47839
+minion 24293
+minion 46629
+minion 22276
+minion 12919
+minion 9276
+minion 35791
+minion 7446
+minion 29625
+minion 11601
+minion 22643
+minion 29839
+minion 18514
+minion 26368
+minion 14999
+minion 8317
+minion 38200
+minion 48087
+minion 30459
+minion 16650
+minion 10581
+minion 48846
+minion 4493
+minion 48954
+minion 43862
+minion 32719
+minion 2975
+minion 38059
+minion 1100
+minion 17254
+minion 6121
+minion 8743
+minion 38083
+minion 9030
+minion 30444
+minion 31431
+minion 18520
+minion 20432
+minion 32651
+minion 45642
+minion 11600
+minion 47126
+minion 46554
+minion 21731
+minion 7563
+minion 18719
+minion 9266
+minion 14018
+minion 35116
+minion 2191
+minion 20158
+minion 19782
+minion 38285
+minion 3206
+minion 25222
+minion 48993
+minion 19799
+minion 47675
+minion 28413
+minion 30199
+minion 6301
+minion 47732
+minion 6345
+minion 12371
+minion 5480
+minion 13899
+minion 41756
+minion 9484
+minion 45923
+minion 33567
+minion 39796
+minion 17768
+minion 15435
+minion 34816
+minion 5050
+minion 13455
+minion 2291
+minion 32762
+minion 41390
+minion 25142
+minion 23453
+minion 38956
+minion 2942
+minion 48908
+minion 47095
+minion 36338
+minion 20457
+minion 34876
+minion 33808
+minion 31451
+minion 11632
+minion 20845
+minion 42018
+minion 2452
+minion 39341
+minion 13867
+minion 40780
+minion 34183
+minion 16250
+minion 43663
+minion 26963
+minion 49782
+minion 18095
+minion 1549
+minion 12395
+minion 2390
+minion 4346
+minion 3469
+minion 48155
+minion 11767
+minion 46701
+minion 37036
+minion 6284
+minion 3271
+minion 6746
+minion 17344
+minion 44789
+minion 7436
+minion 15276
+minion 19142
+minion 43442
+minion 6879
+minion 25675
+minion 14472
+minion 21935
+minion 18951
+minion 25749
+minion 12983
+minion 45475
+minion 41183
+minion 22674
+minion 18108
+minion 16511
+minion 47727
+minion 48179
+minion 23670
+minion 20860
+minion 1393
+minion 36513
+minion 44705
+minion 31991
+minion 16988
+minion 36720
+minion 22040
+minion 34749
+minion 24595
+minion 14560
+minion 38746
+minion 45705
+minion 21996
+minion 19077
+minion 33343
+minion 18907
+minion 47108
+minion 221
+minion 20084
+minion 24106
+minion 3623
+minion 29613
+minion 43443
+minion 26640
+minion 41363
+minion 7993
+minion 6972
+minion 39093
+minion 28592
+minion 20525
+minion 8557
+minion 5092
+minion 33075
+minion 46484
+minion 43396
+minion 20923
+minion 20570
+minion 37150
+minion 26453
+minion 20158
+minion 3635
+minion 29722
+minion 47340
+minion 4390
+minion 37002
+minion 17277
+minion 23479
+minion 22105
+minion 39330
+minion 49201
+minion 19403
+minion 47506
+minion 28094
+minion 49564
+minion 17237
+minion 21779
+minion 43069
+minion 18065
+minion 40628
+minion 8994
+minion 29748
+minion 32947
+minion 6156
+minion 4069
+minion 6003
+minion 33654
+minion 12630
+minion 25512
+minion 25681
+minion 12420
+minion 48336
+minion 9958
+minion 23767
+minion 49925
+minion 20471
+minion 23900
+minion 32273
+minion 39053
+minion 39637
+minion 24085
+minion 34514
+minion 34867
+minion 49763
+minion 29391
+minion 1122
+minion 11050
+minion 26997
+minion 33511
+minion 29246
+minion 21616
+minion 27853
+minion 2505
+minion 46521
+minion 17459
+minion 40410
+minion 20688
+minion 23565
+minion 43270
+minion 48386
+minion 3348
+minion 4647
+minion 47967
+minion 46424
+minion 26909
+minion 864
+minion 9444
+minion 23739
+minion 28169
+minion 29092
+minion 43336
+minion 39505
+minion 4016
+minion 28427
+minion 16543
+minion 24480
+minion 44881
+minion 33183
+minion 26765
+minion 2947
+minion 44953
+minion 6657
+minion 29119
+minion 46265
+minion 4064
+minion 34567
+minion 45830
+minion 13436
+minion 6307
+minion 9515
+minion 49783
+minion 335
+minion 39003
+minion 40666
+minion 36289
+minion 19438
+minion 36547
+minion 38442
+minion 22853
+minion 28526
+minion 41677
+minion 37311
+minion 48827
+minion 4418
+minion 35909
+minion 32111
+minion 23836
+minion 24077
+minion 29978
+minion 42979
+minion 45529
+minion 37504
+minion 46799
+minion 40322
+minion 3433
+minion 46690
+minion 25527
+minion 1701
+minion 42360
+minion 42342
+minion 5033
+minion 46008
+minion 17431
+minion 18654
+minion 29309
+minion 43001
+minion 501
+minion 13350
+minion 42138
+minion 47104
+minion 37932
+minion 6438
+minion 10329
+minion 48238
+minion 11270
+minion 7641
+minion 7829
+minion 24700
+minion 10355
+minion 21952
+minion 10730
+minion 21753
+minion 33457
+minion 13328
+minion 13985
+minion 12279
+minion 3535
+minion 48681
+minion 37232
+minion 39598
+minion 43910
+minion 34845
+minion 46081
+minion 30511
+minion 23492
+minion 45669
+minion 19880
+minion 30173
+minion 25109
+minion 42908
+minion 31609
+minion 10486
+minion 31939
+minion 32873
+minion 5046
+minion 39090
+minion 27174
+minion 48561
+minion 29051
+minion 45792
+minion 38861
+minion 826
+minion 41346
+minion 20407
+minion 31611
+minion 33280
+minion 12550
+minion 4103
+minion 4668
+minion 17030
+minion 39465
+minion 1820
+minion 26117
+minion 2540
+minion 3194
+minion 3086
+minion 10356
+minion 29818
+minion 24746
+minion 15601
+minion 37761
+minion 27655
+minion 49591
+minion 17446
+minion 40343
+minion 244
+minion 39814
+minion 583
+minion 8281
+minion 24895
+minion 35104
+minion 4974
+minion 19629
+minion 41440
+minion 736
+minion 43083
+minion 43499
+minion 25674
+minion 48900
+minion 40211
+minion 33119
+minion 15777
+minion 25505
+minion 8078
+minion 3443
+minion 29789
+minion 34368
+minion 29398
+minion 29679
+minion 1959
+minion 28734
+minion 47356
+minion 23814
+minion 13450
+minion 8030
+minion 11205
+minion 1235
+minion 23899
+minion 30064
+minion 31367
+minion 43466
+minion 11966
+minion 45821
+minion 29772
+minion 31925
+minion 34490
+minion 32190
+minion 34677
+minion 1803
+minion 10110
+minion 9587
+minion 34682
+minion 30917
+minion 34534
+minion 32481
+minion 21984
+minion 2149
+minion 41512
+minion 14003
+minion 10553
+minion 15875
+minion 10415
+minion 20904
+minion 6321
+minion 46161
+minion 37748
+minion 31159
+minion 6178
+minion 33409
+minion 39531
+minion 41848
+minion 19599
+minion 45609
+minion 17532
+minion 46745
+minion 21152
+minion 19955
+minion 45732
+minion 26153
+minion 18952
+minion 47598
+minion 49690
+minion 27595
+minion 19568
+minion 42372
+minion 44051
+minion 16438
+minion 39280
+minion 30968
+minion 36046
+minion 9055
+minion 9722
+minion 9896
+minion 19510
+minion 15491
+minion 33051
+minion 41061
+minion 39499
+minion 33611
+minion 44177
+minion 3331
+minion 26011
+minion 1268
+minion 12272
+minion 18262
+minion 39988
+minion 39073
+minion 13384
+minion 37789
+minion 11329
+minion 2028
+minion 6416
+minion 15359
+minion 45050
+minion 12955
+minion 16185
+minion 32820
+minion 1335
+minion 13949
+minion 2109
+minion 21309
+minion 41879
+minion 25209
+minion 47362
+minion 30475
+minion 32125
+minion 9702
+minion 26098
+minion 2041
+minion 13693
+minion 30090
+minion 30455
+minion 12121
+minion 31975
+minion 15621
+minion 21586
+minion 48422
+minion 15322
+minion 1305
+minion 2384
+minion 4978
+minion 3053
+minion 1491
+minion 19639
+minion 34017
+minion 2639
+minion 44362
+minion 14845
+minion 6555
+minion 49306
+minion 230
+minion 39726
+minion 25550
+minion 31501
+minion 22867
+minion 11451
+minion 802
+minion 3905
+minion 31797
+minion 36136
+minion 30285
+minion 12974
+minion 11343
+minion 24095
+minion 31238
+minion 21572
+minion 44295
+minion 33383
+minion 29429
+minion 41368
+minion 17762
+minion 17497
+minion 29
+minion 11565
+minion 47131
+minion 18256
+minion 40387
+minion 5570
+minion 13345
+minion 27836
+minion 37763
+minion 44857
+minion 19542
+minion 2735
+minion 13463
+minion 40364
+minion 4905
+minion 30619
+minion 9108
+minion 4169
+minion 20784
+minion 44517
+minion 33525
+minion 15169
+minion 22098
+minion 42003
+minion 41710
+minion 27396
+minion 38400
+minion 12445
+minion 8343
+minion 10978
+minion 35416
+minion 15187
+minion 31543
+minion 32732
+minion 39696
+minion 13984
+minion 34370
+minion 4610
+minion 21064
+minion 45231
+minion 40560
+minion 3961
+minion 48373
+minion 35428
+minion 43431
+minion 8607
+minion 10631
+minion 40873
+minion 16667
+minion 13676
+minion 24275
+minion 25259
+minion 20583
+minion 23245
+minion 33972
+minion 34860
+minion 39466
+minion 5128
+minion 26546
+minion 12991
+minion 17169
+minion 899
+minion 19492
+minion 26784
+minion 9440
+minion 4355
+minion 21192
+minion 30730
+minion 668
+minion 40920
+minion 46248
+minion 4497
+minion 33105
+minion 25552
+minion 3956
+minion 29563
+minion 16796
+minion 36670
+minion 48571
+minion 33102
+minion 16764
+minion 47526
+minion 45778
+minion 44666
+minion 36703
+minion 10157
+minion 44604
+minion 8297
+minion 48760
+minion 4835
+minion 24518
+minion 29242
+minion 28064
+minion 8073
+minion 28062
+minion 39660
+minion 34468
+minion 21588
+minion 25987
+minion 39076
+minion 37415
+minion 29901
+minion 40205
+minion 25746
+minion 17427
+minion 19777
+minion 42154
+minion 45030
+minion 19288
+minion 4408
+minion 18064
+minion 2795
+minion 6556
+minion 43444
+minion 46226
+minion 19642
+minion 5121
+minion 24826
+minion 40081
+minion 49283
+minion 9751
+minion 12894
+minion 31969
+minion 45832
+minion 16402
+minion 17006
+minion 26433
+minion 25032
+minion 47490
+minion 14296
+minion 45095
+minion 45207
+minion 10682
+minion 9494
+minion 45686
+minion 36862
+minion 7321
+minion 20031
+minion 27238
+minion 16925
+minion 18003
+minion 49573
+minion 39009
+minion 44351
+minion 36771
+minion 21722
+minion 22685
+minion 34620
+minion 11846
+minion 8420
+minion 34538
+minion 9642
+minion 31506
+minion 26704
+minion 29325
+minion 24521
+minion 47931
+minion 44372
+minion 9344
+minion 421
+minion 43344
+minion 17122
+minion 47540
+minion 4991
+minion 9313
+minion 22856
+minion 42112
+minion 47061
+minion 47757
+minion 9363
+minion 12320
+minion 35089
+minion 47587
+minion 23156
+minion 31279
+minion 10177
+minion 23885
+minion 37618
+minion 9061
+minion 44679
+minion 44320
+minion 41813
+minion 13185
+minion 39069
+minion 29757
+minion 35453
+minion 13700
+minion 33978
+minion 30169
+minion 21165
+minion 38931
+minion 12948
+minion 10687
+minion 26817
+minion 23581
+minion 881
+minion 2032
+minion 34017
+minion 35038
+minion 13914
+minion 29610
+minion 25623
+minion 36862
+minion 2482
+minion 46099
+minion 49449
+minion 12054
+minion 8350
+minion 45424
+minion 19147
+minion 635
+minion 10313
+minion 35311
+minion 14664
+minion 6100
+minion 1530
+minion 3936
+minion 8470
+minion 25234
+minion 23859
+minion 9155
+minion 8134
+minion 16892
+minion 26591
+minion 20432
+minion 49372
+minion 24401
+minion 20770
+minion 49575
+minion 30398
+minion 8144
+minion 39867
+minion 2579
+minion 45147
+minion 15069
+minion 18697
+minion 4950
+minion 10703
+minion 42970
+minion 30308
+minion 23399
+minion 5350
+minion 38553
+minion 11021
+minion 20529
+minion 28617
+minion 27637
+minion 46023
+minion 20716
+minion 22050
+minion 46944
+minion 43562
+minion 8783
+minion 11178
+minion 4758
+minion 21475
+minion 8731
+minion 10271
+minion 32049
+minion 46727
+minion 25047
+minion 41283
+minion 8775
+minion 15025
+minion 11002
+minion 10768
+minion 7733
+minion 40164
+minion 49595
+minion 37403
+minion 46580
+minion 43232
+minion 15500
+minion 44925
+minion 460
+minion 3805
+minion 19581
+minion 5871
+minion 6061
+minion 41814
+minion 21734
+minion 28378
+minion 53
+minion 27525
+minion 33454
+minion 14582
+minion 31084
+minion 41401
+minion 40388
+minion 43593
+minion 9966
+minion 44679
+minion 28653
+minion 46243
+minion 5261
+minion 32115
+minion 46575
+minion 23527
+minion 18
+minion 9761
+minion 20884
+minion 37472
+minion 46427
+minion 33313
+minion 25469
+minion 3711
+minion 28062
+minion 13857
+minion 10718
+minion 953
+minion 1894
+minion 2860
+minion 4209
+minion 40234
+minion 24992
+minion 46668
+minion 41230
+minion 31249
+minion 31571
+minion 46420
+minion 29683
+minion 16332
+minion 49775
+minion 6002
+minion 27436
+minion 1901
+minion 14579
+minion 19257
+minion 39663
+minion 18344
+minion 7229
+minion 46053
+minion 5852
+minion 46299
+minion 20930
+minion 34262
+minion 31951
+minion 16740
+minion 2055
+minion 29742
+minion 36520
+minion 17226
+minion 30682
+minion 39435
+minion 41698
+minion 7106
+minion 40469
+minion 38418
+minion 21250
+minion 8593
+minion 40885
+minion 15325
+minion 41956
+minion 3598
+minion 30077
+minion 4552
+minion 37697
+minion 40425
+minion 5876
+minion 23568
+minion 39132
+minion 8805
+minion 24194
+minion 42373
+minion 43723
+minion 5841
+minion 47007
+minion 7910
+minion 19304
+minion 40730
+minion 14717
+minion 24490
+minion 29194
+minion 1829
+minion 9899
+minion 12457
+minion 35649
+minion 10340
+minion 14303
+minion 20330
+minion 11431
+minion 26160
+minion 48006
+minion 31070
+minion 27459
+minion 41904
+minion 4097
+minion 2253
+minion 16222
+minion 16378
+minion 46565
+minion 41525
+minion 10863
+minion 28486
+minion 40609
+minion 27714
+minion 43032
+minion 38309
+minion 45711
+minion 35857
+minion 10098
+minion 32559
+minion 19114
+minion 30520
+minion 43875
+minion 16395
+minion 36131
+minion 40126
+minion 43698
+minion 17620
+minion 18902
+minion 27356
+minion 26122
+minion 35545
+minion 12136
+minion 12972
+minion 10799
+minion 43123
+minion 14914
+minion 1818
+minion 1743
+minion 44754
+minion 41687
+minion 2925
+minion 44165
+minion 23192
+minion 13626
+minion 707
+minion 11219
+minion 32185
+minion 19425
+minion 47340
+minion 14628
+minion 28445
+minion 10232
+minion 28872
+minion 7045
+minion 17485
+minion 37195
+minion 11063
+minion 5773
+minion 13970
+minion 8554
+minion 48601
+minion 47475
+minion 19208
+minion 15403
+minion 25317
+minion 16350
+minion 27637
+minion 16915
+minion 49909
+minion 23394
+minion 43892
+minion 34114
+minion 15343
+minion 40871
+minion 16188
+minion 36355
+minion 20683
+minion 2768
+minion 35423
+minion 28907
+minion 11513
+minion 48194
+minion 21561
+minion 12727
+minion 47676
+minion 25313
+minion 33264
+minion 5926
+minion 43313
+minion 5928
+minion 3850
+minion 46045
+minion 37773
+minion 36199
+minion 43086
+minion 5449
+minion 24956
+minion 7788
+minion 38309
+minion 34357
+minion 33581
+minion 15269
+minion 19516
+minion 23945
+minion 20735
+minion 44331
+minion 44889
+minion 38000
+minion 40857
+minion 31130
+minion 16511
+minion 8295
+minion 20349
+minion 35062
+minion 47040
+minion 406
+minion 25914
+minion 6481
+minion 17726
+minion 4
+minion 33085
+minion 21711
+minion 23602
+minion 43980
+minion 19544
+minion 47847
+minion 46341
+minion 29143
+minion 47785
+minion 10738
+minion 11398
+minion 12894
+minion 14459
+minion 1066
+minion 45326
+minion 46244
+minion 28678
+minion 47615
+minion 41991
+minion 3345
+minion 30424
+minion 45263
+minion 15069
+minion 12183
+minion 39416
+minion 45554
+minion 25695
+minion 2710
+minion 39159
+minion 42679
+minion 29535
+minion 18475
+minion 40062
+minion 38304
+minion 1271
+minion 11869
+minion 41666
+minion 25535
+minion 4401
+minion 22888
+minion 47990
+minion 15745
+minion 40215
+minion 30118
+minion 19731
+minion 3617
+minion 43835
+minion 19283
+minion 39736
+minion 796
+minion 21728
+minion 28298
+minion 14489
+minion 14380
+minion 19580
+minion 37822
+minion 6642
+minion 11418
+minion 4564
+minion 23989
+minion 22151
+minion 43630
+minion 39984
+minion 5106
+minion 31203
+minion 42923
+minion 22831
+minion 26154
+minion 49794
+minion 33456
+minion 4577
+minion 3143
+minion 43214
+minion 19103
+minion 5355
+minion 14678
+minion 5047
+minion 34950
+minion 42452
+minion 35799
+minion 1719
+minion 6412
+minion 12974
+minion 38362
+minion 20951
+minion 1237
+minion 3985
+minion 25681
+minion 18724
+minion 13449
+minion 5227
+minion 30248
+minion 20970
+minion 30411
+minion 736
+minion 4359
+minion 25760
+minion 35109
+minion 48915
+minion 26807
+minion 30785
+minion 17681
+minion 19489
+minion 6279
+minion 46218
+minion 18584
+minion 35083
+minion 45386
+minion 9025
+minion 4901
+minion 32774
+minion 21691
+minion 18966
+minion 18765
+minion 22270
+minion 15739
+minion 30656
+minion 1621
+minion 34155
+minion 29966
+minion 38938
+minion 47150
+minion 7429
+minion 36344
+minion 28228
+minion 24329
+minion 32173
+minion 12802
+minion 18366
+minion 995
+minion 38917
+minion 19938
+minion 36035
+minion 15645
+minion 5014
+minion 34037
+minion 36923
+minion 6694
+minion 42144
+minion 2366
+minion 16153
+minion 8598
+minion 16655
+minion 13823
+minion 30675
+minion 33536
+minion 11281
+minion 2205
+minion 8141
+minion 34997
+minion 23703
+minion 24139
+minion 953
+minion 18949
+minion 37868
+minion 33634
+minion 10251
+minion 33144
+minion 28050
+minion 21888
+minion 36411
+minion 22281
+minion 27020
+minion 8030
+minion 15983
+minion 12835
+minion 35655
+minion 3321
+minion 13751
+minion 38232
+minion 28815
+minion 23962
+minion 9477
+minion 31788
+minion 13812
+minion 30339
+minion 30494
+minion 43606
+minion 5669
+minion 44692
+minion 13048
+minion 29968
+minion 4661
+minion 33368
+minion 27292
+minion 14778
+minion 18984
+minion 17086
+minion 27776
+minion 21379
+minion 23786
+minion 3779
+minion 28643
+minion 20255
+minion 15955
+minion 43872
+minion 31578
+minion 8625
+minion 47840
+minion 17840
+minion 47881
+minion 7960
+minion 38453
+minion 19908
+minion 6181
+minion 49740
+minion 14661
+minion 19165
+minion 5136
+minion 7529
+minion 3140
+minion 16645
+minion 27475
+minion 33358
+minion 8840
+minion 6443
+minion 17619
+minion 43651
+minion 30738
+minion 1204
+minion 43850
+minion 18568
+minion 25545
+minion 42371
+minion 14445
+minion 25036
+minion 45318
+minion 39222
+minion 15833
+minion 19940
+minion 48760
+minion 21868
+minion 45765
+minion 37828
+minion 46811
+minion 5087
+minion 41514
+minion 34753
+minion 27187
+minion 27551
+minion 117
+minion 49819
+minion 11950
+minion 20246
+minion 18238
+minion 7141
+minion 26303
+minion 45285
+minion 11414
+minion 9512
+minion 26252
+minion 37927
+minion 27887
+minion 46635
+minion 23989
+minion 29312
+minion 32415
+minion 46081
+minion 5462
+minion 31144
+minion 4421
+minion 25439
+minion 3332
+minion 35195
+minion 8768
+minion 31271
+minion 20879
+minion 39646
+minion 36546
+minion 3753
+minion 14929
+minion 32866
+minion 16464
+minion 3186
+minion 1087
+minion 44031
+minion 6617
+minion 5298
+minion 24133
+minion 7304
+minion 48733
+minion 33
+minion 27807
+minion 6320
+minion 43687
+minion 10833
+minion 43981
+minion 49130
+minion 13839
+minion 17498
+minion 22672
+minion 45432
+minion 29290
+minion 46042
+minion 23130
+minion 24677
+minion 46487
+minion 26755
+minion 11478
+minion 36967
+minion 36261
+minion 36657
+minion 8738
+minion 7661
+minion 44583
+minion 43386
+minion 21463
+minion 24701
+minion 45548
+minion 29957
+minion 22694
+minion 27117
+minion 21948
+minion 48157
+minion 32411
+minion 4387
+minion 47631
+minion 47011
+minion 41507
+minion 47935
+minion 37290
+minion 21749
+minion 25806
+minion 19047
+minion 31080
+minion 19497
+minion 3575
+minion 20421
+minion 30056
+minion 26409
+minion 47544
+minion 29862
+minion 43819
+minion 37166
+minion 21043
+minion 12075
+minion 41295
+minion 20146
+minion 11737
+minion 301
+minion 39370
+minion 19280
+minion 3581
+minion 33881
+minion 44804
+minion 45555
+minion 23483
+minion 31132
+minion 13630
+minion 18742
+minion 27045
+minion 49476
+minion 35247
+minion 13543
+minion 49676
+minion 14511
+minion 10850
+minion 39690
+minion 26580
+minion 25086
+minion 39810
+minion 1041
+minion 44645
+minion 19138
+minion 32413
+minion 42831
+minion 33297
+minion 34782
+minion 27114
+minion 20336
+minion 13092
+minion 27484
+minion 35273
+minion 41206
+minion 8564
+minion 18010
+minion 18167
+minion 41924
+minion 24243
+minion 35525
+minion 46013
+minion 22443
+minion 6791
+minion 11313
+minion 49363
+minion 48068
+minion 44615
+minion 30276
+minion 37489
+minion 6531
+minion 1224
+minion 1604
+minion 43566
+minion 36651
+minion 10490
+minion 38328
+minion 24634
+minion 34443
+minion 1468
+minion 1972
+minion 12258
+minion 38700
+minion 4017
+minion 43294
+minion 5649
+minion 49561
+minion 14202
+minion 44040
+minion 4978
+minion 31666
+minion 46344
+minion 18926
+minion 15447
+minion 41054
+minion 29072
+minion 17366
+minion 44250
+minion 33331
+minion 19774
+minion 34345
+minion 48216
+minion 3020
+minion 47293
+minion 20583
+minion 19111
+minion 11488
+minion 33918
+minion 48621
+minion 30715
+minion 20235
+minion 43375
+minion 33724
+minion 40456
+minion 22270
+minion 23267
+minion 7313
+minion 18425
+minion 13496
+minion 5664
+minion 49802
+minion 33865
+minion 574
+minion 25298
+minion 5822
+minion 10187
+minion 32298
+minion 36157
+minion 2511
+minion 7579
+minion 43123
+minion 44078
+minion 41303
+minion 14668
+minion 17122
+minion 3756
+minion 9237
+minion 41407
+minion 33434
+minion 24183
+minion 44161
+minion 15643
+minion 15581
+minion 13324
+minion 34742
+minion 38291
+minion 12619
+minion 28469
+minion 43176
+minion 17787
+minion 21759
+minion 48940
+minion 30753
+minion 27667
+minion 19971
+minion 480
+minion 47641
+minion 27722
+minion 41471
+minion 10396
+minion 36812
+minion 25330
+minion 31406
+minion 41042
+minion 37592
+minion 26157
+minion 2071
+minion 19055
+minion 23334
+minion 18514
+minion 14029
+minion 15905
+minion 34991
+minion 39313
+minion 11502
+minion 34159
+minion 18283
+minion 37249
+minion 40555
+minion 17530
+minion 47567
+minion 3829
+minion 42980
+minion 34723
+minion 35819
+minion 44182
+minion 13324
+minion 13635
+minion 44697
+minion 16641
+minion 6114
+minion 31515
+minion 49936
+minion 23038
+minion 37370
+minion 18830
+minion 34236
+minion 24538
+minion 25732
+minion 8584
+minion 36219
+minion 43563
+minion 5134
+minion 24662
+minion 3758
+minion 5853
+minion 13949
+minion 41440
+minion 16164
+minion 35812
+minion 32196
+minion 10391
+minion 37166
+minion 23940
+minion 12828
+minion 32983
+minion 32350
+minion 46682
+minion 5222
+minion 43409
+minion 12833
+minion 38435
+minion 24358
+minion 6692
+minion 12399
+minion 32513
+minion 15969
+minion 11953
+minion 1942
+minion 42671
+minion 49922
+minion 43744
+minion 11517
+minion 31971
+minion 31311
+minion 4003
+minion 48694
+minion 18317
+minion 30965
+minion 29966
+minion 30233
+minion 21883
+minion 47470
+minion 8884
+minion 34445
+minion 45723
+minion 44349
+minion 25995
+minion 10209
+minion 4387
+minion 36480
+minion 37554
+minion 19316
+minion 32322
+minion 45751
+minion 47783
+minion 19205
+minion 48442
+minion 12263
+minion 21245
+minion 39883
+minion 1995
+minion 39498
+minion 23493
+minion 35889
+minion 38451
+minion 48874
+minion 5195
+minion 42629
+minion 8824
+minion 34288
+minion 14032
+minion 15717
+minion 25256
+minion 13176
+minion 40949
+minion 40964
+minion 15473
+minion 22247
+minion 16676
+minion 38163
+minion 39974
+minion 1744
+minion 47554
+minion 6191
+minion 12368
+minion 24428
+minion 29194
+minion 36219
+minion 33527
+minion 34798
+minion 252
+minion 6054
+minion 9719
+minion 40082
+minion 28237
+minion 32385
+minion 23977
+minion 22994
+minion 45993
+minion 46848
+minion 39154
+minion 33366
+minion 1384
+minion 20099
+minion 22448
+minion 21836
+minion 44060
+minion 19146
+minion 4802
+minion 6818
+minion 3731
+minion 26194
+minion 45586
+minion 33081
+minion 49909
+minion 251
+minion 41943
+minion 17302
+minion 23521
+minion 14023
+minion 19679
+minion 18975
+minion 9101
+minion 24026
+minion 34035
+minion 7977
+minion 5997
+minion 35173
+minion 34938
+minion 8564
+minion 16987
+minion 42478
+minion 26254
+minion 19827
+minion 49009
+minion 6607
+minion 359
+minion 27455
+minion 33743
+minion 40531
+minion 30368
+minion 10048
+minion 31416
+minion 26708
+minion 31066
+minion 24057
+minion 10467
+minion 26638
+minion 40172
+minion 27986
+minion 40441
+minion 6675
+minion 49472
+minion 31969
+minion 27168
+minion 20178
+minion 24265
+minion 27357
+minion 36063
+minion 14470
+minion 15839
+minion 8886
+minion 34207
+minion 46237
+minion 39831
+minion 11252
+minion 49940
+minion 25759
+minion 34071
+minion 43302
+minion 49892
+minion 14487
+minion 33558
+minion 32990
+minion 33654
+minion 9631
+minion 37558
+minion 32392
+minion 42960
+minion 9978
+minion 47509
+minion 29359
+minion 45001
+minion 6952
+minion 18122
+minion 10311
+minion 43006
+minion 44284
+minion 42658
+minion 28830
+minion 32342
+minion 23001
+minion 41392
+minion 19272
+minion 24691
+minion 21482
+minion 25841
+minion 35178
+minion 36877
+minion 19813
+minion 24117
+minion 34708
+minion 42566
+minion 46870
+minion 28093
+minion 25953
+minion 23116
+minion 16481
+minion 48315
+minion 17537
+minion 32619
+minion 41872
+minion 34397
+minion 26085
+minion 16960
+minion 36480
+minion 13884
+minion 27254
+minion 28114
+minion 29519
+minion 18246
+minion 5656
+minion 33100
+minion 5241
+minion 10960
+minion 26890
+minion 23095
+minion 14286
+minion 8298
+minion 12172
+minion 33790
+minion 2380
+minion 45515
+minion 23146
+minion 35860
+minion 12801
+minion 36792
+minion 48131
+minion 28858
+minion 42169
+minion 37194
+minion 26524
+minion 45969
+minion 25120
+minion 46211
+minion 40470
+minion 38603
+minion 15307
+minion 2312
+minion 38211
+minion 7597
+minion 48586
+minion 7063
+minion 7357
+minion 1566
+minion 18460
+minion 1607
+minion 37325
+minion 35909
+minion 1203
+minion 2858
+minion 8830
+minion 8183
+minion 36142
+minion 33747
+minion 30239
+minion 46356
+minion 11251
+minion 40224
+minion 4159
+minion 49687
+minion 15753
+minion 48395
+minion 35945
+minion 42324
+minion 41722
+minion 9687
+minion 7979
+minion 9030
+minion 20490
+minion 38286
+minion 7787
+minion 11974
+minion 20087
+minion 4574
+minion 35203
+minion 45316
+minion 38158
+minion 21579
+minion 17400
+minion 11193
+minion 49466
+minion 12221
+minion 27655
+minion 39310
+minion 28364
+minion 18341
+minion 9826
+minion 41373
+minion 15971
+minion 44113
+minion 27352
+minion 25083
+minion 48152
+minion 38523
+minion 41844
+minion 190
+minion 21118
+minion 15033
+minion 9844
+minion 8773
+minion 43628
+minion 28295
+minion 15419
+minion 12916
+minion 45071
+minion 46856
+minion 38095
+minion 31567
+minion 48544
+minion 34923
+minion 8198
+minion 39671
+minion 22823
+minion 42966
+minion 220
+minion 3532
+minion 20740
+minion 46635
+minion 13960
+minion 23381
+minion 49860
+minion 16606
+minion 43058
+minion 26376
+minion 10934
+minion 32703
+minion 13821
+minion 31563
+minion 12730
+minion 35012
+minion 24198
+minion 23124
+minion 11735
+minion 8627
+minion 17565
+minion 21171
+minion 46801
+minion 14739
+minion 44239
+minion 31507
+minion 30245
+minion 28258
+minion 42829
+minion 31048
+minion 35915
+minion 37680
+minion 2259
+minion 5186
+minion 38303
+minion 38312
+minion 29450
+minion 24482
+minion 1072
+minion 36462
+minion 8912
+minion 27021
+minion 35236
+minion 39042
+minion 1981
+minion 12367
+minion 33035
+minion 6532
+minion 18837
+minion 13531
+minion 10725
+minion 35073
+minion 27936
+minion 14196
+minion 25400
+minion 29049
+minion 6730
+minion 6000
+minion 2395
+minion 32452
+minion 43136
+minion 21602
+minion 23777
+minion 12010
+minion 40461
+minion 23253
+minion 30444
+minion 8635
+minion 43260
+minion 24418
+minion 5561
+minion 49715
+minion 22052
+minion 25272
+minion 49715
+minion 40543
+minion 35934
+minion 7758
+minion 12757
+minion 31872
+minion 48472
+minion 23712
+minion 9421
+minion 29297
+minion 20323
+minion 841
+minion 9744
+minion 38063
+minion 29785
+minion 9253
+minion 31581
+minion 23450
+minion 22087
+minion 18619
+minion 43326
+minion 37310
+minion 3244
+minion 23226
+minion 48581
+minion 28727
+minion 31923
+minion 24399
+minion 13272
+minion 44418
+minion 7969
+minion 11009
+minion 13021
+minion 2663
+minion 14480
+minion 34857
+minion 43115
+minion 48971
+minion 43243
+minion 20523
+minion 33980
+minion 19424
+minion 12180
+minion 44479
+minion 41687
+minion 39619
+minion 13509
+minion 42380
+minion 28849
+minion 34006
+minion 42836
+minion 32111
+minion 27627
+minion 3432
+minion 31946
+minion 12405
+minion 37298
+minion 12708
+minion 9177
+minion 34029
+minion 49948
+minion 24072
+minion 10439
+minion 15002
+minion 21327
+minion 9313
+minion 37820
+minion 7080
+minion 23582
+minion 44928
+minion 16138
+minion 32610
+minion 30206
+minion 1563
+minion 34639
+minion 23902
+minion 25129
+minion 8765
+minion 31539
+minion 8962
+minion 15218
+minion 39542
+minion 45550
+minion 29265
+minion 1582
+minion 25858
+minion 33381
+minion 9588
+minion 20717
+minion 2075
+minion 47558
+minion 30407
+minion 39794
+minion 9213
+minion 20574
+minion 9907
+minion 8984
+minion 47177
+minion 23151
+minion 32374
+minion 1798
+minion 6429
+minion 18797
+minion 33921
+minion 17868
+minion 10226
+minion 1904
+minion 26064
+minion 18792
+minion 8044
+minion 37275
+minion 28533
+minion 31168
+minion 215
+minion 18811
+minion 10406
+minion 28522
+minion 31173
+minion 13420
+minion 45469
+minion 25931
+minion 28231
+minion 36362
+minion 21507
+minion 47369
+minion 35731
+minion 42815
+minion 20993
+minion 30988
+minion 24731
+minion 14917
+minion 27952
+minion 35613
+minion 49165
+minion 7163
+minion 8789
+minion 20744
+minion 11628
+minion 11397
+minion 41355
+minion 23953
+minion 7317
+minion 40795
+minion 12673
+minion 14800
+minion 19025
+minion 49238
+minion 39579
+minion 40402
+minion 10168
+minion 31385
+minion 27810
+minion 33757
+minion 27682
+minion 6442
+minion 23566
+minion 20066
+minion 47290
+minion 36552
+minion 32137
+minion 17410
+minion 30911
+minion 45075
+minion 44061
+minion 43126
+minion 9323
+minion 42919
+minion 32003
+minion 43052
+minion 10022
+minion 39661
+minion 16893
+minion 19776
+minion 22064
+minion 21515
+minion 18613
+minion 37436
+minion 23689
+minion 6706
+minion 28344
+minion 36492
+minion 3236
+minion 30590
+minion 20820
+minion 43345
+minion 37106
+minion 44195
+minion 7931
+minion 42722
+minion 33596
+minion 38722
+minion 23454
+minion 25076
+minion 29259
+minion 23945
+minion 43042
+minion 12241
+minion 46734
+minion 19546
+minion 5476
+minion 26105
+minion 17234
+minion 46527
+minion 30380
+minion 20507
+minion 14491
+minion 8034
+minion 11692
+minion 6166
+minion 37829
+minion 36130
+minion 46376
+minion 40583
+minion 8208
+minion 45644
+minion 14173
+minion 320
+minion 24255
+minion 715
+minion 6019
+minion 15128
+minion 34987
+minion 39281
+minion 9456
+minion 21299
+minion 16206
+minion 41817
+minion 40516
+minion 48119
+minion 28472
+minion 6372
+minion 40701
+minion 4142
+minion 1229
+minion 2238
+minion 19258
+minion 6709
+minion 210
+minion 312
+minion 28853
+minion 29072
+minion 32502
+minion 1765
+minion 4893
+minion 47465
+minion 42346
+minion 32870
+minion 16867
+minion 33614
+minion 9771
+minion 42721
+minion 37985
+minion 46018
+minion 13527
+minion 40348
+minion 41117
+minion 27953
+minion 37071
+minion 9081
+minion 4300
+minion 22674
+minion 17517
+minion 13572
+minion 27693
+minion 31456
+minion 45429
+minion 42233
+minion 39353
+minion 5969
+minion 26386
+minion 7464
+minion 110
+minion 23942
+minion 21861
+minion 26946
+minion 32625
+minion 33222
+minion 34388
+minion 11990
+minion 28952
+minion 33335
+minion 24949
+minion 6901
+minion 38348
+minion 35750
+minion 18386
+minion 44682
+minion 40615
+minion 10881
+minion 11120
+minion 41305
+minion 19638
+minion 41128
+minion 46012
+minion 6179
+minion 11555
+minion 18930
+minion 24071
+minion 23436
+minion 2035
+minion 112
+minion 43517
+minion 10898
+minion 7228
+minion 2306
+minion 42611
+minion 14043
+minion 24156
+minion 36580
+minion 7723
+minion 7895
+minion 43564
+minion 25080
+minion 30128
+minion 20964
+minion 47724
+minion 10615
+minion 25224
+minion 41942
+minion 13070
+minion 746
+minion 1617
+minion 28472
+minion 44848
+minion 35081
+minion 37825
+minion 8981
+minion 27930
+minion 15681
+minion 15391
+minion 13695
+minion 9150
+minion 10952
+minion 9954
+minion 28839
+minion 39818
+minion 14051
+minion 49673
+minion 36041
+minion 43139
+minion 4343
+minion 20525
+minion 4035
+minion 3157
+minion 3225
+minion 47740
+minion 44558
+minion 11000
+minion 25048
+minion 8455
+minion 939
+minion 43705
+minion 32129
+minion 10365
+minion 1289
+minion 48495
+minion 15044
+minion 16049
+minion 22146
+minion 14481
+minion 33629
+minion 36113
+minion 8474
+minion 21188
+minion 44028
+minion 48745
+minion 32612
+minion 15125
+minion 1288
+minion 31145
+minion 33672
+minion 10942
+minion 39183
+minion 48803
+minion 8727
+minion 30220
+minion 47582
+minion 25315
+minion 41623
+minion 37340
+minion 43267
+minion 47981
+minion 2881
+minion 7226
+minion 14452
+minion 19989
+minion 27021
+minion 587
+minion 8665
+minion 30344
+minion 24774
+minion 48001
+minion 27526
+minion 21560
+minion 9509
+minion 18229
+minion 12050
+minion 32846
+minion 9129
+minion 4480
+minion 15128
+minion 29432
+minion 9711
+minion 43902
+minion 24782
+minion 39996
+minion 4522
+minion 33326
+minion 1637
+minion 21069
+minion 913
+minion 39729
+minion 24426
+minion 34805
+minion 21213
+minion 35647
+minion 33231
+minion 1248
+minion 6736
+minion 24038
+minion 21723
+minion 32025
+minion 6460
+minion 20944
+minion 6371
+minion 35671
+minion 33415
+minion 17623
+minion 39293
+minion 40497
+minion 18169
+minion 14735
+minion 16185
+minion 37142
+minion 22212
+minion 13834
+minion 38270
+minion 8979
+minion 32443
+minion 24455
+minion 15467
+minion 43695
+minion 48949
+minion 37595
+minion 29431
+minion 35044
+minion 23574
+minion 42720
+minion 346
+minion 23861
+minion 34998
+minion 10802
+minion 26110
+minion 35090
+minion 32756
+minion 33103
+minion 22972
+minion 38766
+minion 37531
+minion 39111
+minion 6580
+minion 36899
+minion 44032
+minion 11140
+minion 2900
+minion 36177
+minion 23543
+minion 37283
+minion 12593
+minion 7379
+minion 47377
+minion 24251
+minion 18804
+minion 32280
+minion 8571
+minion 28028
+minion 33075
+minion 18864
+minion 41512
+minion 21326
+minion 12096
+minion 40694
+minion 17276
+minion 15431
+minion 5498
+minion 7367
+minion 38624
+minion 31095
+minion 4386
+minion 39109
+minion 40861
+minion 49503
+minion 21447
+minion 43332
+minion 17874
+minion 28567
+minion 49662
+minion 37809
+minion 34695
+minion 43253
+minion 11501
+minion 36291
+minion 30127
+minion 42967
+minion 26484
+minion 10746
+minion 41997
+minion 43829
+minion 26519
+minion 4727
+minion 27
+minion 4108
+minion 47253
+minion 16204
+minion 27014
+minion 15885
+minion 19622
+minion 28601
+minion 5641
+minion 45533
+minion 47553
+minion 42448
+minion 32897
+minion 23484
+minion 16517
+minion 47873
+minion 2804
+minion 25472
+minion 14406
+minion 30003
+minion 28366
+minion 45266
+minion 34168
+minion 48259
+minion 9825
+minion 25805
+minion 10567
+minion 24309
+minion 38947
+minion 44752
+minion 15369
+minion 44794
+minion 4576
+minion 49658
+minion 39081
+minion 36753
+minion 2249
+minion 5243
+minion 16317
+minion 1988
+minion 8945
+minion 21060
+minion 32168
+minion 39162
+minion 45699
+minion 19052
+minion 3394
+minion 6643
+minion 26450
+minion 28610
+minion 7942
+minion 16524
+minion 29423
+minion 46515
+minion 26361
+minion 4761
+minion 19939
+minion 48994
+minion 6379
+minion 1209
+minion 5318
+minion 45313
+minion 39654
+minion 10889
+minion 30163
+minion 2759
+minion 37872
+minion 33238
+minion 34402
+minion 29763
+minion 45623
+minion 47560
+minion 9155
+minion 12417
+minion 21058
+minion 7305
+minion 13098
+minion 45006
+minion 2559
+minion 40772
+minion 22411
+minion 3923
+minion 47859
+minion 10336
+minion 36809
+minion 48844
+minion 15370
+minion 8060
+minion 23297
+minion 34320
+minion 16814
+minion 3255
+minion 48863
+minion 15107
+minion 46669
+minion 13631
+minion 31406
+minion 21278
+minion 8999
+minion 42940
+minion 31180
+minion 20155
+minion 22241
+minion 46686
+minion 32986
+minion 10381
+minion 7369
+minion 17006
+minion 25457
+minion 19055
+minion 41662
+minion 24933
+minion 46435
+minion 15606
+minion 28798
+minion 1394
+minion 47454
+minion 29317
+minion 24079
+minion 31318
+minion 37388
+minion 29811
+minion 9940
+minion 82
+minion 12949
+minion 42368
+minion 48697
+minion 44047
+minion 15747
+minion 7426
+minion 25899
+minion 41819
+minion 36006
+minion 9618
+minion 9592
+minion 2255
+minion 31682
+minion 1172
+minion 27349
+minion 26427
+minion 41475
+minion 48364
+minion 32603
+minion 4242
+minion 42657
+minion 41881
+minion 6819
+minion 33257
+minion 36308
+minion 45275
+minion 16177
+minion 2088
+minion 47198
+minion 27680
+minion 5552
+minion 1368
+minion 10214
+minion 22158
+minion 33737
+minion 40618
+minion 11684
+minion 13321
+minion 1258
+minion 18030
+minion 43156
+minion 49843
+minion 38926
+minion 36816
+minion 6013
+minion 26542
+minion 19712
+minion 46281
+minion 1968
+minion 47652
+minion 39842
+minion 39024
+minion 47208
+minion 5698
+minion 7424
+minion 21067
+minion 35548
+minion 15439
+minion 7738
+minion 20472
+minion 41249
+minion 23810
+minion 44620
+minion 8326
+minion 4066
+minion 8223
+minion 42041
+minion 9523
+minion 17435
+minion 36731
+minion 14742
+minion 28154
+minion 47105
+minion 14572
+minion 11086
+minion 42814
+minion 2955
+minion 20003
+minion 27243
+minion 9766
+minion 25562
+minion 19895
+minion 120
+minion 49546
+minion 37837
+minion 16528
+minion 4160
+minion 4515
+minion 14734
+minion 12669
+minion 5069
+minion 46245
+minion 5582
+minion 30785
+minion 26781
+minion 19345
+minion 5222
+minion 30600
+minion 32750
+minion 47790
+minion 34501
+minion 10188
+minion 28846
+minion 15236
+minion 32909
+minion 11688
+minion 41918
+minion 32635
+minion 44612
+minion 14610
+minion 18112
+minion 15545
+minion 38195
+minion 47972
+minion 44909
+minion 21354
+minion 23689
+minion 45074
+minion 20488
+minion 37537
+minion 4063
+minion 37525
+minion 44789
+minion 4765
+minion 31662
+minion 18497
+minion 22571
+minion 16319
+minion 37791
+minion 41740
+minion 37592
+minion 22354
+minion 37252
+minion 29453
+minion 25264
+minion 15374
+minion 41048
+minion 34884
+minion 16636
+minion 26149
+minion 24609
+minion 21524
+minion 9903
+minion 123
+minion 44556
+minion 39523
+minion 8049
+minion 7609
+minion 35876
+minion 5426
+minion 45656
+minion 10147
+minion 10112
+minion 45212
+minion 43726
+minion 46976
+minion 15398
+minion 24080
+minion 33573
+minion 14412
+minion 39116
+minion 25598
+minion 44844
+minion 2871
+minion 27017
+minion 45757
+minion 28293
+minion 8742
+minion 22708
+minion 29534
+minion 30305
+minion 38805
+minion 28437
+minion 44338
+minion 12927
+minion 32538
+minion 27621
+minion 44665
+minion 10208
+minion 42139
+minion 10448
+minion 14962
+minion 30443
+minion 32364
+minion 46084
+minion 27444
+minion 12242
+minion 42039
+minion 35726
+minion 28288
+minion 49976
+minion 16968
+minion 1310
+minion 2224
+minion 37032
+minion 49011
+minion 26680
+minion 7031
+minion 23106
+minion 48799
+minion 11229
+minion 49306
+minion 34901
+minion 6341
+minion 25121
+minion 6851
+minion 31709
+minion 15773
+minion 32284
+minion 11188
+minion 19354
+minion 20732
+minion 13872
+minion 41434
+minion 3963
+minion 24154
+minion 45155
+minion 12479
+minion 6787
+minion 49573
+minion 33515
+minion 36254
+minion 23015
+minion 44419
+minion 29558
+minion 13337
+minion 37494
+minion 26213
+minion 7306
+minion 13916
+minion 5857
+minion 20590
+minion 21559
+minion 11409
+minion 30909
+minion 11141
+minion 30060
+minion 24102
+minion 7242
+minion 39233
+minion 45734
+minion 46469
+minion 9754
+minion 24538
+minion 8933
+minion 29244
+minion 3095
+minion 9875
+minion 48260
+minion 12878
+minion 3856
+minion 14201
+minion 244
+minion 23532
+minion 15283
+minion 24975
+minion 26290
+minion 40481
+minion 26782
+minion 11784
+minion 19356
+minion 5496
+minion 8467
+minion 18368
+minion 5330
+minion 48764
+minion 49172
+minion 2462
+minion 10524
+minion 42822
+minion 44093
+minion 21052
+minion 5236
+minion 17554
+minion 3839
+minion 37045
+minion 26499
+minion 48477
+minion 35485
+minion 314
+minion 10241
+minion 27618
+minion 27952
+minion 44427
+minion 10060
+minion 41656
+minion 20345
+minion 48027
+minion 46125
+minion 5934
+minion 34850
+minion 39578
+minion 47319
+minion 45458
+minion 19876
+minion 40238
+minion 38002
+minion 41386
+minion 19207
+minion 10169
+minion 30071
+minion 633
+minion 49351
+minion 5438
+minion 18784
+minion 32803
+minion 8964
+minion 32690
+minion 19693
+minion 28238
+minion 48476
+minion 27812
+minion 4996
+minion 26468
+minion 1543
+minion 41737
+minion 27543
+minion 14039
+minion 8307
+minion 13673
+minion 28418
+minion 1145
+minion 6337
+minion 4590
+minion 7971
+minion 4514
+minion 23733
+minion 9778
+minion 47677
+minion 13600
+minion 49043
+minion 35112
+minion 29270
+minion 25316
+minion 20242
+minion 9608
+minion 28267
+minion 22514
+minion 25643
+minion 27256
+minion 32692
+minion 37655
+minion 28334
+minion 17887
+minion 7457
+minion 7037
+minion 34582
+minion 20851
+minion 43914
+minion 28139
+minion 12694
+minion 23963
+minion 33078
+minion 5533
+minion 31750
+minion 28926
+minion 44296
+minion 44760
+minion 47467
+minion 14269
+minion 9070
+minion 49186
+minion 35012
+minion 6092
+minion 29195
+minion 13363
+minion 48542
+minion 29679
+minion 6225
+minion 41935
+minion 13470
+minion 5028
+minion 38396
+minion 31050
+minion 30981
+minion 40763
+minion 22811
+minion 38449
+minion 47132
+minion 933
+minion 19932
+minion 2882
+minion 15864
+minion 19538
+minion 906
+minion 25079
+minion 2034
+minion 23736
+minion 43565
+minion 41316
+minion 15312
+minion 33507
+minion 25047
+minion 11373
+minion 18186
+minion 33505
+minion 2642
+minion 22241
+minion 38692
+minion 44094
+minion 8495
+minion 4902
+minion 14625
+minion 1978
+minion 14669
+minion 7665
+minion 35567
+minion 2027
+minion 24552
+minion 40987
+minion 6115
+minion 5846
+minion 47627
+minion 46533
+minion 44337
+minion 6188
+minion 33322
+minion 15474
+minion 5186
+minion 4115
+minion 11329
+minion 24805
+minion 36114
+minion 14909
+minion 26623
+minion 29962
+minion 29981
+minion 27022
+minion 12864
+minion 47475
+minion 38120
+minion 569
+minion 49757
+minion 3038
+minion 42438
+minion 15029
+minion 38256
+minion 13885
+minion 4869
+minion 43240
+minion 39512
+minion 6
+minion 49184
+minion 2577
+minion 35200
+minion 9465
+minion 35879
+minion 28513
+minion 17035
+minion 11998
+minion 183
+minion 37168
+minion 17055
+minion 34576
+minion 32765
+minion 33689
+minion 18788
+minion 49716
+minion 25355
+minion 34706
+minion 27684
+minion 8544
+minion 39163
+minion 27076
+minion 2867
+minion 5546
+minion 6088
+minion 44589
+minion 4095
+minion 29308
+minion 17931
+minion 19436
+minion 10605
+minion 11945
+minion 14602
+minion 11322
+minion 25621
+minion 33537
+minion 29708
+minion 17157
+minion 44082
+minion 1468
+minion 9987
+minion 865
+minion 47291
+minion 951
+minion 33513
+minion 15180
+minion 20272
+minion 8748
+minion 46241
+minion 38540
+minion 38530
+minion 20162
+minion 15556
+minion 30968
+minion 10842
+minion 22108
+minion 49710
+minion 29654
+minion 3377
+minion 41290
+minion 24417
+minion 37726
+minion 44066
+minion 30747
+minion 26563
+minion 5109
+minion 19973
+minion 21442
+minion 8068
+minion 35251
+minion 20007
+minion 8197
+minion 40623
+minion 26215
+minion 48556
+minion 38297
+minion 29784
+minion 1915
+minion 22032
+minion 40907
+minion 24316
+minion 45347
+minion 33067
+minion 29391
+minion 30906
+minion 40442
+minion 46389
+minion 33634
+minion 480
+minion 3513
+minion 33826
+minion 54
+minion 13780
+minion 2792
+minion 27050
+minion 22260
+minion 6799
+minion 16544
+minion 24388
+minion 28404
+minion 45206
+minion 48830
+minion 680
+minion 10990
+minion 18532
+minion 30332
+minion 29539
+minion 39340
+minion 32411
+minion 22544
+minion 42323
+minion 47794
+minion 7622
+minion 12469
+minion 16973
+minion 29070
+minion 4659
+minion 14675
+minion 49840
+minion 36120
+minion 8720
+minion 36339
+minion 20962
+minion 4555
+minion 1424
+minion 19953
+minion 44416
+minion 37831
+minion 49165
+minion 26295
+minion 31498
+minion 13239
+minion 27526
+minion 43628
+minion 45700
+minion 25486
+minion 44666
+minion 22077
+minion 10858
+minion 574
+minion 10903
+minion 7048
+minion 1223
+minion 27936
+minion 11189
+minion 36032
+minion 42431
+minion 1311
+minion 35818
+minion 47979
+minion 17601
+minion 42123
+minion 16704
+minion 38268
+minion 19683
+minion 8867
+minion 27867
+minion 46125
+minion 9565
+minion 48579
+minion 35915
+minion 41708
+minion 40175
+minion 6115
+minion 41045
+minion 29083
+minion 20268
+minion 13994
+minion 16768
+minion 41486
+minion 34403
+minion 32582
+minion 3817
+minion 49266
+minion 25217
+minion 1672
+minion 35116
+minion 43026
+minion 43365
+minion 15392
+minion 27521
+minion 43105
+minion 2012
+minion 1185
+minion 8694
+minion 39375
+minion 46535
+minion 39258
+minion 23944
+minion 36832
+minion 47618
+minion 48541
+minion 12511
+minion 12278
+minion 14658
+minion 19195
+minion 16872
+minion 45107
+minion 36890
+minion 32105
+minion 15763
+minion 28437
+minion 34542
+minion 44331
+minion 13576
+minion 35019
+minion 38305
+minion 17438
+minion 13050
+minion 18011
+minion 23751
+minion 34841
+minion 2759
+minion 44173
+minion 21058
+minion 42810
+minion 39695
+minion 38990
+minion 47421
+minion 1670
+minion 32548
+minion 31009
+minion 40049
+minion 29935
+minion 43868
+minion 35862
+minion 20070
+minion 41538
+minion 34608
+minion 6022
+minion 34799
+minion 40008
+minion 6135
+minion 11260
+minion 49628
+minion 49083
+minion 8563
+minion 7680
+minion 37609
+minion 23675
+minion 1069
+minion 29097
+minion 26207
+minion 5932
+minion 13081
+minion 12776
+minion 45782
+minion 18337
+minion 41220
+minion 21847
+minion 29499
+minion 27882
+minion 47686
+minion 35220
+minion 49556
+minion 34754
+minion 38388
+minion 4606
+minion 463
+minion 27713
+minion 14948
+minion 46766
+minion 32830
+minion 7028
+minion 33212
+minion 33743
+minion 28706
+minion 41499
+minion 44545
+minion 21974
+minion 34246
+minion 32014
+minion 1381
+minion 23745
+minion 600
+minion 3451
+minion 4802
+minion 34116
+minion 16854
+minion 31091
+minion 40080
+minion 1733
+minion 318
+minion 12760
+minion 26522
+minion 6916
+minion 42322
+minion 20915
+minion 11703
+minion 14874
+minion 10695
+minion 3957
+minion 7217
+minion 9895
+minion 8726
+minion 4302
+minion 46266
+minion 19179
+minion 22720
+minion 29338
+minion 34070
+minion 4283
+minion 23792
+minion 19245
+minion 37600
+minion 47485
+minion 26500
+minion 23940
+minion 34620
+minion 46105
+minion 29951
+minion 4271
+minion 37751
+minion 19372
+minion 37633
+minion 13215
+minion 46448
+minion 20069
+minion 30505
+minion 26295
+minion 41421
+minion 7791
+minion 29795
+minion 29671
+minion 11279
+minion 30289
+minion 24797
+minion 41486
+minion 15019
+minion 46297
+minion 7184
+minion 35623
+minion 11396
+minion 37516
+minion 47020
+minion 35797
+minion 27940
+minion 31073
+minion 25159
+minion 29037
+minion 30415
+minion 18381
+minion 36295
+minion 15597
+minion 34922
+minion 6424
+minion 16205
+minion 37844
+minion 22261
+minion 45511
+minion 7854
+minion 26197
+minion 38673
+minion 46424
+minion 37917
+minion 26279
+minion 24487
+minion 44120
+minion 7966
+minion 7311
+minion 22687
+minion 35014
+minion 8921
+minion 38322
+minion 38921
+minion 44328
+minion 42874
+minion 235
+minion 22351
+minion 1836
+minion 35274
+minion 15375
+minion 44910
+minion 1468
+minion 45879
+minion 23039
+minion 21495
+minion 14197
+minion 44748
+minion 4855
+minion 14083
+minion 36952
+minion 19224
+minion 19507
+minion 38443
+minion 30987
+minion 46949
+minion 14971
+minion 49599
+minion 20740
+minion 11309
+minion 33820
+minion 23106
+minion 17847
+minion 6349
+minion 45400
+minion 9460
+minion 47972
+minion 26676
+minion 40593
+minion 13549
+minion 15970
+minion 15492
+minion 20425
+minion 10237
+minion 42479
+minion 31286
+minion 37205
+minion 544
+minion 14877
+minion 4783
+minion 10289
+minion 49371
+minion 3111
+minion 43227
+minion 35735
+minion 15790
+minion 39413
+minion 49879
+minion 7933
+minion 47378
+minion 27903
+minion 635
+minion 1611
+minion 40526
+minion 1454
+minion 42268
+minion 27062
+minion 45118
+minion 479
+minion 13579
+minion 23523
+minion 37520
+minion 4155
+minion 41305
+minion 48113
+minion 21459
+minion 48798
+minion 9270
+minion 45963
+minion 49700
+minion 9744
+minion 14426
+minion 34721
+minion 15956
+minion 1020
+minion 34448
+minion 19995
+minion 24620
+minion 20614
+minion 29610
+minion 20046
+minion 48093
+minion 18743
+minion 43214
+minion 35646
+minion 15334
+minion 13881
+minion 29899
+minion 8783
+minion 211
+minion 4224
+minion 42087
+minion 65
+minion 1298
+minion 31260
+minion 22768
+minion 45216
+minion 11805
+minion 45113
+minion 14275
+minion 16991
+minion 30143
+minion 3915
+minion 8233
+minion 37634
+minion 13476
+minion 15913
+minion 35654
+minion 39506
+minion 17006
+minion 22272
+minion 2441
+minion 24503
+minion 20868
+minion 43532
+minion 25430
+minion 18777
+minion 10940
+minion 5659
+minion 32778
+minion 7577
+minion 18899
+minion 487
+minion 45752
+minion 45475
+minion 17657
+minion 14361
+minion 33423
+minion 34696
+minion 28251
+minion 39231
+minion 8190
+minion 29506
+minion 6338
+minion 12618
+minion 39902
+minion 44177
+minion 10509
+minion 5580
+minion 22169
+minion 49420
+minion 28227
+minion 40392
+minion 41777
+minion 27938
+minion 1782
+minion 17583
+minion 29197
+minion 7765
+minion 5830
+minion 3990
+minion 34276
+minion 6145
+minion 12335
+minion 6697
+minion 48092
+minion 29656
+minion 8163
+minion 12757
+minion 19977
+minion 49115
+minion 32490
+minion 958
+minion 11254
+minion 27774
+minion 14081
+minion 22935
+minion 18165
+minion 8250
+minion 3630
+minion 31252
+minion 8268
+minion 5359
+minion 33489
+minion 33357
+minion 29350
+minion 28506
+minion 8710
+minion 17813
+minion 43693
+minion 73
+minion 35164
+minion 25658
+minion 28865
+minion 24260
+minion 4955
+minion 2045
+minion 17171
+minion 49640
+minion 14526
+minion 10245
+minion 36014
+minion 47752
+minion 35603
+minion 23054
+minion 16930
+minion 27269
+minion 29138
+minion 14002
+minion 13857
+minion 28847
+minion 49417
+minion 20946
+minion 4134
+minion 24578
+minion 45722
+minion 28916
+minion 22655
+minion 28977
+minion 27347
+minion 19585
+minion 20946
+minion 40349
+minion 19063
+minion 19903
+minion 13951
+minion 6832
+minion 22092
+minion 36993
+minion 22819
+minion 12036
+minion 5763
+minion 18524
+minion 43724
+minion 43384
+minion 45237
+minion 10516
+minion 19756
+minion 10434
+minion 16427
+minion 2081
+minion 49368
+minion 44707
+minion 3956
+minion 14846
+minion 656
+minion 14217
+minion 21523
+minion 4287
+minion 28538
+minion 26038
+minion 29389
+minion 38194
+minion 22293
+minion 44940
+minion 39299
+minion 45665
+minion 28688
+minion 15699
+minion 9103
+minion 10097
+minion 5177
+minion 42144
+minion 41182
+minion 1821
+minion 23083
+minion 30892
+minion 27222
+minion 10750
+minion 29340
+minion 35206
+minion 9160
+minion 12220
+minion 12549
+minion 25265
+minion 20216
+minion 26239
+minion 36393
+minion 4217
+minion 19247
+minion 49733
+minion 35309
+minion 17804
+minion 8454
+minion 46781
+minion 32646
+minion 17569
+minion 46231
+minion 48783
+minion 4085
+minion 49572
+minion 31827
+minion 4057
+minion 1331
+minion 6329
+minion 46904
+minion 7223
+minion 3524
+minion 2134
+minion 41762
+minion 19763
+minion 36994
+minion 10773
+minion 24947
+minion 43332
+minion 16878
+minion 17169
+minion 25644
+minion 47027
+minion 24723
+minion 13059
+minion 9272
+minion 24470
+minion 46452
+minion 9369
+minion 24788
+minion 37372
+minion 33689
+minion 44401
+minion 19174
+minion 5514
+minion 34661
+minion 28439
+minion 6664
+minion 29767
+minion 3378
+minion 5102
+minion 10889
+minion 6219
+minion 28361
+minion 12992
+minion 22714
+minion 34258
+minion 12455
+minion 49484
+minion 12739
+minion 24536
+minion 42857
+minion 15122
+minion 29902
+minion 15477
+minion 41924
+minion 49203
+minion 24059
+minion 41025
+minion 40300
+minion 7357
+minion 7604
+minion 41961
+minion 31541
+minion 9531
+minion 23534
+minion 9123
+minion 32960
+minion 36247
+minion 35101
+minion 8554
+minion 4108
+minion 45179
+minion 39953
+minion 11775
+minion 6279
+minion 19425
+minion 18666
+minion 11730
+minion 40345
+minion 25013
+minion 12014
+minion 46968
+minion 46630
+minion 252
+minion 44515
+minion 18567
+minion 14498
+minion 3697
+minion 13590
+minion 35457
+minion 4380
+minion 15638
+minion 39466
+minion 46021
+minion 47498
+minion 18928
+minion 24678
+minion 18829
+minion 39458
+minion 13591
+minion 1298
+minion 26207
+minion 14382
+minion 4184
+minion 20427
+minion 47677
+minion 25168
+minion 18127
+minion 9197
+minion 22499
+minion 30537
+minion 12328
+minion 680
+minion 15286
+minion 45342
+minion 10636
+minion 45331
+minion 31288
+minion 15016
+minion 4967
+minion 44624
+minion 29262
+minion 22657
+minion 49643
+minion 4174
+minion 38470
+minion 5712
+minion 43932
+minion 14277
+minion 37351
+minion 44746
+minion 49837
+minion 22272
+minion 26754
+minion 23715
+minion 35806
+minion 32585
+minion 42445
+minion 29825
+minion 46838
+minion 43398
+minion 46370
+minion 44500
+minion 41090
+minion 4920
+minion 42051
+minion 14958
+minion 24180
+minion 678
+minion 36861
+minion 23597
+minion 43390
+minion 3813
+minion 34491
+minion 18966
+minion 22035
+minion 3550
+minion 14738
+minion 10
+minion 31956
+minion 41964
+minion 31236
+minion 3850
+minion 21845
+minion 27752
+minion 30699
+minion 40056
+minion 23925
+minion 41571
+minion 9535
+minion 28050
+minion 2885
+minion 1463
+minion 18177
+minion 11569
+minion 48253
+minion 34761
+minion 31566
+minion 44723
+minion 12123
+minion 23511
+minion 31532
+minion 43254
+minion 27415
+minion 13754
+minion 1356
+minion 46024
+minion 37780
+minion 7788
+minion 1679
+minion 32256
+minion 17847
+minion 42435
+minion 47868
+minion 4873
+minion 12161
+minion 42520
+minion 22654
+minion 13338
+minion 24220
+minion 1994
+minion 41032
+minion 32608
+minion 41142
+minion 8810
+minion 20711
+minion 41926
+minion 35635
+minion 22922
+minion 20712
+minion 37274
+minion 21983
+minion 20015
+minion 37886
+minion 8445
+minion 10431
+minion 37982
+minion 26435
+minion 8091
+minion 26396
+minion 34675
+minion 2275
+minion 16137
+minion 39891
+minion 27279
+minion 10203
+minion 10450
+minion 3594
+minion 13303
+minion 49407
+minion 5733
+minion 12107
+minion 18228
+minion 20502
+minion 10128
+minion 32479
+minion 48923
+minion 2111
+minion 18604
+minion 43043
+minion 9429
+minion 10389
+minion 14858
+minion 37075
+minion 14405
+minion 10273
+minion 47831
+minion 4548
+minion 39423
+minion 44442
+minion 24179
+minion 16085
+minion 14563
+minion 36941
+minion 39544
+minion 49719
+minion 24895
+minion 42717
+minion 13863
+minion 48607
+minion 10260
+minion 38331
+minion 22331
+minion 23514
+minion 14979
+minion 25166
+minion 3755
+minion 49513
+minion 27758
+minion 25965
+minion 11507
+minion 35870
+minion 7830
+minion 15047
+minion 16966
+minion 24286
+minion 37417
+minion 29061
+minion 25486
+minion 17006
+minion 12372
+minion 5902
+minion 14171
+minion 18861
+minion 25228
+minion 39648
+minion 47543
+minion 31286
+minion 30957
+minion 10409
+minion 7583
+minion 6206
+minion 38248
+minion 19997
+minion 32782
+minion 21097
+minion 38058
+minion 41343
+minion 22096
+minion 39238
+minion 6517
+minion 48318
+minion 26789
+minion 13457
+minion 32934
+minion 38308
+minion 8254
+minion 49515
+minion 19975
+minion 15258
+minion 12301
+minion 45833
+minion 17231
+minion 46857
+minion 36235
+minion 4358
+minion 24160
+minion 3469
+minion 48286
+minion 25331
+minion 27623
+minion 22468
+minion 18555
+minion 17349
+minion 18382
+minion 5301
+minion 47622
+minion 37833
+minion 32264
+minion 45869
+minion 36228
+minion 46073
+minion 6965
+minion 36247
+minion 10488
+minion 14053
+minion 29112
+minion 714
+minion 35927
+minion 36919
+minion 31393
+minion 48027
+minion 11311
+minion 15699
+minion 48107
+minion 11750
+minion 38975
+minion 41391
+minion 33762
+minion 28424
+minion 46937
+minion 34588
+minion 43057
+minion 46765
+minion 11615
+minion 34048
+minion 29762
+minion 9440
+minion 45075
+minion 27633
+minion 40685
+minion 20421
+minion 17251
+minion 24105
+minion 29029
+minion 16227
+minion 38868
+minion 30984
+minion 36368
+minion 22181
+minion 25245
+minion 23446
+minion 17542
+minion 11366
+minion 43937
+minion 29595
+minion 11157
+minion 2856
+minion 19241
+minion 6631
+minion 16326
+minion 6231
+minion 4071
+minion 3840
+minion 48931
+minion 1640
+minion 3016
+minion 10200
+minion 24631
+minion 26439
+minion 34291
+minion 19672
+minion 5638
+minion 8294
+minion 46234
+minion 10971
+minion 30776
+minion 37205
+minion 36669
+minion 31880
+minion 22882
+minion 7991
+minion 5022
+minion 11580
+minion 3179
+minion 23491
+minion 17046
+minion 31690
+minion 2827
+minion 32020
+minion 22891
+minion 26906
+minion 40198
+minion 38443
+minion 11307
+minion 34454
+minion 16350
+minion 13410
+minion 25174
+minion 27389
+minion 13210
+minion 28667
+minion 6352
+minion 9929
+minion 37890
+minion 5572
+minion 17807
+minion 9248
+minion 15132
+minion 32966
+minion 48818
+minion 23952
+minion 16186
+minion 37361
+minion 33749
+minion 8334
+minion 1209
+minion 42490
+minion 661
+minion 25440
+minion 34593
+minion 21326
+minion 7373
+minion 42611
+minion 3548
+minion 7385
+minion 29473
+minion 17195
+minion 46987
+minion 11780
+minion 44621
+minion 17365
+minion 12031
+minion 9280
+minion 18669
+minion 44214
+minion 1638
+minion 45093
+minion 23690
+minion 47606
+minion 5683
+minion 7798
+minion 16558
+minion 19861
+minion 33201
+minion 48939
+minion 10719
+minion 2837
+minion 4693
+minion 2972
+minion 33244
+minion 23859
+minion 12749
+minion 49733
+minion 42795
+minion 41884
+minion 21294
+minion 13741
+minion 6380
+minion 30505
+minion 26099
+minion 612
+minion 12261
+minion 3351
+minion 38344
+minion 31453
+minion 11920
+minion 6906
+minion 18691
+minion 39535
+minion 6695
+minion 6115
+minion 18800
+minion 3055
+minion 19757
+minion 26795
+minion 4767
+minion 37511
+minion 9410
+minion 4608
+minion 46665
+minion 26636
+minion 12501
+minion 44014
+minion 28535
+minion 20761
+minion 4616
+minion 12297
+minion 16484
+minion 26784
+minion 22919
+minion 37897
+minion 38712
+minion 43185
+minion 21507
+minion 5071
+minion 45537
+minion 13206
+minion 31516
+minion 1748
+minion 37018
+minion 3812
+minion 34146
+minion 15158
+minion 46276
+minion 27129
+minion 5059
+minion 9694
+minion 29976
+minion 15999
+minion 37117
+minion 33782
+minion 4331
+minion 1772
+minion 33839
+minion 49463
+minion 38111
+minion 18246
+minion 24816
+minion 17582
+minion 26836
+minion 49623
+minion 40421
+minion 41906
+minion 16615
+minion 18798
+minion 17403
+minion 25614
+minion 31548
+minion 14685
+minion 31258
+minion 41561
+minion 5995
+minion 7661
+minion 17590
+minion 42853
+minion 42489
+minion 47342
+minion 47738
+minion 1406
+minion 15702
+minion 44922
+minion 32321
+minion 484
+minion 39667
+minion 39136
+minion 33566
+minion 36940
+minion 9346
+minion 22044
+minion 16959
+minion 27290
+minion 38389
+minion 13934
+minion 24911
+minion 37395
+minion 13391
+minion 42239
+minion 48543
+minion 27478
+minion 9726
+minion 29445
+minion 28146
+minion 15290
+minion 34741
+minion 45556
+minion 27787
+minion 46669
+minion 34181
+minion 40986
+minion 6973
+minion 40768
+minion 20508
+minion 23410
+minion 1880
+minion 31914
+minion 17301
+minion 39936
+minion 2239
+minion 27478
+minion 35231
+minion 30462
+minion 16268
+minion 9503
+minion 47726
+minion 3967
+minion 3171
+minion 42061
+minion 32750
+minion 30195
+minion 29461
+minion 250
+minion 48799
+minion 20260
+minion 41679
+minion 36257
+minion 16776
+minion 17031
+minion 15743
+minion 44111
+minion 11349
+minion 36897
+minion 2759
+minion 18360
+minion 15071
+minion 26190
+minion 6782
+minion 14979
+minion 12053
+minion 42997
+minion 20093
+minion 23454
+minion 40000
+minion 21064
+minion 42246
+minion 29263
+minion 13176
+minion 18642
+minion 17564
+minion 30773
+minion 42385
+minion 35726
+minion 13919
+minion 3986
+minion 11524
+minion 6722
+minion 41969
+minion 247
+minion 31730
+minion 15623
+minion 15137
+minion 270
+minion 24193
+minion 8127
+minion 16129
+minion 48334
+minion 27703
+minion 47908
+minion 44432
+minion 21535
+minion 47185
+minion 38191
+minion 30007
+minion 39752
+minion 10101
+minion 6007
+minion 10250
+minion 27734
+minion 28014
+minion 12416
+minion 23080
+minion 48133
+minion 49466
+minion 34969
+minion 1726
+minion 25622
+minion 22978
+minion 48773
+minion 6835
+minion 8348
+minion 34221
+minion 6534
+minion 33248
+minion 46430
+minion 27859
+minion 19823
+minion 49261
+minion 31872
+minion 4935
+minion 43912
+minion 1560
+minion 15268
+minion 24209
+minion 46029
+minion 33588
+minion 4193
+minion 5718
+minion 24166
+minion 43884
+minion 5516
+minion 46472
+minion 14234
+minion 22233
+minion 19314
+minion 42542
+minion 17003
+minion 803
+minion 39223
+minion 6401
+minion 40506
+minion 25355
+minion 28930
+minion 41072
+minion 36084
+minion 37313
+minion 40650
+minion 4942
+minion 33577
+minion 11892
+minion 40277
+minion 6746
+minion 28377
+minion 22799
+minion 34101
+minion 10855
+minion 7812
+minion 23924
+minion 3437
+minion 1381
+minion 47533
+minion 19903
+minion 48812
+minion 4888
+minion 1319
+minion 11876
+minion 19986
+minion 34301
+minion 13934
+minion 3887
+minion 10855
+minion 19020
+minion 10037
+minion 25471
+minion 14428
+minion 18556
+minion 22630
+minion 24195
+minion 38125
+minion 8715
+minion 42937
+minion 49250
+minion 22141
+minion 12273
+minion 3606
+minion 48770
+minion 18094
+minion 41434
+minion 38131
+minion 8459
+minion 34730
+minion 43079
+minion 47365
+minion 37841
+minion 8868
+minion 20602
+minion 26543
+minion 24041
+minion 39753
+minion 24207
+minion 17327
+minion 6349
+minion 41008
+minion 29689
+minion 1037
+minion 21256
+minion 46709
+minion 2906
+minion 8371
+minion 15545
+minion 38225
+minion 33616
+minion 35799
+minion 44722
+minion 8444
+minion 48282
+minion 47762
+minion 36538
+minion 1281
+minion 2548
+minion 43781
+minion 28551
+minion 46169
+minion 5474
+minion 19156
+minion 17776
+minion 21655
+minion 22195
+minion 16603
+minion 43826
+minion 42013
+minion 48588
+minion 34442
+minion 13917
+minion 41388
+minion 36588
+minion 8241
+minion 42452
+minion 11236
+minion 32349
+minion 2061
+minion 15187
+minion 33063
+minion 22586
+minion 20233
+minion 1114
+minion 7279
+minion 2643
+minion 29397
+minion 10585
+minion 22840
+minion 40004
+minion 22759
+minion 37204
+minion 30425
+minion 38775
+minion 10180
+minion 35533
+minion 10532
+minion 33261
+minion 49601
+minion 24513
+minion 36303
+minion 14544
+minion 23532
+minion 39637
+minion 49173
+minion 21882
+minion 3333
+minion 21855
+minion 40041
+minion 5309
+minion 25302
+minion 18931
+minion 487
+minion 28594
+minion 45488
+minion 23582
+minion 35241
+minion 18042
+minion 10496
+minion 19012
+minion 42798
+minion 6017
+minion 20985
+minion 2008
+minion 25828
+minion 47238
+minion 33491
+minion 2613
+minion 26407
+minion 22707
+minion 31919
+minion 27974
+minion 32748
+minion 27547
+minion 28884
+minion 18518
+minion 49054
+minion 30596
+minion 1940
+minion 35397
+minion 49309
+minion 7541
+minion 20544
+minion 17530
+minion 14702
+minion 3828
+minion 36716
+minion 1831
+minion 43286
+minion 36597
+minion 292
+minion 42489
+minion 22764
+minion 30589
+minion 31715
+minion 30285
+minion 43559
+minion 21524
+minion 13808
+minion 1935
+minion 38391
+minion 720
+minion 45448
+minion 17333
+minion 23389
+minion 47327
+minion 36183
+minion 22939
+minion 49709
+minion 26969
+minion 24527
+minion 4645
+minion 16102
+minion 25099
+minion 19702
+minion 35256
+minion 35473
+minion 3454
+minion 37305
+minion 22000
+minion 10521
+minion 31659
+minion 9326
+minion 39809
+minion 22415
+minion 39429
+minion 5210
+minion 2158
+minion 45832
+minion 48599
+minion 24959
+minion 27530
+minion 16787
+minion 4
+minion 47005
+minion 48588
+minion 12093
+minion 3210
+minion 44140
+minion 17374
+minion 17644
+minion 13776
+minion 2122
+minion 16317
+minion 12069
+minion 45646
+minion 26387
+minion 47665
+minion 10887
+minion 46458
+minion 44812
+minion 40104
+minion 34218
+minion 41808
+minion 41414
+minion 6732
+minion 41394
+minion 5638
+minion 44918
+minion 33959
+minion 42117
+minion 34025
+minion 27107
+minion 1109
+minion 2009
+minion 46997
+minion 37857
+minion 16097
+minion 28093
+minion 21113
+minion 23163
+minion 32262
+minion 9314
+minion 19930
+minion 4356
+minion 46744
+minion 29536
+minion 43008
+minion 27740
+minion 26768
+minion 13042
+minion 7544
+minion 41271
+minion 49374
+minion 3787
+minion 34855
+minion 43311
+minion 24979
+minion 8590
+minion 40273
+minion 7194
+minion 6455
+minion 8292
+minion 10180
+minion 25257
+minion 33618
+minion 36669
+minion 1012
+minion 14307
+minion 15072
+minion 7789
+minion 10290
+minion 19572
+minion 39773
+minion 23295
+minion 12549
+minion 30790
+minion 14287
+minion 37452
+minion 44669
+minion 27195
+minion 48385
+minion 27898
+minion 18150
+minion 20917
+minion 34572
+minion 42754
+minion 27732
+minion 47322
+minion 17154
+minion 3685
+minion 12878
+minion 7506
+minion 37819
+minion 13918
+minion 16707
+minion 23970
+minion 49133
+minion 44672
+minion 20737
+minion 10075
+minion 28524
+minion 28701
+minion 12667
+minion 18979
+minion 2752
+minion 37971
+minion 1497
+minion 26078
+minion 41237
+minion 4064
+minion 29023
+minion 37527
+minion 13921
+minion 13078
+minion 8809
+minion 28557
+minion 40142
+minion 39263
+minion 40684
+minion 40864
+minion 8936
+minion 3689
+minion 47152
+minion 11386
+minion 44910
+minion 2783
+minion 31753
+minion 25854
+minion 6587
+minion 38579
+minion 31656
+minion 19615
+minion 16714
+minion 34594
+minion 48671
+minion 19683
+minion 15230
+minion 49170
+minion 18165
+minion 46601
+minion 41256
+minion 1654
+minion 6084
+minion 13089
+minion 24662
+minion 25351
+minion 43585
+minion 24741
+minion 5108
+minion 38150
+minion 33828
+minion 9870
+minion 3988
+minion 29872
+minion 1138
+minion 24834
+minion 31548
+minion 1281
+minion 24068
+minion 49968
+minion 6218
+minion 25643
+minion 19490
+minion 2658
+minion 22408
+minion 9408
+minion 20812
+minion 29327
+minion 14406
+minion 39126
+minion 13326
+minion 40971
+minion 21097
+minion 44083
+minion 49608
+minion 7282
+minion 47605
+minion 34062
+minion 36724
+minion 19559
+minion 9198
+minion 7012
+minion 20745
+minion 18437
+minion 4751
+minion 21786
+minion 15627
+minion 36842
+minion 33456
+minion 23837
+minion 38135
+minion 13948
+minion 25102
+minion 18197
+minion 40382
+minion 15613
+minion 32163
+minion 3425
+minion 40681
+minion 15253
+minion 4538
+minion 14257
+minion 10334
+minion 15982
+minion 24823
+minion 42856
+minion 38772
+minion 9904
+minion 30263
+minion 43855
+minion 27228
+minion 47485
+minion 14556
+minion 4509
+minion 40769
+minion 49206
+minion 4897
+minion 1053
+minion 47907
+minion 621
+minion 43781
+minion 33970
+minion 45871
+minion 40569
+minion 990
+minion 49378
+minion 15869
+minion 2900
+minion 3701
+minion 33995
+minion 25118
+minion 44179
+minion 43381
+minion 21471
+minion 15020
+minion 44940
+minion 46677
+minion 4763
+minion 43613
+minion 11894
+minion 33014
+minion 5722
+minion 6578
+minion 39600
+minion 46608
+minion 40649
+minion 49391
+minion 20592
+minion 27427
+minion 41176
+minion 10716
+minion 31110
+minion 5517
+minion 40060
+minion 21471
+minion 20568
+minion 18386
+minion 19765
+minion 14991
+minion 25445
+minion 26987
+minion 35871
+minion 6203
+minion 46268
+minion 18736
+minion 33049
+minion 4104
+minion 43085
+minion 39489
+minion 45828
+minion 2528
+minion 133
+minion 7439
+minion 36013
+minion 17606
+minion 38058
+minion 27391
+minion 6270
+minion 43960
+minion 10341
+minion 49986
+minion 45276
+minion 25473
+minion 12524
+minion 23279
+minion 44008
+minion 38661
+minion 3320
+minion 49999
+minion 44451
+minion 26554
+minion 26912
+minion 39771
+minion 18168
+minion 34906
+minion 47143
+minion 49519
+minion 10309
+minion 20863
+minion 13559
+minion 36545
+minion 6305
+minion 31103
+minion 31598
+minion 38648
+minion 10582
+minion 23671
+minion 19504
+minion 22453
+minion 33412
+minion 43177
+minion 12115
+minion 25804
+minion 4650
+minion 25459
+minion 31711
+minion 10398
+minion 43678
+minion 22989
+minion 24728
+minion 44387
+minion 783
+minion 43086
+minion 45037
+minion 19274
+minion 25615
+minion 10362
+minion 39270
+minion 1106
+minion 20463
+minion 38539
+minion 17081
+minion 35406
+minion 30401
+minion 23796
+minion 43680
+minion 14173
+minion 43875
+minion 23876
+minion 12697
+minion 20337
+minion 19157
+minion 30866
+minion 16586
+minion 1274
+minion 14438
+minion 1107
+minion 35121
+minion 42709
+minion 3195
+minion 36745
+minion 5841
+minion 37320
+minion 46135
+minion 19171
+minion 35761
+minion 13219
+minion 36065
+minion 12323
+minion 13032
+minion 220
+minion 34400
+minion 18397
+minion 1990
+minion 44873
+minion 26095
+minion 26709
+minion 45403
+minion 30854
+minion 31778
+minion 17538
+minion 16522
+minion 19801
+minion 10292
+minion 4390
+minion 25230
+minion 19917
+minion 26500
+minion 43763
+minion 4836
+minion 24507
+minion 25240
+minion 46561
+minion 47911
+minion 33718
+minion 32697
+minion 29760
+minion 39270
+minion 11230
+minion 38035
+minion 30461
+minion 28107
+minion 31551
+minion 10844
+minion 12476
+minion 35936
+minion 759
+minion 28876
+minion 21713
+minion 25178
+minion 37729
+minion 5704
+minion 4267
+minion 10930
+minion 35657
+minion 20222
+minion 36039
+minion 27028
+minion 41745
+minion 43940
+minion 15844
+minion 36719
+minion 42301
+minion 7487
+minion 38524
+minion 24979
+minion 37839
+minion 20485
+minion 18271
+minion 12175
+minion 46334
+minion 37438
+minion 34173
+minion 42818
+minion 1317
+minion 39430
+minion 34971
+minion 8957
+minion 47815
+minion 18453
+minion 24470
+minion 41040
+minion 4786
+minion 18584
+minion 17107
+minion 18803
+minion 20973
+minion 35630
+minion 12254
+minion 13496
+minion 46658
+minion 2731
+minion 47525
+minion 17289
+minion 22190
+minion 43741
+minion 35805
+minion 24064
+minion 22319
+minion 37497
+minion 48097
+minion 30274
+minion 10605
+minion 9537
+minion 28844
+minion 291
+minion 21531
+minion 11448
+minion 9613
+minion 46226
+minion 35250
+minion 27082
+minion 29213
+minion 23291
+minion 19470
+minion 24803
+minion 31932
+minion 23717
+minion 40380
+minion 19721
+minion 4005
+minion 2209
+minion 8231
+minion 4774
+minion 15517
+minion 43602
+minion 39912
+minion 16883
+minion 20628
+minion 7575
+minion 3624
+minion 10907
+minion 36638
+minion 10317
+minion 20356
+minion 44196
+minion 30435
+minion 45249
+minion 39740
+minion 16815
+minion 47271
+minion 9525
+minion 26017
+minion 16027
+minion 28246
+minion 19576
+minion 23518
+minion 24234
+minion 47819
+minion 47387
+minion 11809
+minion 12088
+minion 33683
+minion 2597
+minion 33492
+minion 45888
+minion 22042
+minion 5830
+minion 44020
+minion 35241
+minion 10378
+minion 4647
+minion 40820
+minion 2037
+minion 42601
+minion 24343
+minion 40443
+minion 18896
+minion 2935
+minion 25273
+minion 44368
+minion 36682
+minion 33976
+minion 23564
+minion 22449
+minion 44479
+minion 26191
+minion 42203
+minion 26528
+minion 45941
+minion 20084
+minion 15678
+minion 19064
+minion 23240
+minion 45766
+minion 41535
+minion 27223
+minion 34040
+minion 26825
+minion 24467
+minion 22153
+minion 24605
+minion 1229
+minion 4498
+minion 6436
+minion 42624
+minion 18705
+minion 23979
+minion 23426
+minion 3902
+minion 29132
+minion 4621
+minion 21299
+minion 22545
+minion 3018
+minion 25126
+minion 28112
+minion 10119
+minion 30147
+minion 39012
+minion 19696
+minion 29839
+minion 29301
+minion 48078
+minion 15157
+minion 44700
+minion 35582
+minion 17579
+minion 6271
+minion 1065
+minion 47119
+minion 6403
+minion 42071
+minion 28467
+minion 3119
+minion 19763
+minion 35453
+minion 29478
+minion 17127
+minion 29825
+minion 25774
+minion 2211
+minion 18777
+minion 22626
+minion 16809
+minion 15462
+minion 44378
+minion 46519
+minion 20222
+minion 20639
+minion 13423
+minion 17103
+minion 3893
+minion 37812
+minion 4771
+minion 42314
+minion 45303
+minion 3150
+minion 39341
+minion 11736
+minion 7041
+minion 1126
+minion 17708
+minion 22360
+minion 6783
+minion 22729
+minion 12550
+minion 42831
+minion 19425
+minion 33255
+minion 39673
+minion 48634
+minion 42992
+minion 322
+minion 13238
+minion 17484
+minion 11061
+minion 6675
+minion 31269
+minion 49694
+minion 321
+minion 39063
+minion 47356
+minion 35632
+minion 37642
+minion 30015
+minion 2510
+minion 4258
+minion 23695
+minion 10805
+minion 24459
+minion 32303
+minion 40136
+minion 5391
+minion 22783
+minion 24648
+minion 34503
+minion 46417
+minion 15842
+minion 44079
+minion 2912
+minion 1547
+minion 27093
+minion 36966
+minion 30965
+minion 14789
+minion 24111
+minion 3570
+minion 24574
+minion 37286
+minion 31252
+minion 38628
+minion 21880
+minion 39647
+minion 11414
+minion 17978
+minion 3769
+minion 32076
+minion 34717
+minion 26767
+minion 20219
+minion 8291
+minion 19136
+minion 8619
+minion 8795
+minion 7370
+minion 8497
+minion 37600
+minion 27538
+minion 38589
+minion 32981
+minion 14644
+minion 40832
+minion 37189
+minion 46781
+minion 48774
+minion 11969
+minion 10390
+minion 4666
+minion 22852
+minion 5903
+minion 48939
+minion 29684
+minion 36409
+minion 29553
+minion 35830
+minion 10422
+minion 489
+minion 43977
+minion 4805
+minion 20878
+minion 2426
+minion 11699
+minion 39075
+minion 23860
+minion 44620
+minion 32410
+minion 18473
+minion 28171
+minion 23595
+minion 6292
+minion 36511
+minion 26032
+minion 35984
+minion 4305
+minion 16607
+minion 47796
+minion 34690
+minion 42865
+minion 12639
+minion 6008
+minion 43379
+minion 27410
+minion 11865
+minion 20863
+minion 21279
+minion 28607
+minion 32727
+minion 29066
+minion 22965
+minion 46947
+minion 8008
+minion 43623
+minion 22732
+minion 17711
+minion 30555
+minion 2944
+minion 1756
+minion 13328
+minion 2161
+minion 16363
+minion 43496
+minion 32218
+minion 31070
+minion 16560
+minion 19392
+minion 22906
+minion 43699
+minion 32104
+minion 12945
+minion 38034
+minion 25731
+minion 7623
+minion 31338
+minion 48797
+minion 27499
+minion 25016
+minion 49833
+minion 18211
+minion 2581
+minion 16013
+minion 49683
+minion 39406
+minion 5205
+minion 26647
+minion 48283
+minion 42887
+minion 3299
+minion 18273
+minion 23749
+minion 13662
+minion 46039
+minion 21361
+minion 40704
+minion 46275
+minion 12511
+minion 11160
+minion 46339
+minion 45305
+minion 1471
+minion 48373
+minion 34907
+minion 623
+minion 16121
+minion 34930
+minion 21216
+minion 384
+minion 12285
+minion 23935
+minion 40211
+minion 5539
+minion 3111
+minion 33545
+minion 10747
+minion 36148
+minion 16680
+minion 4089
+minion 27012
+minion 4423
+minion 18276
+minion 26504
+minion 19607
+minion 25426
+minion 8354
+minion 49282
+minion 41994
+minion 4369
+minion 16919
+minion 35063
+minion 36285
+minion 16339
+minion 28676
+minion 4528
+minion 16740
+minion 4207
+minion 31105
+minion 49060
+minion 23285
+minion 20275
+minion 5431
+minion 47898
+minion 30602
+minion 29363
+minion 28061
+minion 18210
+minion 10551
+minion 12494
+minion 10613
+minion 4556
+minion 29595
+minion 8422
+minion 34147
+minion 41916
+minion 27028
+minion 24966
+minion 28766
+minion 9481
+minion 42268
+minion 16838
+minion 42936
+minion 16846
+minion 33465
+minion 27222
+minion 37650
+minion 23872
+minion 26862
+minion 48582
+minion 16804
+minion 6540
+minion 5042
+minion 17619
+minion 30803
+minion 6737
+minion 48991
+minion 20377
+minion 45902
+minion 40243
+minion 47364
+minion 40143
+minion 38730
+minion 29499
+minion 43755
+minion 12363
+minion 5468
+minion 27862
+minion 32191
+minion 36760
+minion 27499
+minion 41774
+minion 25441
+minion 21623
+minion 6791
+minion 6447
+minion 27338
+minion 38584
+minion 14433
+minion 3380
+minion 41713
+minion 4189
+minion 41348
+minion 11969
+minion 45690
+minion 4073
+minion 49513
+minion 11975
+minion 27619
+minion 27409
+minion 42924
+minion 6651
+minion 29064
+minion 38523
+minion 12117
+minion 2125
+minion 28107
+minion 13436
+minion 23090
+minion 21101
+minion 21753
+minion 9787
+minion 41680
+minion 40101
+minion 21082
+minion 25029
+minion 31098
+minion 33419
+minion 10827
+minion 24356
+minion 29399
+minion 10406
+minion 5944
+minion 42521
+minion 48529
+minion 43174
+minion 48794
+minion 26761
+minion 33809
+minion 39681
+minion 12850
+minion 43492
+minion 243
+minion 4782
+minion 43836
+minion 20848
+minion 12710
+minion 36918
+minion 9505
+minion 4666
+minion 28339
+minion 13901
+minion 15494
+minion 43331
+minion 31626
+minion 31925
+minion 12508
+minion 1247
+minion 40886
+minion 20660
+minion 22975
+minion 16093
+minion 1148
+minion 3262
+minion 48010
+minion 32517
+minion 706
+minion 36542
+minion 39993
+minion 18942
+minion 3330
+minion 1346
+minion 29627
+minion 33409
+minion 8251
+minion 28261
+minion 9544
+minion 36898
+minion 46265
+minion 234
+minion 12319
+minion 44179
+minion 23913
+minion 6160
+minion 46017
+minion 15497
+minion 44912
+minion 12612
+minion 10894
+minion 16603
+minion 30666
+minion 47547
+minion 35874
+minion 13149
+minion 16706
+minion 46756
+minion 42344
+minion 46981
+minion 6772
+minion 11318
+minion 20142
+minion 26167
+minion 46925
+minion 40563
+minion 1335
+minion 26992
+minion 34274
+minion 32084
+minion 35079
+minion 3365
+minion 22381
+minion 25610
+minion 4981
+minion 40652
+minion 8340
+minion 28795
+minion 42180
+minion 44987
+minion 7245
+minion 32512
+minion 37604
+minion 38093
+minion 25648
+minion 23389
+minion 38276
+minion 5783
+minion 15471
+minion 16477
+minion 16702
+minion 11495
+minion 35917
+minion 12562
+minion 30125
+minion 34946
+minion 30092
+minion 36152
+minion 47254
+minion 33350
+minion 4825
+minion 19024
+minion 31222
+minion 12827
+minion 27533
+minion 7529
+minion 44221
+minion 5055
+minion 42565
+minion 45222
+minion 4808
+minion 37910
+minion 4576
+minion 47356
+minion 39735
+minion 24260
+minion 23714
+minion 32048
+minion 519
+minion 23535
+minion 2287
+minion 45552
+minion 11520
+minion 17796
+minion 15381
+minion 23584
+minion 17447
+minion 9818
+minion 45485
+minion 20035
+minion 10560
+minion 22188
+minion 31541
+minion 8830
+minion 40162
+minion 38220
+minion 1289
+minion 24776
+minion 10560
+minion 18119
+minion 29168
+minion 33221
+minion 13217
+minion 20249
+minion 11669
+minion 28792
+minion 6919
+minion 38560
+minion 22826
+minion 5865
+minion 11232
+minion 48043
+minion 35633
+minion 23719
+minion 31063
+minion 9272
+minion 7504
+minion 13425
+minion 47445
+minion 3948
+minion 40081
+minion 34402
+minion 9569
+minion 22530
+minion 34661
+minion 32620
+minion 6368
+minion 45746
+minion 7194
+minion 1515
+minion 22970
+minion 48937
+minion 21487
+minion 32400
+minion 44367
+minion 19065
+minion 32335
+minion 41270
+minion 6127
+minion 36589
+minion 16665
+minion 28887
+minion 36991
+minion 39619
+minion 8803
+minion 12516
+minion 36555
+minion 7822
+minion 27767
+minion 30889
+minion 30715
+minion 37863
+minion 27330
+minion 6612
+minion 28037
+minion 44765
+minion 23651
+minion 40687
+minion 35588
+minion 29048
+minion 22424
+minion 11173
+minion 31365
+minion 21311
+minion 32895
+minion 12295
+minion 26556
+minion 3233
+minion 29351
+minion 11997
+minion 26937
+minion 16233
+minion 7298
+minion 10856
+minion 37283
+minion 11194
+minion 47410
+minion 19950
+minion 13727
+minion 22144
+minion 46065
+minion 48546
+minion 17979
+minion 26305
+minion 20799
+minion 35106
+minion 21606
+minion 14875
+minion 4362
+minion 49602
+minion 45414
+minion 41647
+minion 5682
+minion 27079
+minion 14164
+minion 5492
+minion 47521
+minion 15680
+minion 6724
+minion 46508
+minion 35960
+minion 33321
+minion 28470
+minion 15769
+minion 3951
+minion 14482
+minion 30565
+minion 16474
+minion 19328
+minion 16843
+minion 47354
+minion 3700
+minion 26960
+minion 13443
+minion 32983
+minion 23878
+minion 43194
+minion 5060
+minion 511
+minion 47788
+minion 40688
+minion 11680
+minion 48870
+minion 29749
+minion 16582
+minion 35289
+minion 10551
+minion 30219
+minion 46691
+minion 31790
+minion 13673
+minion 31730
+minion 13225
+minion 17218
+minion 36184
+minion 12743
+minion 20075
+minion 2209
+minion 22354
+minion 6317
+minion 4541
+minion 5131
+minion 45546
+minion 37519
+minion 2247
+minion 41713
+minion 14687
+minion 42239
+minion 44095
+minion 40286
+minion 12298
+minion 42460
+minion 15168
+minion 8936
+minion 5819
+minion 24279
+minion 34451
+minion 48721
+minion 49187
+minion 18661
+minion 3931
+minion 346
+minion 19782
+minion 37537
+minion 3169
+minion 15623
+minion 40475
+minion 9741
+minion 27258
+minion 20240
+minion 3802
+minion 40984
+minion 32706
+minion 44194
+minion 43246
+minion 35556
+minion 16134
+minion 11351
+minion 27501
+minion 24868
+minion 20602
+minion 18311
+minion 36123
+minion 6404
+minion 19492
+minion 21212
+minion 16561
+minion 4288
+minion 11399
+minion 11904
+minion 28292
+minion 21354
+minion 3021
+minion 3692
+minion 2386
+minion 4195
+minion 35349
+minion 8008
+minion 34349
+minion 36623
+minion 1238
+minion 4946
+minion 14980
+minion 23855
+minion 36484
+minion 21313
+minion 9754
+minion 20974
+minion 15689
+minion 20262
+minion 8145
+minion 23100
+minion 21219
+minion 24319
+minion 48059
+minion 35619
+minion 14222
+minion 13377
+minion 18045
+minion 31957
+minion 49062
+minion 36186
+minion 48341
+minion 15354
+minion 41947
+minion 32448
+minion 37963
+minion 29013
+minion 41807
+minion 39051
+minion 207
+minion 8125
+minion 27001
+minion 40877
+minion 23630
+minion 15655
+minion 3331
+minion 12268
+minion 19920
+minion 48179
+minion 11457
+minion 45587
+minion 38599
+minion 41137
+minion 3758
+minion 5192
+minion 135
+minion 28702
+minion 5632
+minion 16767
+minion 39972
+minion 21971
+minion 39963
+minion 2391
+minion 37561
+minion 15051
+minion 6605
+minion 49626
+minion 31907
+minion 4035
+minion 33350
+minion 30740
+minion 29166
+minion 26638
+minion 20054
+minion 19
+minion 46098
+minion 30341
+minion 688
+minion 32403
+minion 32288
+minion 1954
+minion 43456
+minion 19865
+minion 20500
+minion 3475
+minion 47587
+minion 7203
+minion 11595
+minion 36755
+minion 32313
+minion 9260
+minion 23381
+minion 25040
+minion 49078
+minion 28235
+minion 18162
+minion 24609
+minion 3316
+minion 8578
+minion 9050
+minion 3705
+minion 30360
+minion 15885
+minion 14829
+minion 30716
+minion 16420
+minion 11960
+minion 21083
+minion 3739
+minion 9093
+minion 19793
+minion 28013
+minion 23228
+minion 34479
+minion 38018
+minion 28514
+minion 20097
+minion 31891
+minion 34086
+minion 17463
+minion 49401
+minion 38030
+minion 45151
+minion 21722
+minion 24089
+minion 7359
+minion 4126
+minion 27559
+minion 41818
+minion 31857
+minion 21488
+minion 27025
+minion 42110
+minion 23353
+minion 28582
+minion 21594
+minion 27571
+minion 5036
+minion 39783
+minion 37054
+minion 35626
+minion 36120
+minion 7856
+minion 27662
+minion 12519
+minion 31247
+minion 152
+minion 40561
+minion 11060
+minion 49721
+minion 48064
+minion 42717
+minion 19229
+minion 41114
+minion 9649
+minion 15674
+minion 35208
+minion 44163
+minion 40739
+minion 23357
+minion 12294
+minion 34400
+minion 29264
+minion 21881
+minion 37605
+minion 42768
+minion 35903
+minion 49875
+minion 5896
+minion 16424
+minion 943
+minion 15061
+minion 42108
+minion 47031
+minion 31836
+minion 13280
+minion 30174
+minion 17489
+minion 9202
+minion 42842
+minion 7207
+minion 13564
+minion 16499
+minion 42097
+minion 33792
+minion 28770
+minion 7795
+minion 995
+minion 13703
+minion 12908
+minion 36385
+minion 33408
+minion 14296
+minion 16425
+minion 24760
+minion 1225
+minion 6855
+minion 35974
+minion 40056
+minion 19751
+minion 45343
+minion 276
+minion 34665
+minion 44635
+minion 48777
+minion 33003
+minion 609
+minion 22197
+minion 9277
+minion 46368
+minion 35499
+minion 17718
+minion 34960
+minion 47897
+minion 16150
+minion 48729
+minion 17901
+minion 37167
+minion 38089
+minion 8834
+minion 34973
+minion 34908
+minion 36171
+minion 42987
+minion 30038
+minion 17535
+minion 764
+minion 25683
+minion 22271
+minion 30610
+minion 6425
+minion 44199
+minion 27432
+minion 39451
+minion 47498
+minion 6930
+minion 28899
+minion 21863
+mine Toncho 788 56 71
+mine Toncho 17335 55 37
+mine Poncho 16398 1 52
+mine Domat 19688 95 63
+mine Domat 10435 28 84
+mine Gosho 31242 64 50
+mine Poncho 28666 80 83
+mine Toncho 45509 1 18
+mine Zelka 46037 87 75
+mine Arpajik 49375 86 38
+mine Gosho 11372 38 69
+mine Arpajik 46240 94 74
+mine Poncho 46210 10 74
+mine Toncho 37221 15 24
+mine Gosho 3235 71 26
+mine Arpajik 36108 57 5
+mine Gosho 41055 13 75
+mine Arpajik 10585 2 71
+mine Gosho 45268 52 6
+mine Stamat 47873 99 7
+mine Domat 3207 90 89
+mine Toncho 13336 33 65
+mine Toncho 31769 38 55
+mine Gosho 30140 83 59
+mine Domat 16149 37 69
+mine Toncho 9998 22 72
+mine Poncho 19270 40 96
+mine Stamat 4042 99 41
+mine Pesho 31984 63 48
+mine Toncho 34305 24 5
+mine Zelka 23592 97 89
+mine Toncho 23111 43 74
+mine Pesho 46628 41 92
+mine Arpajik 15165 28 43
+mine Toncho 9255 96 43
+mine Toncho 18835 43 70
+mine Domat 48073 47 64
+mine Poncho 17259 76 98
+mine Pesho 15704 20 33
+mine Stamat 16822 87 45
+mine Poncho 32712 87 29
+mine Domat 3918 82 77
+mine Gosho 10288 64 64
+mine Domat 40536 19 11
+mine Pesho 13789 25 88
+mine Poncho 39977 77 73
+mine Stamat 21547 84 27
+mine Pesho 47198 20 51
+mine Gosho 25864 48 21
+mine Arpajik 6991 2 56
+mine Stamat 35169 27 77
+mine Domat 6479 26 27
+mine Stamat 3864 29 96
+mine Pesho 132 46 15
+mine Poncho 7168 13 24
+mine Stamat 27368 66 42
+mine Pesho 6383 33 20
+mine Gosho 48335 61 91
+mine Gosho 34298 73 28
+mine Arpajik 453 3 3
+mine Stamat 28445 15 3
+mine Domat 12207 42 30
+mine Pesho 16397 34 36
+mine Pesho 38657 32 59
+mine Pesho 42242 75 58
+mine Toncho 2766 93 16
+mine Zelka 19226 69 41
+mine Gosho 8939 62 88
+mine Pesho 4410 7 67
+mine Zelka 31466 76 77
+mine Domat 1277 15 0
+mine Domat 12790 88 48
+mine Gosho 7324 25 69
+mine Gosho 22175 24 12
+mine Domat 49016 57 27
+mine Arpajik 593 4 88
+mine Domat 23106 24 93
+mine Domat 32448 19 41
+mine Pesho 49612 87 78
+mine Poncho 46820 53 20
+mine Zelka 10608 4 12
+mine Poncho 46646 62 68
+mine Toncho 47521 5 42
+mine Pesho 24649 22 70
+mine Poncho 13558 30 17
+mine Pesho 47967 78 72
+mine Poncho 41501 61 26
+mine Arpajik 23133 21 70
+mine Zelka 18118 77 33
+mine Poncho 46005 93 78
+mine Toncho 28128 8 76
+mine Arpajik 38297 35 59
+mine Toncho 8615 78 64
+mine Domat 18120 19 54
+mine Zelka 16082 16 10
+mine Gosho 17917 11 39
+mine Domat 17380 97 70
+mine Domat 44016 72 6
+mine Gosho 25996 33 45
+mine Poncho 1436 11 19
+mine Zelka 1079 48 40
+mine Domat 28657 6 8
+mine Stamat 11820 90 65
+mine Toncho 41642 45 48
+mine Zelka 34338 2 26
+mine Toncho 32749 86 90
+mine Zelka 36056 31 12
+mine Pesho 36783 65 40
+mine Stamat 48412 63 30
+mine Toncho 35104 71 16
+mine Gosho 44437 53 48
+mine Poncho 3725 31 50
+mine Pesho 42133 99 19
+mine Pesho 42444 40 83
+mine Stamat 29426 95 96
+mine Gosho 46511 5 44
+mine Arpajik 25127 44 79
+mine Stamat 7322 61 76
+mine Poncho 42327 96 91
+mine Stamat 19317 92 37
+mine Zelka 40315 6 19
+mine Domat 22898 39 36
+mine Arpajik 40311 15 28
+mine Domat 37983 89 36
+mine Toncho 4429 90 47
+mine Domat 25781 30 93
+mine Stamat 11870 23 17
+mine Poncho 24890 69 77
+mine Domat 29080 54 46
+mine Poncho 42884 69 12
+mine Pesho 3769 23 40
+mine Poncho 16270 1 21
+mine Poncho 29952 7 4
+mine Zelka 22364 73 90
+mine Arpajik 6398 96 50
+mine Stamat 10857 48 7
+mine Pesho 19142 62 16
+mine Stamat 21877 49 99
+mine Zelka 38826 36 56
+mine Gosho 44862 92 91
+mine Stamat 525 22 28
+mine Zelka 32581 28 22
+mine Toncho 32060 95 75
+mine Poncho 9620 89 90
+mine Arpajik 7699 29 61
+mine Domat 42144 99 51
+mine Pesho 4181 65 71
+mine Pesho 8809 61 62
+mine Stamat 2699 28 22
+mine Poncho 9699 63 46
+mine Pesho 19813 32 58
+mine Zelka 36809 9 20
+mine Poncho 22895 96 13
+mine Arpajik 15675 20 38
+mine Pesho 35567 18 35
+mine Pesho 28563 13 67
+mine Pesho 16810 55 85
+mine Poncho 33292 90 40
+mine Arpajik 41129 51 31
+mine Arpajik 20742 3 37
+mine Poncho 22399 82 63
+mine Stamat 23436 1 89
+mine Toncho 44510 21 28
+mine Pesho 14328 46 53
+mine Gosho 32633 54 15
+mine Stamat 12028 29 22
+mine Arpajik 28093 62 79
+mine Toncho 44314 86 60
+mine Domat 39855 35 56
+mine Domat 24902 46 57
+mine Gosho 33124 98 2
+mine Zelka 30953 38 23
+mine Gosho 49051 5 87
+mine Toncho 43573 19 76
+mine Stamat 30070 8 65
+mine Toncho 10540 9 97
+mine Pesho 30221 59 22
+mine Poncho 45162 78 77
+mine Stamat 48916 81 52
+mine Gosho 12826 76 94
+mine Stamat 19458 43 82
+mine Toncho 49751 73 82
+mine Arpajik 29523 39 14
+mine Zelka 40328 72 12
+mine Arpajik 901 1 86
+mine Pesho 7871 30 46
+mine Stamat 13924 67 90
+mine Pesho 33286 51 91
+mine Toncho 7122 47 46
+mine Toncho 13236 13 3
+mine Toncho 38925 62 34
+mine Arpajik 31736 35 39
+mine Gosho 34588 94 23
+mine Gosho 45358 91 2
+mine Pesho 48271 62 56
+mine Gosho 41952 76 95
+mine Pesho 24125 31 28
+mine Gosho 12900 34 31
+mine Poncho 48447 98 24
+mine Arpajik 47405 94 56
+mine Poncho 14172 63 36
+mine Domat 13553 65 94
+mine Stamat 22324 37 82
+mine Domat 28386 71 3
+mine Pesho 33727 26 3
+mine Gosho 3496 6 0
+mine Gosho 31735 35 29
+mine Poncho 33357 48 14
+mine Pesho 2869 63 3
+mine Stamat 19909 23 82
+mine Toncho 18776 5 89
+mine Poncho 26028 67 32
+mine Gosho 47394 23 87
+mine Domat 45903 24 86
+mine Stamat 31420 2 8
+mine Poncho 18239 1 56
+mine Poncho 10891 80 59
+mine Poncho 33520 82 62
+mine Zelka 22439 20 96
+mine Pesho 8099 11 83
+mine Poncho 1271 3 98
+mine Zelka 30774 46 10
+mine Toncho 38489 80 58
+mine Zelka 6942 88 47
+mine Gosho 24203 92 68
+mine Domat 4180 39 59
+mine Pesho 30482 42 23
+mine Domat 14301 83 6
+mine Arpajik 9004 12 90
+mine Gosho 1471 13 35
+mine Toncho 35135 76 16
+mine Toncho 12350 23 31
+mine Arpajik 36690 58 54
+mine Stamat 21689 12 89
+mine Domat 21903 85 83
+mine Stamat 11163 38 53
+mine Poncho 36934 6 20
+mine Pesho 49467 13 34
+mine Gosho 28849 91 1
+mine Gosho 10839 72 88
+mine Zelka 5111 68 99
+mine Domat 14986 83 8
+mine Pesho 11836 26 90
+mine Stamat 14746 15 53
+mine Gosho 11583 24 12
+mine Stamat 1268 29 57
+mine Arpajik 12178 18 66
+mine Arpajik 4840 56 42
+mine Domat 49063 45 9
+mine Arpajik 19798 83 63
+mine Poncho 48760 14 79
+mine Domat 11454 17 6
+mine Zelka 19222 69 8
+mine Poncho 30134 69 35
+mine Toncho 5309 38 46
+mine Pesho 8701 57 98
+mine Domat 41656 19 19
+mine Toncho 2509 98 93
+mine Zelka 30197 22 21
+mine Poncho 25451 84 38
+mine Pesho 5694 23 13
+mine Zelka 23880 44 10
+mine Gosho 4961 29 44
+mine Pesho 18548 51 73
+mine Zelka 8435 11 90
+mine Pesho 48666 22 38
+mine Zelka 38393 68 38
+mine Zelka 23823 47 30
+mine Gosho 144 38 0
+mine Poncho 21942 57 19
+mine Zelka 3958 89 75
+mine Toncho 27391 91 3
+mine Pesho 24334 80 72
+mine Zelka 47042 34 10
+mine Poncho 42607 73 64
+mine Toncho 3323 72 82
+mine Domat 49392 18 1
+mine Poncho 25187 79 97
+mine Arpajik 45772 51 97
+mine Pesho 23872 62 85
+mine Toncho 32763 29 90
+mine Domat 37439 90 32
+mine Domat 13856 12 9
+mine Domat 46633 40 32
+mine Gosho 4104 11 78
+mine Gosho 44777 5 59
+mine Domat 41970 12 48
+mine Zelka 18656 3 41
+mine Stamat 44272 77 13
+mine Toncho 41332 15 89
+mine Pesho 42353 35 71
+mine Zelka 34834 26 67
+mine Arpajik 9291 61 100
+mine Gosho 42144 47 97
+mine Arpajik 34729 20 83
+mine Domat 20972 89 29
+mine Stamat 34994 85 82
+mine Stamat 13292 54 53
+mine Poncho 11343 69 53
+mine Arpajik 16435 20 0
+mine Arpajik 22398 97 24
+mine Toncho 1898 5 39
+mine Zelka 40673 52 8
+mine Domat 15767 25 67
+mine Poncho 2573 47 69
+mine Toncho 22145 51 24
+mine Domat 3951 6 14
+mine Stamat 47322 41 28
+mine Zelka 9859 26 18
+mine Zelka 32399 53 21
+mine Domat 23168 41 34
+mine Domat 22635 90 62
+mine Poncho 1111 57 50
+mine Toncho 25565 16 13
+mine Poncho 36181 60 69
+mine Poncho 45450 24 46
+mine Zelka 11842 59 43
+mine Pesho 3367 22 30
+mine Arpajik 12814 4 38
+mine Pesho 8472 50 19
+mine Stamat 21814 17 13
+mine Gosho 45775 42 99
+mine Pesho 5960 25 73
+mine Pesho 42087 23 74
+mine Stamat 47142 94 51
+mine Toncho 23510 56 91
+mine Toncho 13484 97 61
+mine Zelka 39187 10 77
+mine Stamat 20416 51 55
+mine Domat 5280 10 48
+mine Toncho 30542 40 95
+mine Toncho 24574 26 68
+mine Pesho 14767 16 9
+mine Stamat 49850 34 71
+mine Poncho 12837 33 10
+mine Poncho 40751 51 25
+mine Pesho 24116 51 64
+mine Gosho 34124 99 12
+mine Toncho 22914 69 25
+mine Pesho 30809 9 31
+mine Pesho 14705 58 17
+mine Domat 352 54 22
+mine Pesho 40013 67 49
+mine Toncho 49553 54 100
+mine Pesho 7103 92 33
+mine Poncho 30954 35 34
+mine Gosho 1609 25 77
+mine Gosho 4269 63 26
+mine Stamat 665 9 65
+mine Stamat 16554 62 1
+mine Poncho 14102 56 53
+mine Pesho 25498 34 86
+mine Poncho 34611 15 94
+mine Domat 37632 33 39
+mine Poncho 11611 88 60
+mine Toncho 38562 91 99
+mine Stamat 20299 32 77
+mine Poncho 44897 76 77
+mine Arpajik 45487 39 71
+mine Pesho 40741 33 79
+mine Domat 19196 85 61
+mine Poncho 34930 57 41
+mine Domat 34875 70 0
+mine Zelka 1047 25 17
+mine Gosho 28729 37 61
+mine Stamat 28803 95 1
+mine Poncho 18807 41 79
+mine Gosho 31168 34 13
+mine Poncho 4654 90 38
+mine Poncho 15251 6 47
+mine Toncho 45249 8 20
+mine Stamat 37934 32 50
+mine Domat 11112 34 48
+mine Zelka 36105 60 11
+mine Zelka 41903 68 56
+mine Gosho 39201 6 6
+mine Gosho 28422 11 36
+mine Pesho 43390 26 5
+mine Arpajik 44791 77 28
+mine Zelka 37727 81 17
+mine Pesho 45579 13 13
+mine Gosho 42857 68 18
+mine Zelka 39690 95 7
+mine Arpajik 24399 19 5
+mine Toncho 852 84 63
+mine Domat 48134 39 80
+mine Poncho 14056 95 55
+mine Poncho 15638 62 67
+mine Pesho 25663 51 37
+mine Domat 45971 78 50
+mine Poncho 46218 86 32
+mine Poncho 8777 44 3
+mine Domat 35843 44 48
+mine Poncho 9427 51 9
+mine Arpajik 16442 17 0
+mine Poncho 6390 23 18
+mine Stamat 14146 6 10
+mine Poncho 40403 39 93
+mine Stamat 17037 74 73
+mine Pesho 3491 88 80
+mine Toncho 46028 84 23
+mine Poncho 6933 76 83
+mine Poncho 20654 85 33
+mine Toncho 38854 60 76
+mine Domat 33964 15 63
+mine Pesho 16488 6 91
+mine Gosho 25332 24 57
+mine Zelka 39207 99 45
+mine Zelka 18834 16 98
+mine Gosho 49675 31 3
+mine Arpajik 11380 11 57
+mine Poncho 2988 18 46
+mine Domat 49198 4 42
+mine Poncho 12491 67 51
+mine Toncho 46805 91 37
+mine Poncho 9504 39 21
+mine Zelka 19904 88 37
+mine Arpajik 31102 47 71
+mine Gosho 5300 11 89
+mine Stamat 24305 94 26
+mine Gosho 39044 83 46
+mine Domat 28560 53 20
+mine Domat 32254 12 35
+mine Pesho 46794 14 33
+mine Toncho 44794 15 56
+mine Stamat 40254 84 11
+mine Arpajik 16565 5 82
+mine Stamat 39335 30 38
+mine Poncho 32265 5 11
+mine Gosho 46199 46 85
+mine Toncho 34266 67 98
+mine Arpajik 6068 62 44
+mine Poncho 38776 5 32
+mine Gosho 19492 9 52
+mine Poncho 35754 95 42
+mine Arpajik 35280 6 92
+mine Gosho 36701 36 44
+mine Poncho 1188 97 92
+mine Zelka 14938 69 49
+mine Stamat 43456 61 39
+mine Domat 30531 85 37
+mine Domat 48485 5 60
+mine Arpajik 25984 18 64
+mine Poncho 2290 33 16
+mine Domat 37926 62 78
+mine Toncho 9060 54 95
+mine Toncho 6458 89 3
+mine Domat 29930 39 7
+mine Pesho 27965 70 92
+mine Toncho 34523 18 38
+mine Domat 38249 88 37
+mine Toncho 16534 94 38
+mine Poncho 26044 86 37
+mine Stamat 41725 63 53
+mine Pesho 45621 56 61
+mine Pesho 124 89 96
+mine Stamat 5413 54 41
+mine Gosho 20683 32 94
+mine Arpajik 12010 9 100
+mine Gosho 8501 10 47
+mine Stamat 25327 7 18
+mine Domat 830 82 27
+mine Poncho 8800 84 94
+mine Stamat 28207 31 69
+mine Toncho 46209 25 74
+mine Toncho 26443 5 56
+mine Stamat 46193 79 0
+mine Toncho 31931 23 90
+mine Toncho 4701 43 57
+mine Poncho 35643 22 11
+mine Gosho 13236 49 16
+mine Arpajik 18838 81 1
+mine Poncho 19607 13 37
+mine Poncho 17917 68 66
+mine Zelka 25387 97 82
+mine Stamat 40756 52 29
+mine Poncho 47451 13 3
+mine Stamat 36678 75 15
+mine Domat 6591 45 53
+mine Pesho 44172 99 83
+mine Pesho 38505 8 36
+mine Arpajik 42812 97 46
+mine Zelka 38424 11 43
+mine Domat 20406 88 47
+mine Domat 9951 22 62
+mine Gosho 39039 88 20
+mine Domat 48314 67 80
+mine Poncho 7385 61 58
+mine Arpajik 7370 70 46
+mine Domat 7941 77 8
+mine Poncho 33216 61 37
+mine Arpajik 16296 42 29
+mine Stamat 49033 78 85
+mine Domat 18607 57 33
+mine Poncho 43442 72 55
+mine Stamat 8878 55 27
+mine Stamat 26720 91 59
+mine Domat 21465 72 59
+mine Zelka 6504 64 59
+mine Stamat 25500 58 31
+mine Arpajik 18841 55 93
+mine Gosho 38655 91 14
+mine Arpajik 18533 57 88
+mine Zelka 11225 90 80
+mine Pesho 17253 22 8
+mine Zelka 41576 59 82
+mine Gosho 9863 42 54
+mine Domat 49205 17 38
+mine Gosho 20501 1 81
+mine Domat 31262 90 38
+mine Arpajik 38338 2 33
+mine Toncho 42595 15 20
+mine Stamat 42040 48 82
+mine Gosho 24566 89 72
+mine Toncho 36561 67 16
+mine Gosho 18835 41 59
+mine Stamat 9383 59 2
+mine Stamat 4828 17 49
+mine Zelka 41870 47 65
+mine Toncho 12611 95 40
+mine Pesho 10773 31 89
+mine Arpajik 17156 9 80
+mine Arpajik 14456 2 90
+mine Poncho 36942 3 24
+mine Gosho 21357 13 68
+mine Gosho 6175 98 13
+mine Domat 49465 38 45
+mine Pesho 12491 89 54
+mine Toncho 13531 12 14
+mine Pesho 26160 9 87
+mine Pesho 39399 51 94
+mine Pesho 13597 53 70
+mine Toncho 10961 30 39
+mine Pesho 13996 14 93
+mine Stamat 8969 22 52
+mine Poncho 31590 77 26
+mine Zelka 24135 13 68
+mine Arpajik 44122 18 83
+mine Gosho 13334 57 48
+mine Arpajik 2386 6 40
+mine Zelka 34046 64 81
+mine Poncho 25517 41 50
+mine Stamat 9781 90 89
+mine Gosho 28218 90 47
+mine Pesho 12582 54 60
+mine Stamat 42632 9 94
+mine Pesho 23222 5 86
+mine Domat 32883 32 18
+mine Stamat 41078 7 28
+mine Poncho 48265 31 88
+mine Pesho 31239 55 42
+mine Poncho 14490 53 78
+mine Gosho 5240 46 36
+mine Arpajik 22849 25 60
+mine Arpajik 35487 76 49
+mine Zelka 27907 79 48
+mine Poncho 35876 76 48
+mine Arpajik 31055 48 5
+mine Poncho 33075 53 53
+mine Gosho 32869 95 75
+mine Poncho 13117 49 60
+mine Stamat 47833 68 67
+mine Arpajik 23075 68 28
+mine Stamat 40818 41 51
+mine Toncho 3505 54 26
+mine Arpajik 2257 28 75
+mine Domat 20566 41 85
+mine Poncho 36132 30 95
+mine Toncho 730 55 20
+mine Pesho 9467 28 93
+mine Pesho 4520 90 3
+mine Poncho 9875 85 12
+mine Stamat 767 69 23
+mine Pesho 34748 23 90
+mine Poncho 37339 97 79
+mine Arpajik 41862 74 85
+mine Stamat 36927 53 18
+mine Gosho 10403 44 65
+mine Toncho 30903 23 44
+mine Stamat 12003 80 43
+mine Arpajik 14262 60 92
+mine Pesho 3064 82 6
+mine Toncho 33038 22 32
+mine Stamat 24861 38 20
+mine Gosho 2871 87 20
+mine Domat 33307 86 4
+mine Arpajik 2333 45 50
+mine Zelka 39190 75 75
+mine Poncho 27296 23 26
+mine Stamat 41199 82 10
+mine Poncho 23258 39 60
+mine Poncho 6129 43 29
+mine Stamat 1265 9 8
+mine Gosho 30097 75 90
+mine Zelka 27773 35 99
+mine Arpajik 16542 59 0
+mine Poncho 23977 38 67
+mine Gosho 6151 95 53
+mine Stamat 38537 29 20
+mine Gosho 13127 6 45
+mine Arpajik 7766 26 45
+mine Domat 33801 38 34
+mine Toncho 16504 83 69
+mine Zelka 41748 49 58
+mine Poncho 19205 70 51
+mine Domat 38088 2 11
+mine Pesho 28042 84 60
+mine Gosho 27509 62 15
+mine Arpajik 44700 37 46
+mine Pesho 7161 31 23
+mine Pesho 1815 88 95
+mine Gosho 13569 5 40
+mine Gosho 35525 33 89
+mine Arpajik 27412 70 86
+mine Stamat 7297 38 13
+mine Toncho 39113 3 24
+mine Domat 34002 19 59
+mine Zelka 1490 51 74
+mine Pesho 23395 40 71
+mine Poncho 3760 83 80
+mine Arpajik 21934 32 60
+mine Stamat 36555 59 96
+mine Stamat 25678 32 93
+mine Toncho 8851 40 32
+mine Pesho 32040 24 61
+mine Pesho 22992 93 25
+mine Stamat 29897 81 9
+mine Stamat 49783 97 6
+mine Gosho 29054 62 39
+mine Zelka 21459 2 98
+mine Pesho 11616 40 96
+mine Domat 29201 96 90
+mine Pesho 4183 70 24
+mine Toncho 11172 71 5
+mine Arpajik 3068 40 62
+mine Poncho 24740 81 19
+mine Arpajik 13013 61 18
+mine Arpajik 49953 85 58
+mine Arpajik 12748 52 86
+mine Pesho 49145 54 62
+mine Domat 46146 3 6
+mine Gosho 36551 22 9
+mine Toncho 28306 89 41
+mine Pesho 19892 7 59
+mine Zelka 10150 41 45
+mine Poncho 39151 34 7
+mine Stamat 6260 62 59
+mine Domat 42807 99 52
+mine Arpajik 39103 99 100
+mine Zelka 37377 90 81
+mine Pesho 25695 32 100
+mine Pesho 22170 55 22
+mine Stamat 46227 43 86
+mine Arpajik 4842 64 85
+mine Arpajik 47517 82 16
+mine Pesho 31667 39 1
+mine Arpajik 18676 89 25
+mine Zelka 3722 13 68
+mine Gosho 30097 41 46
+mine Zelka 17418 96 79
+mine Arpajik 19813 40 78
+mine Zelka 6591 94 42
+mine Stamat 7166 41 52
+mine Poncho 36626 70 41
+mine Stamat 14940 42 73
+mine Arpajik 14983 81 11
+mine Toncho 37672 56 97
+mine Domat 8937 38 23
+mine Poncho 1948 59 72
+mine Stamat 30321 59 44
+mine Zelka 23509 11 26
+mine Domat 30123 75 57
+mine Poncho 23 34 17
+mine Poncho 11788 24 28
+mine Arpajik 14066 97 67
+mine Arpajik 48996 73 97
+mine Toncho 8501 54 88
+mine Stamat 49207 17 52
+mine Domat 48657 31 8
+mine Stamat 27651 45 20
+mine Poncho 49381 7 69
+mine Toncho 10363 31 75
+mine Toncho 15605 14 96
+mine Domat 45793 86 44
+mine Domat 7224 50 50
+mine Pesho 43834 43 92
+mine Toncho 40834 46 96
+mine Poncho 7680 9 2
+mine Toncho 38992 67 59
+mine Poncho 2079 12 56
+mine Toncho 39570 8 83
+mine Toncho 10755 89 80
+mine Pesho 43143 34 4
+mine Pesho 47440 14 12
+mine Arpajik 7354 86 2
+mine Domat 17196 82 65
+mine Stamat 5434 12 85
+mine Stamat 14078 53 70
+mine Pesho 47012 63 27
+mine Toncho 29873 7 62
+mine Poncho 33306 85 6
+mine Toncho 1838 97 89
+mine Domat 27835 3 77
+mine Stamat 4701 81 52
+mine Poncho 21433 60 74
+mine Pesho 2269 55 83
+mine Gosho 32265 3 11
+mine Gosho 43084 32 97
+mine Pesho 12192 11 8
+mine Zelka 37653 84 19
+mine Stamat 11780 21 68
+mine Gosho 38192 52 93
+mine Stamat 5452 30 37
+mine Poncho 16487 52 88
+mine Pesho 1562 73 16
+mine Pesho 42868 57 79
+mine Stamat 3207 69 94
+mine Poncho 36530 4 22
+mine Arpajik 20655 60 86
+mine Toncho 43601 57 57
+mine Stamat 4654 98 21
+mine Arpajik 47524 96 75
+mine Domat 11147 96 46
+mine Pesho 33680 18 28
+mine Domat 20952 45 19
+mine Pesho 28823 93 40
+mine Pesho 4006 78 58
+mine Domat 33121 4 24
+mine Zelka 8244 4 92
+mine Toncho 18010 22 28
+mine Pesho 47117 22 77
+mine Toncho 28763 20 92
+mine Stamat 16192 19 42
+mine Zelka 18886 49 55
+mine Stamat 29354 14 48
+mine Stamat 19358 3 6
+mine Stamat 36506 99 86
+mine Domat 12857 41 31
+mine Stamat 8066 10 13
+mine Gosho 8444 64 50
+mine Poncho 43195 35 40
+mine Zelka 30577 81 8
+mine Domat 24070 76 28
+mine Stamat 37012 12 71
+mine Poncho 7772 58 3
+mine Arpajik 17250 28 98
+mine Poncho 44202 23 26
+mine Gosho 18122 20 99
+mine Poncho 31596 60 30
+mine Pesho 30921 59 58
+mine Poncho 45510 19 15
+mine Zelka 6139 8 46
+mine Pesho 19307 21 20
+mine Arpajik 30304 92 54
+mine Arpajik 18311 49 59
+mine Zelka 27510 80 31
+mine Gosho 38965 34 60
+mine Stamat 40448 66 30
+mine Arpajik 315 12 67
+mine Stamat 6027 49 80
+mine Toncho 38478 22 90
+mine Stamat 49396 40 34
+mine Domat 3316 72 68
+mine Stamat 99 19 36
+mine Pesho 43804 87 71
+mine Toncho 24167 32 23
+mine Domat 45371 64 58
+mine Zelka 12533 38 47
+mine Poncho 34643 78 62
+mine Gosho 45273 16 30
+mine Zelka 49554 88 7
+mine Pesho 49541 17 56
+mine Toncho 37456 56 28
+mine Gosho 38711 1 32
+mine Zelka 49035 18 24
+mine Gosho 40928 85 46
+mine Domat 12727 79 44
+mine Stamat 28782 4 20
+mine Domat 28419 33 80
+mine Arpajik 12286 15 73
+mine Domat 3728 76 74
+mine Domat 4491 22 10
+mine Domat 23049 17 35
+mine Domat 45576 95 56
+mine Stamat 21181 38 84
+mine Stamat 36579 35 24
+mine Domat 17960 56 69
+mine Zelka 10439 72 20
+mine Toncho 22427 51 27
+mine Pesho 5537 77 60
+mine Pesho 34568 75 76
+mine Zelka 34087 47 81
+mine Arpajik 38537 66 17
+mine Toncho 15700 53 0
+mine Domat 26268 3 33
+mine Arpajik 26525 66 48
+mine Domat 47918 52 28
+mine Zelka 33841 51 2
+mine Domat 38923 79 50
+mine Poncho 29307 82 3
+mine Poncho 37813 7 67
+mine Arpajik 27363 34 52
+mine Poncho 25152 54 53
+mine Pesho 22110 8 51
+mine Pesho 13672 2 45
+mine Stamat 9731 41 94
+mine Gosho 31540 52 8
+mine Arpajik 1569 3 14
+mine Domat 49618 45 77
+mine Zelka 49613 92 19
+mine Arpajik 40 37 90
+mine Stamat 49007 94 21
+mine Domat 14169 48 71
+mine Arpajik 18738 87 69
+mine Gosho 6305 41 92
+mine Pesho 12690 99 89
+mine Zelka 20049 83 9
+mine Poncho 15400 5 3
+mine Gosho 41444 83 16
+mine Toncho 25225 80 28
+mine Domat 15700 39 23
+mine Arpajik 15957 58 32
+mine Pesho 37728 42 34
+mine Arpajik 430 17 36
+mine Pesho 24133 42 73
+mine Stamat 42554 22 39
+mine Stamat 21955 36 74
+mine Arpajik 35486 86 85
+mine Gosho 6306 23 71
+mine Toncho 38048 33 16
+mine Toncho 25412 97 24
+mine Poncho 35395 45 34
+mine Domat 23563 16 34
+mine Pesho 3845 14 84
+mine Pesho 49578 99 11
+mine Poncho 42023 78 41
+mine Poncho 28537 2 46
+mine Toncho 22888 50 24
+mine Stamat 13207 90 64
+mine Poncho 48465 50 53
+mine Poncho 1211 8 6
+mine Arpajik 25730 76 24
+mine Poncho 19767 61 88
+mine Toncho 10447 20 99
+mine Domat 27995 35 32
+mine Domat 49717 56 20
+mine Poncho 45853 19 82
+mine Stamat 24593 95 13
+mine Zelka 23506 13 94
+mine Toncho 35751 86 38
+mine Toncho 38944 46 38
+mine Toncho 30914 48 95
+mine Pesho 46246 91 32
+mine Arpajik 9169 84 100
+mine Zelka 43604 10 64
+mine Gosho 47367 8 50
+mine Zelka 23764 39 29
+mine Pesho 13315 22 1
+mine Domat 48523 51 91
+mine Arpajik 8932 36 36
+mine Zelka 12136 75 24
+mine Arpajik 31828 51 30
+mine Domat 6874 47 90
+mine Arpajik 11328 6 86
+mine Domat 48165 94 37
+mine Stamat 9462 87 80
+mine Domat 45297 62 65
+mine Domat 46632 46 28
+mine Arpajik 36733 20 8
+mine Stamat 41391 92 81
+mine Poncho 4176 66 95
+mine Toncho 16275 39 47
+mine Poncho 32778 21 57
+mine Stamat 48955 13 24
+mine Gosho 47813 54 67
+mine Pesho 43155 63 70
+mine Domat 9209 38 89
+mine Pesho 48634 66 88
+mine Pesho 7021 41 14
+mine Arpajik 46374 1 38
+mine Arpajik 7375 73 1
+mine Domat 44823 5 54
+mine Arpajik 47491 71 23
+mine Gosho 12774 78 10
+mine Zelka 48344 27 61
+mine Poncho 24959 44 95
+mine Poncho 16153 53 9
+mine Arpajik 49090 72 45
+mine Poncho 7808 15 87
+mine Stamat 31089 96 78
+mine Stamat 41750 28 8
+mine Gosho 21377 59 79
+mine Gosho 15617 70 56
+mine Domat 19433 43 1
+mine Domat 39502 3 41
+mine Gosho 47697 97 63
+mine Stamat 13057 28 13
+mine Pesho 45877 97 83
+mine Pesho 24431 48 11
+mine Stamat 18199 68 56
+mine Domat 37307 74 25
+mine Gosho 8061 78 57
+mine Domat 6588 17 34
+mine Arpajik 27891 41 18
+mine Toncho 32823 85 0
+mine Stamat 22720 68 44
+mine Gosho 43607 56 17
+mine Poncho 15687 80 34
+mine Pesho 22995 67 62
+mine Stamat 35863 34 6
+mine Zelka 35772 41 98
+mine Toncho 31513 23 44
+mine Pesho 14851 26 56
+mine Arpajik 33727 42 28
+mine Pesho 15225 91 41
+mine Arpajik 30676 65 41
+mine Gosho 41233 23 14
+mine Poncho 39421 96 14
+mine Gosho 39142 53 43
+mine Pesho 35285 68 71
+mine Domat 5713 10 62
+mine Pesho 12016 82 44
+mine Pesho 19651 55 91
+mine Toncho 46495 46 87
+mine Pesho 49782 64 93
+mine Zelka 4431 56 29
+mine Gosho 5381 25 73
+mine Stamat 49379 24 36
+mine Arpajik 10007 76 49
+mine Arpajik 2085 35 9
+mine Poncho 39541 10 49
+mine Stamat 2992 34 38
+mine Gosho 33323 37 5
+mine Pesho 37777 31 56
+mine Arpajik 40185 29 96
+mine Poncho 4800 29 5
+mine Stamat 9576 29 61
+mine Stamat 48780 34 1
+mine Domat 27629 93 61
+mine Poncho 3361 6 27
+mine Toncho 43049 41 48
+mine Arpajik 9148 30 87
+mine Poncho 10527 93 72
+mine Toncho 19957 10 91
+mine Zelka 2093 33 4
+mine Toncho 36800 22 34
+mine Gosho 17607 41 51
+mine Toncho 34921 56 49
+mine Domat 787 19 13
+mine Domat 40564 44 98
+mine Poncho 21118 71 96
+mine Pesho 31303 26 24
+mine Zelka 1402 12 95
+mine Domat 612 50 3
+mine Domat 3476 16 26
+mine Toncho 39408 4 19
+mine Domat 22279 96 74
+mine Stamat 48127 22 69
+mine Arpajik 17802 15 35
+mine Pesho 13466 30 70
+mine Pesho 8124 6 80
+mine Arpajik 30689 75 74
+mine Arpajik 7753 49 62
+mine Domat 8609 20 10
+mine Zelka 26133 31 60
+mine Domat 26012 4 49
+mine Toncho 21150 35 38
+mine Toncho 7339 1 37
+mine Toncho 22852 18 61
+mine Domat 12118 60 3
+mine Domat 11581 22 5
+mine Zelka 30202 4 43
+mine Stamat 2301 96 50
+mine Poncho 35216 4 57
+mine Stamat 27971 98 16
+mine Gosho 18724 87 37
+mine Stamat 6222 84 20
+mine Poncho 29347 37 14
+mine Poncho 13669 90 43
+mine Gosho 48658 3 20
+mine Zelka 45667 23 82
+mine Stamat 25525 41 6
+mine Zelka 30185 48 17
+mine Gosho 22057 76 32
+mine Gosho 42496 91 34
+mine Toncho 41686 44 57
+mine Domat 41353 58 69
+mine Toncho 30660 27 15
+mine Arpajik 39096 77 35
+mine Stamat 2929 20 64
+mine Domat 39049 78 39
+mine Pesho 9759 88 48
+mine Arpajik 29310 7 45
+mine Pesho 34099 45 56
+mine Zelka 32720 14 35
+mine Poncho 35833 27 81
+mine Gosho 16212 64 47
+mine Domat 20495 17 30
+mine Domat 13862 62 98
+mine Pesho 2015 46 48
+mine Poncho 5231 18 21
+mine Arpajik 41212 10 85
+mine Gosho 10838 87 50
+mine Poncho 42019 70 0
+mine Arpajik 48892 7 78
+mine Arpajik 20637 81 9
+mine Zelka 38536 79 79
+mine Pesho 23473 50 44
+mine Stamat 32956 41 83
+mine Arpajik 2506 26 51
+mine Stamat 39498 14 45
+mine Arpajik 33473 38 82
+mine Arpajik 31234 46 7
+mine Poncho 34178 92 53
+mine Gosho 4111 79 78
+mine Pesho 15690 79 87
+mine Domat 21864 31 26
+mine Zelka 44056 47 47
+mine Domat 27794 55 77
+mine Gosho 17893 56 75
+mine Zelka 48710 21 43
+mine Pesho 21530 46 51
+mine Domat 44102 53 45
+mine Gosho 24354 47 92
+mine Poncho 13628 74 9
+mine Gosho 6016 39 69
+mine Stamat 49707 36 42
+mine Stamat 8160 26 94
+mine Arpajik 2200 38 5
+mine Pesho 18209 85 28
+mine Poncho 39987 53 55
+mine Gosho 616 21 23
+mine Pesho 32018 77 0
+mine Arpajik 23399 39 27
+mine Arpajik 26090 27 1
+mine Pesho 1980 38 57
+mine Domat 29545 93 21
+mine Pesho 20736 81 63
+mine Zelka 22870 12 56
+mine Arpajik 41988 34 14
+mine Toncho 6287 34 49
+mine Zelka 12586 32 4
+mine Domat 5593 47 58
+mine Pesho 42110 21 94
+mine Zelka 47927 92 76
+mine Pesho 49951 13 67
+mine Toncho 6950 59 16
+mine Gosho 41212 68 75
+mine Stamat 6282 23 95
+mine Domat 44352 18 38
+mine Gosho 44320 55 100
+mine Poncho 11574 54 57
+mine Gosho 9203 14 64
+mine Poncho 28835 7 79
+mine Poncho 33601 66 25
+mine Domat 7869 70 84
+mine Zelka 36245 40 97
+mine Arpajik 12937 24 54
+mine Toncho 27153 49 19
+mine Zelka 6645 72 60
+mine Arpajik 638 91 16
+mine Domat 2163 82 61
+mine Pesho 22345 94 2
+mine Stamat 46004 71 11
+mine Stamat 36143 56 21
+mine Toncho 28607 96 100
+mine Poncho 30210 85 38
+mine Pesho 44010 34 87
+mine Poncho 3162 65 65
+mine Stamat 26940 15 39
+mine Poncho 39453 91 16
+mine Gosho 10408 31 87
+mine Toncho 18741 1 72
+mine Arpajik 25351 76 2
+mine Pesho 46000 22 8
+mine Stamat 22477 52 17
+mine Pesho 4078 9 16
+mine Gosho 2921 86 65
+mine Arpajik 8381 32 4
+mine Domat 39924 68 74
+mine Gosho 49366 54 71
+mine Toncho 30977 29 44
+mine Gosho 31292 60 32
+mine Gosho 3418 20 45
+mine Gosho 36781 6 23
+mine Stamat 7328 60 78
+mine Arpajik 18010 15 41
+mine Stamat 35792 37 25
+mine Stamat 23799 78 20
+mine Poncho 40363 30 49
+mine Toncho 32031 86 64
+mine Zelka 27132 32 51
+mine Poncho 43555 77 93
+mine Domat 22631 61 14
+mine Zelka 38579 21 51
+mine Zelka 44303 26 59
+mine Gosho 17534 9 85
+mine Gosho 49667 54 46
+mine Zelka 28539 44 49
+mine Gosho 47886 32 97
+mine Pesho 32002 44 31
+mine Poncho 22071 51 79
+mine Toncho 31864 81 13
+mine Arpajik 39320 2 91
+mine Zelka 13835 38 10
+mine Zelka 23751 23 98
+mine Gosho 15747 49 17
+mine Pesho 6281 86 43
+mine Zelka 12132 48 84
+mine Zelka 46831 64 82
+mine Toncho 15051 98 65
+mine Stamat 20571 86 65
+mine Arpajik 26848 10 0
+mine Arpajik 10609 51 56
+mine Zelka 23088 98 63
+mine Poncho 17043 77 74
+mine Toncho 19176 68 36
+mine Gosho 9022 45 45
+mine Domat 28196 27 15
+mine Zelka 28870 79 92
+mine Zelka 42113 61 48
+mine Pesho 42775 85 24
+mine Domat 45670 42 99
+mine Poncho 1122 86 50
+mine Arpajik 12272 87 80
+mine Domat 25130 34 38
+mine Pesho 32389 38 1
+mine Poncho 17682 8 84
+mine Domat 3691 17 10
+mine Domat 14867 71 92
+mine Arpajik 21846 62 40
+mine Toncho 23374 50 61
+mine Domat 38332 63 24
+mine Domat 178 19 96
+mine Arpajik 11808 39 38
+mine Zelka 42143 30 38
+mine Toncho 28844 32 88
+mine Toncho 37910 77 23
+mine Arpajik 47677 27 29
+mine Poncho 47087 61 62
+mine Stamat 38484 32 18
+mine Domat 41268 14 66
+mine Poncho 10929 60 49
+mine Poncho 16620 44 69
+mine Stamat 12148 55 18
+mine Stamat 31517 75 94
+mine Poncho 19814 71 75
+mine Domat 44354 8 56
+mine Arpajik 38900 24 71
+mine Arpajik 5760 65 1
+mine Zelka 33128 98 64
+mine Stamat 13953 33 20
+mine Arpajik 29052 16 64
+mine Zelka 21267 47 51
+mine Pesho 18806 19 33
+mine Pesho 19098 92 0
+mine Stamat 2124 86 12
+mine Pesho 36609 16 2
+mine Arpajik 26903 74 48
+mine Domat 6074 78 72
+mine Pesho 25512 24 15
+mine Domat 21840 18 20
+mine Gosho 36070 69 15
+mine Poncho 16161 90 6
+mine Domat 48927 49 11
+mine Zelka 10008 11 78
+mine Zelka 6373 5 85
+mine Domat 49426 86 90
+mine Arpajik 23379 26 60
+mine Stamat 38335 27 71
+mine Toncho 33500 82 37
+mine Pesho 305 10 26
+mine Domat 34164 74 67
+mine Domat 33717 31 87
+mine Zelka 22896 73 61
+mine Zelka 16300 52 32
+mine Toncho 40056 56 46
+mine Pesho 15001 91 98
+mine Domat 38934 25 74
+mine Zelka 36414 74 42
+mine Pesho 39045 22 100
+mine Stamat 9819 26 92
+mine Stamat 19543 20 69
+mine Pesho 33261 32 54
+mine Stamat 24990 52 23
+mine Zelka 31608 21 33
+mine Toncho 38480 96 86
+mine Zelka 28251 49 68
+mine Domat 15773 57 61
+mine Pesho 25970 8 66
+mine Arpajik 32226 30 67
+mine Pesho 11632 93 4
+mine Zelka 35109 59 89
+mine Stamat 25279 97 40
+mine Arpajik 43964 24 48
+mine Stamat 20216 49 60
+mine Poncho 25976 97 72
+mine Pesho 35498 43 63
+mine Zelka 43049 69 80
+mine Gosho 26579 23 53
+mine Toncho 45956 40 73
+mine Poncho 30334 47 21
+mine Gosho 8697 4 23
+mine Gosho 29818 43 13
+mine Stamat 35245 77 58
+mine Gosho 11026 95 75
+mine Gosho 47727 46 35
+mine Toncho 8566 7 4
+mine Domat 34976 64 31
+mine Pesho 37856 62 29
+mine Pesho 38016 38 92
+mine Domat 9851 35 83
+mine Zelka 27881 64 63
+mine Toncho 32435 27 61
+mine Poncho 32286 46 2
+mine Stamat 6135 40 17
+mine Pesho 49273 58 59
+mine Poncho 5444 13 40
+mine Pesho 23668 53 50
+mine Toncho 1666 8 7
+mine Arpajik 31203 91 25
+mine Arpajik 22178 29 100
+mine Zelka 1784 35 36
+mine Gosho 29856 15 93
+mine Gosho 10150 81 69
+mine Arpajik 37941 88 33
+mine Zelka 12004 54 29
+mine Pesho 38389 76 94
+mine Arpajik 19019 42 53
+mine Stamat 7324 64 66
+mine Domat 29334 16 92
+mine Toncho 38264 10 49
+mine Gosho 30315 14 64
+mine Stamat 18910 46 85
+mine Domat 29148 82 29
+mine Poncho 49729 88 66
+mine Gosho 20630 79 93
+mine Stamat 30792 71 21
+mine Arpajik 7583 99 2
+mine Arpajik 48257 57 67
+mine Stamat 2610 95 51
+mine Domat 6109 71 19
+mine Poncho 28248 78 63
+mine Gosho 17658 76 71
+mine Domat 24826 64 35
+mine Poncho 8986 31 72
+mine Poncho 46333 9 6
+mine Zelka 21935 25 78
+mine Pesho 7997 15 85
+mine Pesho 18720 4 15
+mine Domat 29618 1 62
+mine Toncho 4287 89 20
+mine Zelka 14193 32 10
+mine Gosho 10863 69 96
+mine Domat 12288 62 70
+mine Pesho 32278 81 48
+mine Gosho 252 61 16
+mine Stamat 45348 67 33
+mine Zelka 24751 65 38
+mine Stamat 34375 88 81
+mine Pesho 43737 67 10
+mine Pesho 7225 46 80
+mine Zelka 9501 11 79
+mine Toncho 16759 11 5
+mine Toncho 26315 30 83
+mine Zelka 36447 1 49
+mine Arpajik 49637 64 83
+mine Arpajik 15148 78 5
+mine Gosho 40598 66 16
+mine Poncho 35302 36 17
+mine Arpajik 40639 69 1
+mine Toncho 44140 57 12
+mine Zelka 29896 60 65
+mine Zelka 2745 33 30
+mine Toncho 9416 49 12
+mine Arpajik 31567 24 17
+mine Zelka 2238 43 95
+mine Domat 47160 9 7
+mine Stamat 6488 28 66
+mine Pesho 49532 68 73
+mine Zelka 25820 44 97
+mine Domat 6755 67 31
+mine Zelka 17954 30 78
+mine Stamat 11831 67 92
+mine Arpajik 26015 61 76
+mine Zelka 31362 46 44
+mine Arpajik 26204 48 25
+mine Toncho 33579 27 88
+mine Arpajik 38130 70 99
+mine Stamat 13208 47 27
+mine Gosho 5813 47 31
+mine Domat 15002 86 93
+mine Zelka 18166 8 52
+mine Zelka 46292 27 80
+mine Pesho 49836 45 17
+mine Domat 20858 53 81
+mine Pesho 20725 28 45
+mine Arpajik 34227 72 31
+mine Pesho 16847 39 34
+mine Stamat 7250 79 21
+mine Domat 27748 79 41
+mine Arpajik 37426 50 58
+mine Zelka 45511 92 19
+mine Toncho 14508 62 96
+mine Arpajik 32845 22 23
+mine Pesho 20528 40 78
+mine Domat 38251 47 4
+mine Arpajik 46511 63 92
+mine Stamat 11866 52 9
+mine Arpajik 6074 22 34
+mine Poncho 34958 96 62
+mine Toncho 26496 50 76
+mine Domat 21622 76 51
+mine Poncho 28025 20 25
+mine Stamat 1055 77 83
+mine Gosho 22545 4 56
+mine Gosho 488 99 57
+mine Toncho 26145 34 46
+mine Zelka 43779 32 32
+mine Zelka 38651 2 10
+mine Gosho 35196 33 10
+mine Stamat 6297 98 64
+mine Pesho 13256 93 60
+mine Gosho 19575 7 47
+mine Domat 19989 35 75
+mine Arpajik 46534 98 19
+mine Pesho 14867 7 5
+mine Stamat 43508 80 38
+mine Pesho 33233 56 58
+mine Pesho 46633 39 15
+mine Pesho 17545 53 51
+mine Arpajik 36688 12 4
+mine Toncho 42502 66 5
+mine Zelka 13306 57 33
+mine Domat 6686 1 88
+mine Pesho 46951 40 17
+mine Zelka 27553 59 69
+mine Toncho 24131 35 73
+mine Pesho 9533 73 18
+mine Zelka 23966 61 36
+mine Stamat 881 24 39
+mine Stamat 37558 95 74
+mine Pesho 11776 86 99
+mine Poncho 25744 10 8
+mine Poncho 17802 5 3
+mine Stamat 21488 22 33
+mine Arpajik 46814 4 24
+mine Arpajik 19247 92 23
+mine Arpajik 32123 69 4
+mine Domat 195 96 71
+mine Arpajik 42761 59 59
+mine Arpajik 17772 80 50
+mine Pesho 32396 24 4
+mine Zelka 28722 23 76
+mine Toncho 45198 88 27
+mine Domat 35911 21 71
+mine Gosho 31315 46 28
+mine Toncho 2510 38 95
+mine Zelka 16609 44 28
+mine Toncho 31561 71 15
+mine Stamat 27191 14 89
+mine Stamat 44209 80 95
+mine Zelka 46786 25 80
+mine Pesho 34827 1 88
+mine Domat 44089 29 100
+mine Poncho 25980 67 4
+mine Gosho 14202 65 10
+mine Stamat 47082 91 16
+mine Stamat 36872 14 16
+mine Arpajik 15669 56 42
+mine Toncho 25690 86 89
+mine Toncho 28946 83 69
+mine Gosho 28220 63 96
+mine Gosho 35917 26 62
+mine Toncho 4658 62 87
+mine Stamat 34993 81 47
+mine Pesho 4118 61 38
+mine Arpajik 41662 30 34
+mine Gosho 43086 17 38
+mine Domat 39097 25 69
+mine Zelka 48163 77 57
+mine Gosho 47844 81 47
+mine Zelka 26087 30 48
+mine Domat 34451 20 12
+mine Domat 19545 86 72
+mine Poncho 22735 14 50
+mine Gosho 14586 63 49
+mine Arpajik 44071 96 9
+mine Toncho 46414 42 26
+mine Poncho 12326 17 6
+mine Gosho 6674 90 3
+mine Arpajik 40714 64 64
+mine Domat 2245 68 26
+mine Poncho 26167 72 100
+mine Toncho 13659 31 1
+mine Gosho 16600 92 60
+mine Arpajik 10199 63 77
+mine Gosho 46437 20 45
+mine Stamat 40198 46 84
+mine Arpajik 4687 95 45
+mine Domat 49832 81 50
+mine Stamat 34899 18 32
+mine Stamat 21037 43 66
+mine Poncho 7296 74 94
+mine Stamat 15159 48 33
+mine Stamat 43965 37 74
+mine Toncho 11445 4 11
+mine Pesho 44041 44 74
+mine Gosho 42611 37 33
+mine Arpajik 21028 40 87
+mine Pesho 15493 56 85
+mine Zelka 26999 51 8
+mine Pesho 26149 63 25
+mine Arpajik 31262 27 77
+mine Domat 3924 65 98
+mine Domat 3351 26 33
+mine Poncho 34843 34 9
+mine Toncho 20621 42 79
+mine Poncho 30731 31 87
+mine Gosho 25620 25 31
+mine Domat 47806 5 54
+mine Gosho 9506 12 69
+mine Arpajik 30251 69 44
+mine Toncho 21149 20 96
+mine Pesho 11418 87 80
+mine Stamat 20890 31 65
+mine Pesho 42059 35 0
+mine Gosho 20183 45 12
+mine Toncho 17276 25 71
+mine Pesho 35688 8 79
+mine Arpajik 32679 51 17
+mine Domat 49128 3 48
+mine Zelka 17368 81 9
+mine Domat 22336 12 30
+mine Domat 19715 44 41
+mine Toncho 5976 37 17
+mine Stamat 28719 60 42
+mine Stamat 24807 93 34
+mine Stamat 4157 22 54
+mine Poncho 6899 93 12
+mine Toncho 42952 59 98
+mine Arpajik 17522 48 39
+mine Stamat 47461 6 63
+mine Gosho 33339 94 46
+mine Gosho 16755 1 14
+mine Zelka 30114 32 92
+mine Zelka 23966 94 56
+mine Stamat 28342 40 51
+mine Zelka 15900 59 99
+mine Arpajik 19995 59 81
+mine Pesho 10730 19 22
+mine Zelka 15602 7 48
+mine Stamat 38285 26 57
+mine Stamat 39529 74 21
+mine Arpajik 33571 56 10
+mine Zelka 46156 17 67
+mine Arpajik 27220 17 96
+mine Pesho 47766 92 89
+mine Domat 9914 5 16
+mine Zelka 4592 48 9
+mine Zelka 22911 42 46
+mine Gosho 41209 38 67
+mine Arpajik 18758 44 86
+mine Toncho 24122 40 17
+mine Pesho 25929 67 90
+mine Stamat 5414 41 18
+mine Toncho 18902 82 94
+mine Domat 28759 80 45
+mine Stamat 23279 69 95
+mine Arpajik 35172 36 73
+mine Stamat 24829 38 70
+mine Arpajik 3273 5 26
+mine Toncho 43901 12 90
+mine Zelka 29043 95 31
+mine Pesho 11572 62 93
+mine Poncho 22515 92 0
+mine Arpajik 49419 66 37
+mine Toncho 22644 66 35
+mine Stamat 46968 73 65
+mine Domat 35461 67 78
+mine Gosho 28147 14 87
+mine Zelka 45115 3 61
+mine Arpajik 19243 90 27
+mine Pesho 21715 73 71
+mine Arpajik 18872 13 53
+mine Zelka 33654 47 34
+mine Stamat 38265 74 48
+mine Toncho 15085 58 34
+mine Arpajik 42171 59 43
+mine Gosho 3243 54 67
+mine Poncho 2557 85 40
+mine Arpajik 19469 27 72
+mine Stamat 1043 9 35
+mine Arpajik 7336 38 66
+mine Pesho 39620 65 70
+mine Stamat 27311 76 21
+mine Toncho 28041 71 24
+mine Toncho 14795 40 50
+mine Toncho 22607 57 35
+mine Toncho 3337 79 83
+mine Arpajik 926 28 83
+mine Stamat 11295 75 41
+mine Zelka 46760 35 52
+mine Zelka 42221 51 41
+mine Gosho 32218 60 100
+mine Domat 1111 88 92
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
+skip
