@@ -69,7 +69,7 @@ public class Scoreboard : IScoreboard
             return null;
         }
 
-        return _games[game].Take(10);
+        return _games[game].Take(_maxEntriesToKeep);
     }
 
     public bool DeleteGame(string game, string gamePassword)
