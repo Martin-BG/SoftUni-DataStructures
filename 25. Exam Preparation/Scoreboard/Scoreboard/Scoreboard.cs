@@ -17,7 +17,8 @@ public class Scoreboard : IScoreboard
         _maxEntriesToKeep = maxEntriesToKeep;
         _usersPaswords = new Dictionary<string, string>();
         _gamesPaswords = new Dictionary<string, string>();
-        _games = new OrderedDictionary<string, OrderedBag<ScoreboardEntry>>(string.CompareOrdinal);
+        _games = new OrderedDictionary<string, 
+            OrderedBag<ScoreboardEntry>>(string.CompareOrdinal);
     }
 
     public bool RegisterUser(string username, string password)
@@ -46,7 +47,7 @@ public class Scoreboard : IScoreboard
         return true;
     }
 
-    public bool AddScore(string username, string userPassword, 
+    public bool AddScore(string username, string userPassword,
         string game, string gamePassword, int score)
     {
         if (!_usersPaswords.ContainsKey(username)
@@ -59,6 +60,11 @@ public class Scoreboard : IScoreboard
 
         _games[game].Add(new ScoreboardEntry(username, score));
 
+        while (_games[game].Count > _maxEntriesToKeep)
+        {
+            _games[game].RemoveLast();
+        }
+
         return true;
     }
 
@@ -69,12 +75,12 @@ public class Scoreboard : IScoreboard
             return null;
         }
 
-        return _games[game].Take(10);
+        return _games[game].Take(_maxEntriesToKeep);
     }
 
     public bool DeleteGame(string game, string gamePassword)
     {
-        if (!_gamesPaswords.ContainsKey(game) 
+        if (!_gamesPaswords.ContainsKey(game)
             || !_gamesPaswords[game].Equals(gamePassword))
         {
             return false;
@@ -90,6 +96,7 @@ public class Scoreboard : IScoreboard
     {
         var upperBound = gameNamePrefix + char.MaxValue;
         var gamesWithPrefix = _games.Range(gameNamePrefix, true, upperBound, false);
+
         return gamesWithPrefix.Take(_maxEntriesToKeep).Select(e => e.Key);
     }
 }
