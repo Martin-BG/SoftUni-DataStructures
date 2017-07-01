@@ -1,0 +1,3 @@
+Gosho 0 7
+Poncho 24 270
+Pesho 23 397
